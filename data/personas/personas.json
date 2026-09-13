@@ -566,8 +566,9 @@
       "max_consecutive_no_response": 1,
       "current_consecutive_no_response": 0
     },
-    "expected_ai_label": "정상",
-    "expected_rationale_example": "최근 7일 응답률 100%로 유지"
+    "expected_ai_label": null,
+    "expected_rationale_example": null,
+    "case_history": []
   },
   {
     "persona_id": "P02",
@@ -1136,8 +1137,9 @@
       "max_consecutive_no_response": 1,
       "current_consecutive_no_response": 0
     },
-    "expected_ai_label": "정상",
-    "expected_rationale_example": "최근 7일 응답률 100%→86%로 감소"
+    "expected_ai_label": null,
+    "expected_rationale_example": null,
+    "case_history": []
   },
   {
     "persona_id": "P03",
@@ -1706,8 +1708,9 @@
       "max_consecutive_no_response": 2,
       "current_consecutive_no_response": 0
     },
-    "expected_ai_label": "정상",
-    "expected_rationale_example": "최근 7일 응답률 71%로 유지"
+    "expected_ai_label": null,
+    "expected_rationale_example": null,
+    "case_history": []
   },
   {
     "persona_id": "P04",
@@ -2276,8 +2279,9 @@
       "max_consecutive_no_response": 1,
       "current_consecutive_no_response": 0
     },
-    "expected_ai_label": "정상",
-    "expected_rationale_example": "최근 7일 응답률 100%→86%로 감소"
+    "expected_ai_label": null,
+    "expected_rationale_example": null,
+    "case_history": []
   },
   {
     "persona_id": "P05",
@@ -2846,8 +2850,9 @@
       "max_consecutive_no_response": 9,
       "current_consecutive_no_response": 9
     },
-    "expected_ai_label": "훼손 의심",
-    "expected_rationale_example": "최근 7일 응답률 14%→0%로 감소, 9일 연속 미응답"
+    "expected_ai_label": null,
+    "expected_rationale_example": null,
+    "case_history": []
   },
   {
     "persona_id": "P06",
@@ -3416,8 +3421,9 @@
       "max_consecutive_no_response": 4,
       "current_consecutive_no_response": 1
     },
-    "expected_ai_label": "관심 필요",
-    "expected_rationale_example": "최근 7일 응답률 43%→57%로 증가"
+    "expected_ai_label": null,
+    "expected_rationale_example": null,
+    "case_history": []
   },
   {
     "persona_id": "P07",
@@ -3986,8 +3992,9 @@
       "max_consecutive_no_response": 4,
       "current_consecutive_no_response": 2
     },
-    "expected_ai_label": "관심 필요",
-    "expected_rationale_example": "최근 7일 응답률 29%→57%로 증가, 2일 연속 미응답"
+    "expected_ai_label": null,
+    "expected_rationale_example": null,
+    "case_history": []
   },
   {
     "persona_id": "P08",
@@ -4556,8 +4563,9 @@
       "max_consecutive_no_response": 5,
       "current_consecutive_no_response": 5
     },
-    "expected_ai_label": "훼손 의심",
-    "expected_rationale_example": "최근 7일 응답률 29%로 유지, 5일 연속 미응답"
+    "expected_ai_label": null,
+    "expected_rationale_example": null,
+    "case_history": []
   },
   {
     "persona_id": "P09",
@@ -5126,8 +5134,9 @@
       "max_consecutive_no_response": 7,
       "current_consecutive_no_response": 0
     },
-    "expected_ai_label": "관심 필요",
-    "expected_rationale_example": "최근 7일 응답률 14%→43%로 증가"
+    "expected_ai_label": null,
+    "expected_rationale_example": null,
+    "case_history": []
   },
   {
     "persona_id": "P10",
@@ -5696,8 +5705,9 @@
       "max_consecutive_no_response": 18,
       "current_consecutive_no_response": 18
     },
-    "expected_ai_label": "훼손 의심",
-    "expected_rationale_example": "최근 7일 응답률 0%로 유지, 18일 연속 미응답"
+    "expected_ai_label": null,
+    "expected_rationale_example": null,
+    "case_history": []
   },
   {
     "persona_id": "P11",
@@ -6266,8 +6276,9 @@
       "max_consecutive_no_response": 18,
       "current_consecutive_no_response": 18
     },
-    "expected_ai_label": "훼손 의심",
-    "expected_rationale_example": "최근 7일 응답률 0%로 유지, 18일 연속 미응답"
+    "expected_ai_label": null,
+    "expected_rationale_example": null,
+    "case_history": []
   },
   {
     "persona_id": "P12",
@@ -6836,7 +6847,8 @@
       "max_consecutive_no_response": 3,
       "current_consecutive_no_response": 3
     },
-    "expected_ai_label": "관심 필요",
-    "expected_rationale_example": "최근 7일 응답률 57%로 유지, 3일 연속 미응답"
+    "expected_ai_label": null,
+    "expected_rationale_example": null,
+    "case_history": []
   }
 ]

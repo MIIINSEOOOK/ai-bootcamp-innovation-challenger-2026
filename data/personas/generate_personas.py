@@ -9,6 +9,12 @@
 안부 응답 로그를 결정론적으로(고정 시드) 생성한다. 실제 청년 개인정보는
 전혀 사용하지 않는다.
 
+이 스크립트는 F1~F3(발송/응답/집계)에 해당하는 원천 데이터만 만든다.
+F4(AI 분석 라벨/근거)와 F7(전담요원 처리 이력)은 실제 서비스 로직이 이
+원천 데이터를 입력받아 만들어내는 산출물이라 여기서 미리 채우지 않고
+`expected_ai_label`/`expected_rationale_example`/`case_history` 필드만
+비워둔 채로 남겨둔다.
+
 실행:
     python generate_personas.py
     -> personas.json 저장 (이 스크립트와 같은 디렉토리)
@@ -179,39 +185,6 @@ def compute_summary(logs: list[dict[str, Any]]) -> dict[str, Any]:
     }
 
 
-def classify_status(summary: dict[str, Any]) -> str:
-    """
-    F4의 3단계 분류를 흉내낸 참고용 규칙 기반 판정.
-    실제 F4 AI 로직을 대체하는 것이 아니라, 이 페르소나 데이터의
-    "기대값(ground truth)"을 매겨 데모/검증에 쓰기 위한 것이다.
-    """
-    trailing = summary["current_consecutive_no_response"]
-    rate_last7 = summary["response_rate_last_7d"]
-    change = summary["response_rate_change_7d"]
-
-    if trailing >= 5 or (rate_last7 <= 0.35 and change <= -0.3):
-        return "훼손 의심"
-    if trailing >= 2 or rate_last7 <= 0.65 or change <= -0.15:
-        return "관심 필요"
-    return "정상"
-
-
-def build_rationale(summary: dict[str, Any]) -> str:
-    rate_prev_pct = round(summary["response_rate_prev_7d"] * 100)
-    rate_last_pct = round(summary["response_rate_last_7d"] * 100)
-    streak = summary["current_consecutive_no_response"]
-
-    parts = []
-    if abs(rate_last_pct - rate_prev_pct) >= 10:
-        direction = "감소" if rate_last_pct < rate_prev_pct else "증가"
-        parts.append(f"최근 7일 응답률 {rate_prev_pct}%→{rate_last_pct}%로 {direction}")
-    else:
-        parts.append(f"최근 7일 응답률 {rate_last_pct}%로 유지")
-    if streak >= 2:
-        parts.append(f"{streak}일 연속 미응답")
-    return ", ".join(parts)
-
-
 PERSONAS: list[dict[str, Any]] = [
     dict(id="P01", name="김도윤", age=22, case_worker="이하늘 주무관",
          housing="자취(월세)", employment="재직중(제조업 생산직)",
@@ -303,8 +276,6 @@ def build_persona(spec: dict[str, Any]) -> dict[str, Any]:
     rng = random.Random(spec["seed"])
     logs = BUILDERS[spec["builder"]](rng)
     summary = compute_summary(logs)
-    label = classify_status(summary)
-    rationale = build_rationale(summary)
 
     return {
         "persona_id": spec["id"],
@@ -322,8 +293,12 @@ def build_persona(spec: dict[str, Any]) -> dict[str, Any]:
         "backstory": spec["backstory"],
         "daily_logs": logs,
         "derived_summary": summary,
-        "expected_ai_label": label,
-        "expected_rationale_example": rationale,
+        # F4(AI 분석 결과)와 F7(전담요원 처리 이력)은 실제 서비스 로직/UI가
+        # 이 원천 데이터를 입력으로 받아 만들어내는 산출물이다. 페르소나
+        # 데이터 단계에서 미리 채워두면 안 되므로 필드만 두고 비워둔다.
+        "expected_ai_label": None,
+        "expected_rationale_example": None,
+        "case_history": [],
     }
 
 
@@ -337,7 +312,6 @@ def main() -> None:
         s = p["derived_summary"]
         print(
             f"  {p['persona_id']} {p['name']:4s} {p['scenario_type']:8s} "
-            f"label={p['expected_ai_label']:6s} "
             f"overall={s['response_rate_overall']:.2f} last7={s['response_rate_last_7d']:.2f} "
             f"trailing_miss={s['current_consecutive_no_response']}"
         )

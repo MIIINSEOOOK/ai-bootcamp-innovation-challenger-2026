@@ -14,7 +14,8 @@
     "daily_logs",
     "derived_summary",
     "expected_ai_label",
-    "expected_rationale_example"
+    "expected_rationale_example",
+    "case_history"
   ],
   "properties": {
     "persona_id": { "type": "string" },
@@ -93,13 +94,27 @@
       }
     },
     "expected_ai_label": {
-      "type": "string",
-      "enum": ["정상", "관심 필요", "훼손 의심"],
-      "description": "F4 판정의 기대값(ground truth). generate_personas.py의 규칙 기반 classify_status()로 산출 — 실제 F4 AI 구현체가 아니라 데모/검증용 참고치."
+      "type": ["string", "null"],
+      "enum": ["정상", "관심 필요", "훼손 의심", null],
+      "description": "F4가 판정할 상태 라벨. 페르소나는 원천 데이터(F1~F3)만 제공하므로 항상 null — 실제 F4 로직이 daily_logs/derived_summary를 입력받아 채워야 하는 필드."
     },
     "expected_rationale_example": {
-      "type": "string",
-      "description": "F4 근거 텍스트 예시 (예: '최근 7일 응답률 86%→29%로 감소, 3일 연속 미응답')"
+      "type": ["string", "null"],
+      "description": "F4가 제시할 판단 근거 텍스트(예: '최근 7일 응답률 86%→29%로 감소, 3일 연속 미응답'). 항상 null — F4 로직의 출력값."
+    },
+    "case_history": {
+      "type": "array",
+      "description": "F7 '과거 처리 이력'. 전담요원이 F5 알림을 보고 남기는 사람의 판단 결과라 페르소나 단계에서는 항상 빈 배열.",
+      "items": {
+        "type": "object",
+        "required": ["date", "status", "memo", "case_worker"],
+        "properties": {
+          "date": { "type": "string", "format": "date" },
+          "status": { "type": "string", "enum": ["확인완료", "연락필요", "관찰지속"] },
+          "memo": { "type": "string" },
+          "case_worker": { "type": "string" }
+        }
+      }
     }
   }
 }
