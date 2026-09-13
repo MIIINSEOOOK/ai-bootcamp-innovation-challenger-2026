@@ -2,20 +2,22 @@
 # -*- coding: utf-8 -*-
 
 """
-자립정보ON > 지원사업 조회 크롤러 (목록 카드 기반)
+자립정보ON > 지원사업 조회 크롤러
 
 기본 동작
 - 지원사업 목록을 최신 페이지부터 순회
-- 목록 카드(제목/분야/상태/기관명/지역/모집기간/조회수/해시태그)만 수집
+- 목록 카드 + 상세페이지(본문/모집대상/모집인원/신청방법/첨부파일명/이미지)를 수집
 - 최근 90일(기본값) 기준으로 오래된 종료 사업 제외
 - 모집중/모집예정/결과발표/상시모집은 유지
 - 전체 CSV/JSON + 카테고리별 CSV/JSON 저장
 - 요청 간격(delay) 적용
 
-주의: 상세페이지(/home/kor/support/projectMng/edit.do)는 자동화 요청을
-"비정상적 접근입니다"로 차단하는 서버 측 보호가 걸려 있어 프로그램적으로
-수집하지 않는다. content_text/attachments/images/application/result는
-항상 비어 있거나 null이며, detail_accessible=false로 표시한다.
+메모(2026-09): 목록 카드는 `<a onclick="fn_edit('idx')">` 구조로 되어 있어
+idx를 onclick에서 정규식으로 추출한다. 상세페이지(edit.do)는 idx만 넘기면
+차단되고, 반드시 menuPos 파라미터를 함께 GET으로 보내야 정상 응답한다
+(POST + idx만으로는 "비정상적 접근입니다" 오류가 난다). 첨부파일은
+`cmmn_file_down(...)` JS 함수로 다운로드되는 방식이라 실제 다운로드 URL을
+확보하지 못해 attachments는 항상 빈 배열로 둔다.
 """
 
 from __future__ import annotations
@@ -38,11 +40,18 @@ from bs4 import BeautifulSoup
 
 BASE_URL = "https://jaripon.ncrc.or.kr"
 LIST_URL = f"{BASE_URL}/home/kor/support/projectMng/index.do"
+DETAIL_URL = f"{BASE_URL}/home/kor/support/projectMng/edit.do"
 DEFAULT_PARAMS = {"menuPos": "1"}
 
 CATEGORIES = ("경제", "주거", "진로", "건강", "법률", "기타")
 STATUSES = ("모집예정", "모집중", "모집종료", "결과발표")
 ACTIVE_STATUSES = {"모집예정", "모집중", "결과발표"}
+
+ELIGIBILITY_LABELS = (
+    "모집대상", "지원대상", "참가대상", "신청대상",
+    "지원자격", "신청자격", "참가자격", "지원요건", "신청요건",
+)
+HEADCOUNT_LABELS = ("모집인원", "선발인원", "채용인원")
 
 USER_AGENT = "Mozilla/5.0 (compatible; JaripONResearchCrawler/1.0)"
 
@@ -73,6 +82,10 @@ def absolute_url(href: str | None) -> str | None:
     return urljoin(BASE_URL, href)
 
 
+def text_lines(soup: BeautifulSoup) -> list[str]:
+    return [clean_text(x) for x in soup.stripped_strings if clean_text(x)]
+
+
 def parse_isoish_dates(text: str) -> list[date]:
     """
     YYYY-MM-DD / YYYY.MM.DD / YYYY/MM/DD 형태만 안정적으로 파싱.
@@ -99,11 +112,108 @@ def parse_period(text: str) -> dict[str, Any]:
         "start_date": start.isoformat() if start else None,
         "end_date": end.isoformat() if end else None,
         "is_evergreen": evergreen,
+        "headcount_raw": None,
     }
+
+
+def parse_age_range(text: str) -> tuple[int | None, int | None]:
+    m = re.search(r"만\s*(\d{1,2})\s*[~\-–]\s*(\d{1,2})\s*세", text)
+    if m:
+        return int(m.group(1)), int(m.group(2))
+    m = re.search(r"(\d{1,2})\s*세\s*~\s*(\d{1,2})\s*세", text)
+    if m:
+        return int(m.group(1)), int(m.group(2))
+    m = re.search(r"만\s*(\d{1,2})\s*세\s*이상", text)
+    if m:
+        return int(m.group(1)), None
+    m = re.search(r"만\s*(\d{1,2})\s*세\s*이하", text)
+    if m:
+        return None, int(m.group(1))
+    return None, None
+
+
+def _is_noise_line(line: str) -> bool:
+    """숫자/한글/영문이 하나도 없는 순수 기호 줄(":", "-", "(" 등)."""
+    return not re.search(r"[0-9가-힣A-Za-z]", line)
+
+
+def extract_eligibility(content_lines: list[str]) -> dict[str, Any]:
+    """
+    본문 안의 '모집대상/지원대상/참가대상/신청대상/지원자격/신청자격/참가자격/
+    지원요건/신청요건' 라벨 다음 텍스트를 모집대상(자격요건 포함) 원문으로
+    간주하는 휴리스틱. 본문이 토큰 단위로 잘게 쪼개진
+    공고(예: "-", ":" 등이 별도 줄인 경우)를 감안해 순수 기호 줄은 건너뛰고
+    다음 라벨/섹션 마커("■")를 만나기 전까지 이어 붙인다.
+    공고마다 서식이 달라 여전히 놓칠 수 있다.
+    """
+    aliases_c = {canon_label(x) for x in ELIGIBILITY_LABELS}
+    for i, line in enumerate(content_lines):
+        if canon_label(line) not in aliases_c:
+            continue
+        parts: list[str] = []
+        for nxt in content_lines[i + 1: i + 12]:
+            if nxt.startswith("■") or canon_label(nxt) in aliases_c:
+                break
+            if _is_noise_line(nxt):
+                continue
+            parts.append(nxt)
+            if len(" ".join(parts)) >= 60:
+                break
+        raw = clean_text(" ".join(parts))
+        if raw:
+            age_min, age_max = parse_age_range(raw)
+            return {"raw": raw, "age_min": age_min, "age_max": age_max}
+    return {"raw": None, "age_min": None, "age_max": None}
+
+
+def extract_headcount(content_lines: list[str], eligibility_raw: str | None) -> str | None:
+    """
+    '모집인원/선발인원/채용인원' 라벨이 따로 있으면 그 값을, 없으면
+    모집대상 원문에서 'N명' 패턴을 찾아 대체한다.
+    """
+    aliases_c = {canon_label(x) for x in HEADCOUNT_LABELS}
+    for i, line in enumerate(content_lines):
+        if canon_label(line) in aliases_c and i + 1 < len(content_lines):
+            v = clean_text(content_lines[i + 1])
+            if v:
+                return v
+    if eligibility_raw:
+        m = re.search(r"\d+\s*명", eligibility_raw)
+        if m:
+            return clean_text(m.group(0))
+    return None
+
+
+def extract_summary(content_lines: list[str]) -> str | None:
+    """본문에서 모집대상 라벨이 나오기 전까지를 '간략한 설명'으로 사용한다."""
+    aliases_c = {canon_label(x) for x in ELIGIBILITY_LABELS}
+    parts = []
+    for line in content_lines:
+        if canon_label(line) in aliases_c:
+            break
+        parts.append(line)
+    text = clean_text(" ".join(parts))
+    return text[:300] if text else None
+
+
+def find_value_after_label(lines: list[str], aliases: tuple[str, ...], start_at: int = 0) -> str | None:
+    aliases_c = {canon_label(x) for x in aliases}
+    for i in range(start_at, len(lines)):
+        if canon_label(lines[i]) in aliases_c:
+            for j in range(i + 1, min(i + 5, len(lines))):
+                candidate = clean_text(lines[j])
+                if candidate and canon_label(candidate) not in aliases_c:
+                    return candidate
+    return None
 
 
 def extract_idx_from_onclick(onclick: str | None) -> str | None:
     m = re.search(r"fn_edit\(\s*['\"]?(\d+)['\"]?\s*\)", onclick or "")
+    return m.group(1) if m else None
+
+
+def extract_idx_from_url(url: str) -> str | None:
+    m = re.search(r"[?&]idx=(\d+)", url)
     return m.group(1) if m else None
 
 
@@ -182,7 +292,7 @@ def parse_list_cards(html: str, page_url: str) -> list[dict[str, Any]]:
 
         items.append({
             "source_id": idx,
-            "source_url": f"{BASE_URL}/home/kor/support/projectMng/edit.do?idx={idx}",
+            "source_url": f"{DETAIL_URL}?idx={idx}&menuPos=1",
             "title": title,
             "category": category,
             "status": status,
@@ -197,8 +307,86 @@ def parse_list_cards(html: str, page_url: str) -> list[dict[str, Any]]:
     return items
 
 
+def extract_content_text(lines: list[str]) -> str:
+    """
+    본문은 해시태그 줄(#로 시작) 바로 다음, 버튼 라벨(신청하기/스크랩/URL 복사/목록)을
+    건너뛴 지점부터 '기관정보' 라벨 전까지로 간주한다.
+    해시태그가 없는 공고는 40자 이상인 첫 문장부터 시작하는 것으로 대체한다.
+    """
+    drop_labels = {canon_label(x) for x in ("신청하기", "스크랩", "URL 복사", "목록")}
+
+    hashtag_idx = None
+    for i, line in enumerate(lines):
+        if line.startswith("#"):
+            hashtag_idx = i
+            break
+
+    start = None
+    if hashtag_idx is not None:
+        start = hashtag_idx + 1
+        while start < len(lines) and canon_label(lines[start]) in drop_labels:
+            start += 1
+    else:
+        for i, line in enumerate(lines):
+            if len(line) >= 40 and canon_label(line) not in {"지원사업조회"}:
+                start = i
+                break
+
+    if start is None:
+        return ""
+
+    end = len(lines)
+    for i in range(start, len(lines)):
+        if canon_label(lines[i]) == "기관정보":
+            end = i
+            break
+
+    body = [x for x in lines[start:end] if canon_label(x) not in drop_labels]
+    return "\n".join(body).strip()
+
+
+def extract_tags(soup: BeautifulSoup, lines: list[str]) -> list[str]:
+    tags: list[str] = []
+    for el in soup.find_all(string=re.compile(r"^\s*#")):
+        t = clean_text(str(el))
+        if t.startswith("#"):
+            for part in re.findall(r"#\s*([^#]+?)(?=\s*#|$)", t):
+                p = clean_text(part)
+                if p:
+                    tags.append(p)
+    if not tags:
+        for line in lines:
+            if line.startswith("#"):
+                tags.extend(clean_text(x) for x in re.findall(r"#\s*([^#]+?)(?=\s*#|$)", line))
+    out = []
+    seen = set()
+    for t in tags:
+        if t and t not in seen:
+            seen.add(t)
+            out.append(t)
+    return out
+
+
+def extract_images(soup: BeautifulSoup) -> list[dict[str, str | None]]:
+    out = []
+    seen = set()
+    for img in soup.find_all("img", src=True):
+        src = absolute_url(img.get("src"))
+        if not src:
+            continue
+        low = src.lower()
+        alt = clean_text(img.get("alt")) or None
+        if any(x in low for x in ("logo", "loading", "/common/", "/images/common/", "ico_", "icon_")):
+            continue
+        if src in seen:
+            continue
+        seen.add(src)
+        out.append({"alt": alt, "url": src})
+    return out
+
+
 def build_record(item: dict[str, Any]) -> dict[str, Any]:
-    """목록 카드 정보만으로 스키마 레코드를 구성한다 (상세페이지 미접근)."""
+    """상세페이지 요청이 실패했을 때 목록 카드 정보만으로 구성하는 대체 레코드."""
     period = parse_period(item.get("recruit_period_raw") or "")
     return {
         "schema_version": "1.0",
@@ -220,10 +408,102 @@ def build_record(item: dict[str, Any]) -> dict[str, Any]:
         },
         "view_count": item.get("view_count"),
         "tags": item.get("tags", []),
+        "eligibility": {"raw": None, "age_min": None, "age_max": None},
+        "summary": None,
         "content_text": None,
         "attachments": [],
         "images": [],
         "detail_accessible": False,
+    }
+
+
+def parse_detail(html: str, url: str, list_item: dict[str, Any]) -> dict[str, Any]:
+    soup = BeautifulSoup(html, "html.parser")
+    lines = text_lines(soup)
+
+    org_start = 0
+    for i, line in enumerate(lines):
+        if canon_label(line) == "기관정보":
+            org_start = i
+            break
+
+    category = find_value_after_label(lines, ("분야", "분 야")) or list_item.get("category")
+    region = find_value_after_label(lines, ("지역", "지 역")) or list_item.get("region")
+    recruit_raw = find_value_after_label(lines, ("모집기간", "모 집 기 간")) or list_item.get("recruit_period_raw")
+    application_method = find_value_after_label(lines, ("접수방법", "접 수 방 법"))
+    result_date_raw = find_value_after_label(lines, ("결과발표일", "결 과 발 표 일"))
+    result_confirmation = find_value_after_label(lines, ("결과확인", "결 과 확 인"))
+
+    organization_name = (
+        find_value_after_label(lines, ("기관명",), start_at=org_start)
+        or list_item.get("organization_name")
+    )
+    manager_name = find_value_after_label(lines, ("담당자명", "담당자 명"), start_at=org_start)
+    contact = find_value_after_label(lines, ("문의",), start_at=org_start)
+
+    status = list_item.get("status")
+    if not status:
+        early = " ".join(lines[:80])
+        status = next((s for s in STATUSES if s in early), None)
+
+    title = list_item.get("title")
+    if not title:
+        for h in soup.select("h1, h2, h3, h4, strong"):
+            t = clean_text(h.get_text(" ", strip=True))
+            if len(t) >= 5 and t not in {"지원사업 조회", "기관정보", "첨부파일"}:
+                title = t
+                break
+
+    application_url = None
+    for a in soup.find_all("a", href=True):
+        txt = canon_label(a.get_text(" ", strip=True))
+        href = absolute_url(a.get("href"))
+        if href and ("신청하기" in txt or txt == "신청"):
+            application_url = href
+            break
+
+    content_text = extract_content_text(lines)
+    content_lines = content_text.split("\n") if content_text else []
+
+    eligibility = extract_eligibility(content_lines)
+    headcount_raw = extract_headcount(content_lines, eligibility.get("raw"))
+    summary = extract_summary(content_lines)
+
+    period = parse_period(recruit_raw or "")
+    period["headcount_raw"] = headcount_raw
+
+    return {
+        "schema_version": "1.0",
+        "source": "jaripon",
+        "source_id": list_item.get("source_id") or extract_idx_from_url(url),
+        "source_url": url,
+        "crawled_at": datetime.now(ZoneInfo("Asia/Seoul")).isoformat(timespec="seconds"),
+        "category": category,
+        "status": status,
+        "title": title,
+        "region": region,
+        "recruitment": period,
+        "application": {
+            "method": application_method,
+            "url": application_url,
+        },
+        "result": {
+            "announcement_date_raw": result_date_raw,
+            "confirmation": result_confirmation,
+        },
+        "organization": {
+            "name": organization_name,
+            "manager_name": manager_name,
+            "contact": contact,
+        },
+        "view_count": list_item.get("view_count"),
+        "tags": extract_tags(soup, lines) or list_item.get("tags", []),
+        "eligibility": eligibility,
+        "summary": summary,
+        "content_text": content_text or None,
+        "attachments": [],
+        "images": extract_images(soup),
+        "detail_accessible": True,
     }
 
 
@@ -400,6 +680,7 @@ def flatten_for_csv(r: dict[str, Any]) -> dict[str, Any]:
     app = r.get("application", {})
     result = r.get("result", {})
     org = r.get("organization", {})
+    eligibility = r.get("eligibility", {})
     return {
         "schema_version": r.get("schema_version"),
         "source": r.get("source"),
@@ -414,6 +695,7 @@ def flatten_for_csv(r: dict[str, Any]) -> dict[str, Any]:
         "recruit_start_date": recruitment.get("start_date"),
         "recruit_end_date": recruitment.get("end_date"),
         "is_evergreen": recruitment.get("is_evergreen"),
+        "recruit_headcount_raw": recruitment.get("headcount_raw"),
         "application_method": app.get("method"),
         "application_url": app.get("url"),
         "result_announcement_date_raw": result.get("announcement_date_raw"),
@@ -423,6 +705,10 @@ def flatten_for_csv(r: dict[str, Any]) -> dict[str, Any]:
         "contact": org.get("contact"),
         "view_count": r.get("view_count"),
         "tags_json": json.dumps(r.get("tags", []), ensure_ascii=False),
+        "eligibility_raw": eligibility.get("raw"),
+        "eligibility_age_min": eligibility.get("age_min"),
+        "eligibility_age_max": eligibility.get("age_max"),
+        "summary": r.get("summary"),
         "content_text": r.get("content_text"),
         "attachments_json": json.dumps(r.get("attachments", []), ensure_ascii=False),
         "images_json": json.dumps(r.get("images", []), ensure_ascii=False),
@@ -509,13 +795,33 @@ def crawl(args: argparse.Namespace) -> list[dict[str, Any]]:
         for item in new_cards:
             seen_ids.add(item["source_id"])
 
-            if args.categories and item.get("category") not in args.categories:
-                continue
+            if args.categories and (item.get("category") not in args.categories):
+                if item.get("category") is not None:
+                    continue
 
             if not card_is_candidate(item, cutoff):
                 continue
 
-            record = build_record(item)
+            time.sleep(args.delay)
+            try:
+                d = session.get(
+                    DETAIL_URL,
+                    params={"idx": item["source_id"], "menuPos": "1"},
+                    headers={"Referer": page_url},
+                    timeout=30,
+                )
+                d.raise_for_status()
+                record = parse_detail(d.text, d.url, item)
+            except requests.RequestException as e:
+                print(f"  ! 상세 요청 실패 id={item['source_id']}: {e}")
+                record = build_record(item)
+            except Exception as e:
+                print(f"  ! 상세 파싱 실패 id={item['source_id']}: {e}")
+                record = build_record(item)
+
+            if args.categories and record.get("category") not in args.categories:
+                continue
+
             if is_recent_record(record, cutoff):
                 rows.append(record)
                 print(f"  + [{record.get('category')}] {record.get('title')}")
@@ -538,7 +844,7 @@ def crawl(args: argparse.Namespace) -> list[dict[str, Any]]:
 
 
 def build_parser() -> argparse.ArgumentParser:
-    p = argparse.ArgumentParser(description="자립정보ON 지원사업 크롤러 (목록 카드 기반)")
+    p = argparse.ArgumentParser(description="자립정보ON 지원사업 크롤러")
     p.add_argument("--days", type=int, default=90, help="최근 범위. 기본 90일")
     p.add_argument("--delay", type=float, default=1.2, help="요청 간격(초). 기본 1.2")
     p.add_argument("--max-pages", type=int, default=40, help="안전상 최대 목록 페이지 수")

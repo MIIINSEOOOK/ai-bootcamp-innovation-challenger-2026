@@ -1,8 +1,210 @@
-﻿schema_version,source,source_id,source_url,crawled_at,category,status,title,region,recruit_period_raw,recruit_start_date,recruit_end_date,is_evergreen,application_method,application_url,result_announcement_date_raw,result_confirmation,organization_name,manager_name,contact,view_count,tags_json,content_text,attachments_json,images_json,detail_accessible
-1.0,jaripon,2073,https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2073,2026-09-13T13:56:08+09:00,법률,모집중,"「경기도자립준비청년 법률SOS (4차,경기북부)」 참여",경기,2026-08-28 ~ 2026-09-14,2026-08-28,2026-09-14,False,,,,,경기도자립지원전담기관,,,63,"[""자립준비청년"", ""법률상담""]",,[],[],False
-1.0,jaripon,2056,https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2056,2026-09-13T13:56:09+09:00,법률,모집중,[서울자립지원전담기관] 자립준비청년 무료법률상담(9월),서울,2026-08-21 ~ 2026-09-15,2026-08-21,2026-09-15,False,,,,,[서울자립지원전담기관] 영플러스잡스 취업컨설팅,,,81,"[""자립준비청년 대상""]",,[],[],False
-1.0,jaripon,2036,https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2036,2026-09-13T13:56:19+09:00,법률,모집종료,기독법률가회(CLF)와 함께하는자립준비청년 법률 교육,서울,2026-08-12 ~ 2026-08-24,2026-08-12,2026-08-24,False,,,,,지파운데이션,,,219,"[""자립준비청년"", ""보호연장아동"", ""자립준비청소년""]",,[],[],False
-1.0,jaripon,2024,https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2024,2026-09-13T13:56:20+09:00,법률,모집종료,「경기도자립준비청년 법률SOS (3차)」 참여자 모집,경기,2026-08-04 ~ 2026-08-18,2026-08-04,2026-08-18,False,,,,,경기도자립지원전담기관,,,82,"[""경기도자립준비청년"", ""법률상담""]",,[],[],False
-1.0,jaripon,1954,https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1954,2026-09-13T13:56:32+09:00,법률,모집종료,경기도자립준비청년 법률SOS (2차) 참여자 모집,경기,2026-07-01 ~ 2026-07-17,2026-07-01,2026-07-17,False,,,,,경기도자립지원전담기관,,,100,"[""경기도자립지원전담기관"", ""무료법률상담""]",,[],[],False
-1.0,jaripon,1868,https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1868,2026-09-13T13:56:47+09:00,법률,모집종료,경기도자립준비청년 법률 SOS,경기,2026-05-20 ~ 2026-06-18,2026-05-20,2026-06-18,False,,,,,경기도자립지원전담기관,,,207,"[""자립준비청년대상"", ""청년대상"", ""자립준비청년법률자문""]",,[],[],False
-1.0,jaripon,1815,https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1815,2026-09-13T13:56:56+09:00,법률,모집종료,자립준비청년 법률 자문,전국,2026-04-30 ~ 2026-07-31,2026-04-30,2026-07-31,False,,,,,지파운데이션,,,311,"[""자립준비청년"", ""보호연장아동""]",,[],[],False
+﻿schema_version,source,source_id,source_url,crawled_at,category,status,title,region,recruit_period_raw,recruit_start_date,recruit_end_date,is_evergreen,recruit_headcount_raw,application_method,application_url,result_announcement_date_raw,result_confirmation,organization_name,manager_name,contact,view_count,tags_json,eligibility_raw,eligibility_age_min,eligibility_age_max,summary,content_text,attachments_json,images_json,detail_accessible
+1.0,jaripon,2073,https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2073&menuPos=1,2026-09-13T14:13:28+09:00,법률,모집중,"「경기도자립준비청년 법률SOS (4차,경기북부)」 참여",모집중,2026-08-28 ~ 2026-09-14,2026-08-28,2026-09-14,False,,온라인,,2026-09-14,개별 연락,경기도자립지원전담기관,자립지원2팀,031-346-9435,63,"[""자립준비청년"", ""법률상담""]",,,,"자립준비청년을 위한 무료 법률상담 ⠀ “이런 것도 법률상담을 받아도 될까?” 혼자 고민하고 있었다면, 이번 기회에 전문가와 함께 이야기해보세요. ⠀ 경기도자립지원전담기관은 법무법인 지평, 공익법인 두루와 함께 자립준비청년들이 법률 문제로 어려움을 겪지 않도록 무료 법률상담을 진행하고 있습니다. ⠀ 상속·채무부터 근로, 주거, 형사 등 일상생활에서 발생할 수 있는 다양한 법률 문제를 상담받을 수 있습니다. ⠀ 📌 모집대상 보호아동 및 보호연장아동, 자립준비청년 ※ 거주지역 및 보호종료기간 무관 ⠀ 📅 모집기간 2026. 8. 28. ","자립준비청년을 위한 무료 법률상담
+⠀
+“이런 것도 법률상담을 받아도 될까?”
+혼자 고민하고 있었다면, 이번 기회에 전문가와 함께 이야기해보세요.
+⠀
+경기도자립지원전담기관은 법무법인 지평, 공익법인 두루와 함께 자립준비청년들이 법률 문제로 어려움을 겪지 않도록 무료 법률상담을 진행하고 있습니다.
+⠀
+상속·채무부터 근로, 주거, 형사 등 일상생활에서 발생할 수 있는 다양한 법률 문제를 상담받을 수 있습니다.
+⠀
+📌 모집대상
+보호아동 및 보호연장아동, 자립준비청년
+※ 거주지역 및 보호종료기간 무관
+⠀
+📅 모집기간
+2026. 8. 28. ~ 9. 15.
+⠀
+📍 상담장소
+경기도자립지원전담기관 북부사무소 교육실
+(경기도 고양시 일산동구 호수로 358-39, 동문타워 1차 6층)
+⠀
+💬 상담내용
+상속, 채무, 근로, 주거, 형사 등 생활 법률 전반
+※ 상담시간 약 30분
+⠀
+📝 신청방법
+홍보 포스터 내 QR코드를 통해 신청
+⠀
+📞 문의
+031-346-9435 (자립지원2팀)
+⠀
+※ 4차 상담은 경기도자립지원전담기관 북부사무소에서 진행됩니다.
+※ 상담 예약 후 담당자의 연락에 응답하지 않을 경우 상담이 취소될 수 있습니다.
+⠀
+법률 문제, 혼자 고민하지 마세요.
+전문가와 함께 해결 방법을 찾아보세요. 🤝
+⠀
+자립준비청년 여러분의 많은 관심과 참여 바랍니다!",[],"[{""alt"": null, ""url"": ""https://jaripon.ncrc.or.kr/images/home/kor/user/main/search_icon.png""}, {""alt"": null, ""url"": ""https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_btn_icon.png""}, {""alt"": ""닫기"", ""url"": ""https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_close.png""}, {""alt"": ""「경기도자립준비청년 법률SOS (4차,경기북부)」 참여"", ""url"": ""https://jaripon.ncrc.or.kr/images/site/202608311132379032/png/loader.do""}, {""alt"": null, ""url"": ""https://jaripon.ncrc.or.kr/images/editor/20260831/법률상담_4차__-_경기북부진행_포스터/png/loader.do""}, {""alt"": ""loading"", ""url"": ""https://jaripon.ncrc.or.kr/images/cmmn/action-loader.gif""}]",True
+1.0,jaripon,2056,https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2056&menuPos=1,2026-09-13T14:14:05+09:00,법률,모집중,[서울자립지원전담기관] 자립준비청년 무료법률상담(9월),모집중,2026-08-21 ~ 2026-09-15,2026-08-21,2026-09-15,False,,온라인,https://docs.google.com/forms/d/e/1FAIpQLSfN_wBMu2MQLUogUTmRXzpEltNh5qZ3rOQY612yuyjl9vyb_A/viewform,2026-09-17,개별안내,[서울자립지원전담기관] 영플러스잡스 취업컨설팅,사업담당자,070-882-2687,81,"[""자립지원""]",,,,"[서울시 자립지원전담기관 X 사단법인 한국여성변호사회] 2026년 자립준비청년 무료법률상담 신청 안내 서울시 자립지원전담기관과 사단법인 한국여성변호사회에서 자립준비청년들을 위한 무료법률상담을 진행합니다. 법률적인 고민이나 도움이 필요한 청년들의 많은 참여를 바라며, 사전예약제로 운영되오니 일정을 확인하시어 기한 내에 신청해 주시기 바랍니다. 공고 개요 🏢 장 소 서울시 자립지원전담기관 📅 일 시 2026년 9월 17일 (목) 오후 2시 ~ 오후 5시 ⏱️ 모집기간 ~ 2026년 9월 15일 (선착순 접수 마감) 📞 문 의 담당자 번","[서울시 자립지원전담기관 X 사단법인 한국여성변호사회]
+2026년 자립준비청년 무료법률상담 신청 안내
+서울시 자립지원전담기관과 사단법인 한국여성변호사회에서 자립준비청년들을 위한 무료법률상담을 진행합니다. 법률적인 고민이나 도움이 필요한 청년들의 많은 참여를 바라며, 사전예약제로 운영되오니 일정을 확인하시어 기한 내에 신청해 주시기 바랍니다.
+공고 개요
+🏢 장 소
+서울시 자립지원전담기관
+📅 일 시
+2026년 9월 17일 (목) 오후 2시 ~ 오후 5시
+⏱️ 모집기간
+~ 2026년 9월 15일 (선착순 접수 마감)
+📞 문 의
+담당자 번호: 070-8820-2687
+상세 안내 및 신청 방법
+📝 상담 진행 절차
+구분
+상세 내용
+상담 방식
+사전예약제를 통한 1:1 내방 상담 (인당 30분 소요)
+진행 프로세스
+온라인 접수 → 개별 연락 → 상담 시간 확정 → 내방 상담 진행
+💰 비용 및 참가 혜택
+•
+상담 비용 :
+전액 무료 지원
+※ 주의사항: 개별 연락 시 연결이 되지 않으면 접수가 자동 취소됩니다. (02-2226-1524 전화를 반드시 받아주세요.)
+✅ 신청 자격 및 참고 사항
+•
+신청 자격 :
+자립준비청년 (지방 거주 청년 중 당일 방문이 어려운 경우 담당자와 사전 논의 필요)
+•
+확인 서류 :
+자립준비청년임을 입증하는 증빙자료를 요청할 수 있습니다.
+📅 모집 및 선정 일정
+사전 접수
+~ 2026년 9월 15일 (화)까지 온라인 선착순 마감
+시간 확정
+접수 후 개별 연락을 통해 상담 시간 조율 및 확정
+상담 실시
+2026년 9월 17일 (목) 14:00 ~ 17:00 (개별 지정된 시간에 방문)
+🚀 신청 방법
+• 포스터 상단의 QR코드를 스캔하거나 본문 하단의 신청하기 링크를 통해 온라인 신청서 접수 (사전예약제)
+- 유선 문의 : 사업담당자 070-8820-2687
+상담 신청하기 바로가기
+▶",[],"[{""alt"": null, ""url"": ""https://jaripon.ncrc.or.kr/images/home/kor/user/main/search_icon.png""}, {""alt"": null, ""url"": ""https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_btn_icon.png""}, {""alt"": ""닫기"", ""url"": ""https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_close.png""}, {""alt"": ""[서울자립지원전담기관] 자립준비청년 무료법률상담(9월)"", ""url"": ""https://jaripon.ncrc.or.kr/images/site/202608210931553061/jpg/loader.do""}, {""alt"": null, ""url"": ""https://jaripon.ncrc.or.kr/images/editor/20260821/법률상담_홍보2/png/loader.do""}, {""alt"": ""loading"", ""url"": ""https://jaripon.ncrc.or.kr/images/cmmn/action-loader.gif""}]",True
+1.0,jaripon,2036,https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2036&menuPos=1,2026-09-13T14:14:54+09:00,법률,모집종료,기독법률가회(CLF)와 함께하는자립준비청년 법률 교육,모집종료,2026-08-12 ~ 2026-08-24,2026-08-12,2026-08-24,False,,온라인,,상시,개별 안내,지파운데이션,안소진,02-6335-0110,219,"[""자립준비청년"", ""보호연장아동"", ""자립준비청소년""]",,,,"자립준비청년 법률 교육 프로그램📚 일상에서 일어날 수 있는 법률 문제 사례를 변호사님들이 알기 쉽게 설명해 드립니다! 🧡 일시 : 2026.8.29. 토 10:30am~13:00 pm (1시간 정도 변동 가능) 🧡 장소: 서울특별시 마포구 동교로 112, 지파운데이션 회관 🧡 대상 : 자립준비청년 , 보호연장아동, 자립준비청소년(아동복지시설 17~19세 청소년) 🧡 교육 주제 : 부동산 / 노동법 / 형사법 🧡 신청방법: 네이버폼 ( https://naver.me/5jXMYi9S) 📞문의 : 지파 ON 카카오톡 채널","자립준비청년 법률 교육 프로그램📚
+일상에서 일어날 수 있는 법률 문제 사례를
+변호사님들이 알기 쉽게 설명해 드립니다!
+🧡 일시 : 2026.8.29. 토 10:30am~13:00 pm (1시간 정도 변동 가능)
+🧡
+장소:
+서울특별시 마포구 동교로 112, 지파운데이션 회관
+🧡
+대상 : 자립준비청년 , 보호연장아동, 자립준비청소년(아동복지시설 17~19세 청소년)
+🧡 교육 주제 : 부동산 / 노동법 / 형사법
+🧡 신청방법: 네이버폼 (
+https://naver.me/5jXMYi9S)
+📞문의 : 지파 ON 카카오톡 채널",[],"[{""alt"": null, ""url"": ""https://jaripon.ncrc.or.kr/images/home/kor/user/main/search_icon.png""}, {""alt"": null, ""url"": ""https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_btn_icon.png""}, {""alt"": ""닫기"", ""url"": ""https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_close.png""}, {""alt"": ""기독법률가회(CLF)와 함께하는자립준비청년 법률 교육"", ""url"": ""https://jaripon.ncrc.or.kr/images/site/202608120928416415/png/loader.do""}, {""alt"": null, ""url"": ""https://jaripon.ncrc.or.kr/images/editor/20260812/202608120924107064/png/loader.do""}, {""alt"": ""loading"", ""url"": ""https://jaripon.ncrc.or.kr/images/cmmn/action-loader.gif""}]",True
+1.0,jaripon,2024,https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2024&menuPos=1,2026-09-13T14:15:21+09:00,법률,모집종료,「경기도자립준비청년 법률SOS (3차)」 참여자 모집,모집종료,2026-08-04 ~ 2026-08-18,2026-08-04,2026-08-18,False,,온라인,,2026-08-21,개별 연락 예정,경기도자립지원전담기관,자립지원2팀,031-346-935,82,"[""경기도자립준비청년"", ""법률상담""]",,,,"⚖️ 무료 법률상담 참여자를 모집합니다! 법률 문제, 혼자 고민하고 계신가요? 경기도자립지원전담기관은 법무법인 지평, 공익법인 두루와 함께 자립준비청년과 보호(연장)아동을 위한 무료 법률상담을 진행합니다. 상속, 채무, 근로, 주거, 형사 등 생활 속 다양한 법률 고민을 변호사와 1:1로 상담받을 수 있습니다. 📌 모집대상 보호아동 및 보호연장아동, 자립준비청년 (거주지역 및 보호종료기간 무관) 📅 모집기간 2026. 8. 4.(화) ~ 8. 18.(화) 🕑 상담일시 2026. 8. 21.(금) 오후 2시부터 📍 상담장소 경기도자립","⚖️ 무료 법률상담 참여자를 모집합니다!
+법률 문제, 혼자 고민하고 계신가요?
+경기도자립지원전담기관은 법무법인 지평, 공익법인 두루와 함께 자립준비청년과 보호(연장)아동을 위한 무료 법률상담을 진행합니다.
+상속, 채무, 근로, 주거, 형사 등 생활 속 다양한 법률 고민을 변호사와 1:1로 상담받을 수 있습니다.
+📌 모집대상
+보호아동 및 보호연장아동, 자립준비청년
+(거주지역 및 보호종료기간 무관)
+📅 모집기간
+2026. 8. 4.(화) ~ 8. 18.(화)
+🕑 상담일시
+2026. 8. 21.(금) 오후 2시부터
+📍 상담장소
+경기도자립지원전담기관 5층 회의실
+(경기도 의왕시 경수대로 221, 태보빌딩)
+📝 신청방법
+홍보 포스터 내 QR코드를 통해 신청
+☎ 문의
+031-346-9435 (자립준비2팀)
+※ 담당자 연락에 응답하지 않을 경우 상담 예약이 취소될 수 있습니다.
+혼자 고민하지 말고, 전문가와 함께 해결해 보세요.
+많은 관심과 참여 부탁드립니다. 💙",[],"[{""alt"": null, ""url"": ""https://jaripon.ncrc.or.kr/images/home/kor/user/main/search_icon.png""}, {""alt"": null, ""url"": ""https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_btn_icon.png""}, {""alt"": ""닫기"", ""url"": ""https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_close.png""}, {""alt"": null, ""url"": ""https://jaripon.ncrc.or.kr/images/editor/20260806/법률_SOS_3차_포스터/png/loader.do""}, {""alt"": ""loading"", ""url"": ""https://jaripon.ncrc.or.kr/images/cmmn/action-loader.gif""}]",True
+1.0,jaripon,1954,https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1954&menuPos=1,2026-09-13T14:17:54+09:00,법률,모집종료,경기도자립준비청년 법률SOS (2차) 참여자 모집,모집종료,2026-07-01 ~ 2026-07-17,2026-07-01,2026-07-17,False,,온라인,,2026-07-17,개별 연락,경기도자립지원전담기관,자립준비2팀,031-346-9435,100,"[""경기도자립지원전담기관"", ""자립준비청년"", ""보호연장아동"", ""보호아동"", ""무료법률상담""]",,,,"⚖️ 무료 법률상담 참여자 모집 ⚖️ ⠀ 법률 문제로 고민하고 있나요? ⠀ 혼자 고민하지 마세요! 경기도자립지원전담기관은 법무법인 지평, 공익법인 두루와 함께 자립준비청년을 위한 무료 법률상담을 진행합니다. ⠀ 상속, 채무, 근로, 주거, 형사 등 생활 속 다양한 법률 문제에 대해 전문 변호사와 상담받을 수 있습니다. ⠀ 📌 모집대상 경기도 내 보호아동, 보호연장아동, 자립준비청년 ※ 거주지역 및 보호종료 기간 제한 없음 ⠀ 📅 모집기간 2026. 7. 1.(수) ~ 7. 17.(금) ⠀ 👥 상담일정 🗓 2026. 7. 24.(금)","⚖️ 무료 법률상담 참여자 모집 ⚖️
+⠀
+법률 문제로 고민하고 있나요?
+⠀
+혼자 고민하지 마세요!
+경기도자립지원전담기관은 법무법인 지평, 공익법인 두루와 함께 자립준비청년을 위한 무료 법률상담을 진행합니다.
+⠀
+상속, 채무, 근로, 주거, 형사 등
+생활 속 다양한 법률 문제에 대해 전문 변호사와 상담받을 수 있습니다.
+⠀
+📌 모집대상
+경기도 내 보호아동, 보호연장아동, 자립준비청년
+※ 거주지역 및 보호종료 기간 제한 없음
+⠀
+📅 모집기간
+2026. 7. 1.(수) ~ 7. 17.(금)
+⠀
+👥 상담일정
+🗓 2026. 7. 24.(금)
+⏰ 오후 2시부터 순차 진행
+(※ 1인 약 30분 내외)
+⠀
+📍 상담장소
+경기도자립지원전담기관 5층 회의실
+(경기도 의왕시 경수대로 221, 태보빌딩 5층)
+💬 상담내용
+✔ 상속
+✔ 채무
+✔ 근로
+✔ 주거
+✔ 형사
+✔ 그 외 생활 속 법률문제 전반
+⠀
+📲 신청방법
+홍보 포스터 내 QR코드를 통해 신청
+⠀
+☎ 문의
+자립지원2팀
+031-346-9435
+⠀
+📢 안내사항
+담당자의 연락에 응답하지 않을 경우 상담 예약이 취소될 수 있으니 꼭 연락을 확인해 주세요.
+⠀
+법률적인 도움이 필요하다면,
+혼자 고민하지 말고 지금 신청하세요! 😊",[],"[{""alt"": null, ""url"": ""https://jaripon.ncrc.or.kr/images/home/kor/user/main/search_icon.png""}, {""alt"": null, ""url"": ""https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_btn_icon.png""}, {""alt"": ""닫기"", ""url"": ""https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_close.png""}, {""alt"": ""경기도자립준비청년 법률SOS (2차) 참여자 모집"", ""url"": ""https://jaripon.ncrc.or.kr/images/site/202607021027456845/png/loader.do""}, {""alt"": null, ""url"": ""https://jaripon.ncrc.or.kr/images/editor/20260702/법률_2차_포스터_/png/loader.do""}, {""alt"": ""loading"", ""url"": ""https://jaripon.ncrc.or.kr/images/cmmn/action-loader.gif""}]",True
+1.0,jaripon,1868,https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1868&menuPos=1,2026-09-13T14:20:36+09:00,법률,모집종료,경기도자립준비청년 법률 SOS,모집종료,2026-05-20 ~ 2026-06-18,2026-05-20,2026-06-18,False,,온라인,,2026-06-18,개별 연락 예정,경기도자립지원전담기관,자립지원2팀,031-346-9435,207,"[""자립준비청년대상"", ""청년대상"", ""자립준비청년법률자문""]",,,,"📢 무료 법률상담 참여자 모집 ⠀ 법률 문제로 고민하고 있나요? 혼자 고민하지 말고 전문가와 함께 이야기해보세요! ⠀ 경기도자립지원전담기관은 ⚖ 법무법인 지평 ⚖ 공익법인 두루와 함께 자립준비청년 대상 무료 법률상담을 진행합니다 😊 ⠀ ✔ 상속 ✔ 채무 ✔ 근로 ✔ 주거 ✔ 형사 등 생활 속 다양한 법률 고민 상담 가능! ⠀ 📌 모집대상 보호아동 및 보호연장아동, 자립준비청년 (거주지역 및 보호종료기간 무관) ⠀ 📌 모집기간 2026. 5. 20.(월) ~ 6. 18.(목) ⠀ 📌 진행장소 경기도자립지원전담기관 5층 회의실 (경기도","📢 무료 법률상담 참여자 모집
+⠀
+법률 문제로 고민하고 있나요?
+혼자 고민하지 말고 전문가와 함께 이야기해보세요!
+⠀
+경기도자립지원전담기관은
+⚖ 법무법인 지평
+⚖ 공익법인 두루와 함께
+자립준비청년 대상 무료 법률상담을 진행합니다 😊
+⠀
+✔ 상속
+✔ 채무
+✔ 근로
+✔ 주거
+✔ 형사 등
+생활 속 다양한 법률 고민 상담 가능!
+⠀
+📌 모집대상
+보호아동 및 보호연장아동, 자립준비청년
+(거주지역 및 보호종료기간 무관)
+⠀
+📌 모집기간
+2026. 5. 20.(월) ~ 6. 18.(목)
+⠀
+📌 진행장소
+경기도자립지원전담기관 5층 회의실
+(경기도 의왕시 경수대로 221, 태보빌딩)
+⠀
+📌 신청방법
+포스터 내 QR코드 신청
+⠀
+📌 문의
+031-346-9435 (자립지원2팀)
+⠀
+※ 담당자 연락 미응답 시 상담 예약이 취소될 수 있습니다.",[],"[{""alt"": null, ""url"": ""https://jaripon.ncrc.or.kr/images/home/kor/user/main/search_icon.png""}, {""alt"": null, ""url"": ""https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_btn_icon.png""}, {""alt"": ""닫기"", ""url"": ""https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_close.png""}, {""alt"": null, ""url"": ""https://jaripon.ncrc.or.kr/images/editor/20260604/법률_SOS_홍보_포스터/png/loader.do""}, {""alt"": ""loading"", ""url"": ""https://jaripon.ncrc.or.kr/images/cmmn/action-loader.gif""}]",True
+1.0,jaripon,1815,https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1815&menuPos=1,2026-09-13T14:21:10+09:00,법률,모집종료,자립준비청년 법률 자문,모집종료,2026-04-30 ~ 2026-07-31,2026-04-30,2026-07-31,False,,온라인,,상시,개별 안내,지파운데이션,안소진,02-6335-0110,311,"[""자립준비청년"", ""보호연장아동""]",,,,"⚖️ 자립준비청년 법률 자문 지원 주거, 노동, 금전, 사기 등 일상생활 속에서 예상치 못하게 마주하게 되는 다양한 법률 문제들, 혼자 해결하기 어렵고 어디에 물어봐야 할지 막막하게 느껴질 때가 있습니다. 이러한 고민을 가진 자립준비청년의 곁에 지파운데이션과 기독법률가회 소속 변호사님들이 법률 자문을 통해 함께합니다. 개인의 상황에 맞는 방향을 함께 고민하며 보다 안전하고 안정적인 자립을 이어갈 수 있도록 지원합니다! ▶ 신청기간: 상시 모집 ▶ 신청방법: https://naver.me/x3HKUAbv","⚖️ 자립준비청년 법률 자문 지원
+주거, 노동, 금전, 사기 등
+일상생활 속에서 예상치 못하게 마주하게 되는 다양한 법률 문제들,
+혼자 해결하기 어렵고 어디에 물어봐야 할지 막막하게 느껴질 때가 있습니다.
+이러한 고민을 가진 자립준비청년의 곁에 지파운데이션과
+기독법률가회 소속 변호사님들이 법률 자문을 통해 함께합니다.
+개인의 상황에 맞는 방향을 함께 고민하며
+보다 안전하고 안정적인 자립을 이어갈 수 있도록 지원합니다!
+▶
+신청기간:
+상시 모집
+▶
+신청방법:
+https://naver.me/x3HKUAbv",[],"[{""alt"": null, ""url"": ""https://jaripon.ncrc.or.kr/images/home/kor/user/main/search_icon.png""}, {""alt"": null, ""url"": ""https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_btn_icon.png""}, {""alt"": ""닫기"", ""url"": ""https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_close.png""}, {""alt"": ""자립준비청년 법률 자문"", ""url"": ""https://jaripon.ncrc.or.kr/images/site/202604270630275975/jpg/loader.do""}, {""alt"": null, ""url"": ""https://jaripon.ncrc.or.kr/images/editor/20260427/202604270627556748/jpg/loader.do""}, {""alt"": ""loading"", ""url"": ""https://jaripon.ncrc.or.kr/images/cmmn/action-loader.gif""}]",True

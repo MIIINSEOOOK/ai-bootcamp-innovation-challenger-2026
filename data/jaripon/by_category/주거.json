@@ -3,458 +3,853 @@
     "schema_version": "1.0",
     "source": "jaripon",
     "source_id": "2038",
-    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2038",
-    "crawled_at": "2026-09-13T13:56:19+09:00",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2038&menuPos=1",
+    "crawled_at": "2026-09-13T14:14:48+09:00",
     "category": "주거",
     "status": "모집종료",
     "title": "「주거 빌드업(Build-up)」 클래스 참여자 모집",
-    "region": "경기",
+    "region": "모집종료",
     "recruitment": {
       "raw": "2026-08-13 ~ 2026-08-17",
       "start_date": "2026-08-13",
       "end_date": "2026-08-17",
-      "is_evergreen": false
+      "is_evergreen": false,
+      "headcount_raw": null
     },
     "application": {
-      "method": null,
+      "method": "온라인",
       "url": null
     },
     "result": {
-      "announcement_date_raw": null,
-      "confirmation": null
+      "announcement_date_raw": "2026-08-18",
+      "confirmation": "개별 연락"
     },
     "organization": {
       "name": "경기도자립지원전담기관",
-      "manager_name": null,
-      "contact": null
+      "manager_name": "자립지원1팀",
+      "contact": "031-346-9314"
     },
     "view_count": 325,
     "tags": [
       "경기도자립준비청년",
       "「주거 빌드업(Build-up)」 클래스 참여자 모집"
     ],
-    "content_text": null,
+    "eligibility": {
+      "raw": null,
+      "age_min": null,
+      "age_max": null
+    },
+    "summary": "경기도자립지원전담기관에서는 자립준비청년들과 보호연장아동들이 주거와 경제에 대한 고민을 덜어낼 수 있도록 교육 프로그램을 진행하고 있습니다. LH 유스타트(자립준비청년의 LH 플랫폼)에 대해 알고 싶으신 분, LH 신청이 어려우신 분 등 신청해주세요~! ■ 모집대상: 보호종료 5년 이해 자립준비청년 및 보호연장아동 10명 *모집인원보다 지원인원이 많을 경우 아래 당사자로 선발할 수 있습니다. (부천에 거주하며 보호종료 1년 이내 자립준비청년) ■ 모집기간: 26. 8. 12. ~ 8. 17. ■ 일정: 2026. 8. 21.(금) 1",
+    "content_text": "경기도자립지원전담기관에서는 자립준비청년들과 보호연장아동들이 주거와 경제에 대한 고민을 덜어낼 수 있도록 교육 프로그램을 진행하고 있습니다.\nLH 유스타트(자립준비청년의 LH 플랫폼)에 대해 알고 싶으신 분, LH 신청이 어려우신 분 등 신청해주세요~!\n■ 모집대상: 보호종료 5년 이해 자립준비청년 및 보호연장아동 10명\n*모집인원보다 지원인원이 많을 경우 아래 당사자로 선발할 수 있습니다.\n(부천에 거주하며 보호종료 1년 이내 자립준비청년)\n■ 모집기간: 26. 8. 12. ~ 8. 17.\n■ 일정: 2026. 8. 21.(금) 18:00~20:00\n■ 장소: 부천 신중동역 인근(경기도 부천시 원미구 길주로 314)\n*상세 장소 추후 안내 예정\n■ 주요 내용 및 혜택\n-LH 유스타트 안내 및 신청 방법, 좋은 집 구하는 방법, 소득 지출 구조 파악 등\n-저녁 및 식다과 제공\n-교육 참여 시 참여 물품 제공\n-주거, 경제 관련 도서 제공\n■ 신청방법: 포스터 내 QR코드 접속 혹은 링크 접속 후 신청\n(\nhttps://naver.me/GO6VYoxh\n)\n■ 문의: 031-346-9314(자립지원1팀)\n■ 기타 안내사항\n-신청서를 제출해주시면 8월 18일(화)에 담당자가 확인 후 전화 드릴 예정입니다.\n-17:50까지 장소 도착 부탁드립니다.\n-모집 인원보다 신청 인원이 초과할 시 부천시에 거주하며 보호종료 후 1년 이내 자립준비청년으로 우선 선정할 수 있습니다.\n자립준비청년들의 많은 참여 부탁드립니다.",
     "attachments": [],
-    "images": [],
-    "detail_accessible": false
+    "images": [
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/search_icon.png"
+      },
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_btn_icon.png"
+      },
+      {
+        "alt": "닫기",
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_close.png"
+      },
+      {
+        "alt": "「주거 빌드업(Build-up)」 클래스 참여자 모집",
+        "url": "https://jaripon.ncrc.or.kr/images/site/202608131024230131/png/loader.do"
+      },
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/editor/20260813/주거_빌드업(Build-up)_클래스_포스터/png/loader.do"
+      },
+      {
+        "alt": "loading",
+        "url": "https://jaripon.ncrc.or.kr/images/cmmn/action-loader.gif"
+      }
+    ],
+    "detail_accessible": true
   },
   {
     "schema_version": "1.0",
     "source": "jaripon",
     "source_id": "1975",
-    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1975",
-    "crawled_at": "2026-09-13T13:56:29+09:00",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1975&menuPos=1",
+    "crawled_at": "2026-09-13T14:17:07+09:00",
     "category": "주거",
     "status": "모집종료",
     "title": "2026 LH전세 문제해결",
-    "region": "인천",
+    "region": "모집종료",
     "recruitment": {
       "raw": "2026-07-13 ~ 2026-07-19",
       "start_date": "2026-07-13",
       "end_date": "2026-07-19",
-      "is_evergreen": false
+      "is_evergreen": false,
+      "headcount_raw": null
     },
     "application": {
-      "method": null,
+      "method": "온라인",
       "url": null
     },
     "result": {
-      "announcement_date_raw": null,
-      "confirmation": null
+      "announcement_date_raw": "2026-07-20",
+      "confirmation": "개별 전화(부재시 문자)"
     },
     "organization": {
       "name": "인천광역시자립지원전담기관",
-      "manager_name": null,
-      "contact": null
+      "manager_name": "김정현",
+      "contact": "070-7663-1153"
     },
     "view_count": 234,
     "tags": [
-      "자립준비청년,",
-      "보호연장아동,",
-      "보호연장종료"
+      "LH",
+      "전세",
+      "사기",
+      "이사",
+      "공인중개사"
     ],
-    "content_text": null,
+    "eligibility": {
+      "raw": null,
+      "age_min": null,
+      "age_max": null
+    },
+    "summary": "# 전세 # 사기 # 이사 # 공인중개사 \"집 문제로 머리 아픈 사람? 우리가 함께 해결해줄게!\" 🛡️ * 변기 고장인데 집주인이 연락 안 될 때, * 서류가 너무 어려워 포기하고 싶을 때... 이렇게 막막하고 어려운 일이 생겼을 때, ✅ 신청하면 이런 일이 벌어져요! * 고민을 먼저 듣고, 그 분야의 'LH본부 직원'을 매칭해 드려요. * 상황에 따라 한명~여러명 LH본부 직원이 끝까지 해결을 돕습니다. * 참여만 해도 자립 생활에 보탬이 되는 5만원 상당의 선물을 드려요! 📍 꼭 기억하세요! ● 신청 기간: 2026. 7. 19",
+    "content_text": "# 전세\n# 사기\n# 이사\n# 공인중개사\n\"집 문제로 머리 아픈 사람? 우리가 함께 해결해줄게!\" 🛡️\n* 변기 고장인데 집주인이 연락 안 될 때,\n* 서류가 너무 어려워 포기하고 싶을 때...\n이렇게 막막하고 어려운 일이 생겼을 때,\n✅ 신청하면 이런 일이 벌어져요!\n* 고민을 먼저 듣고, 그 분야의 'LH본부 직원'을 매칭해 드려요.\n* 상황에 따라 한명~여러명 LH본부 직원이 끝까지 해결을 돕습니다.\n* 참여만 해도 자립 생활에 보탬이 되는 5만원 상당의 선물을 드려요!\n📍 꼭 기억하세요!\n● 신청 기간: 2026. 7. 19.(일) 밤 12시까지\n● 해결 날짜: 2026. 7. 22.(수) 오후 2시~5시\n● 해결 장소: 인천사회복지회관 7층 상담실\n● 신청 방법:\nhttps://naver.me/FLEKrnlY\n● 진행 내용: 네이버폼 신청 → 사전 인터뷰(전화) → LH직원 매칭 → 7/22(수) 1:1 해결\n● 궁금문의: 김정현 사회복지사 (070-7663-1153)\n● 특별한 팁!! 참가자 전원에게 5만원 상당 선물 증정\n혼자 고민하지 마세요. 같이 풀어드릴게요.",
     "attachments": [],
-    "images": [],
-    "detail_accessible": false
+    "images": [
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/search_icon.png"
+      },
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_btn_icon.png"
+      },
+      {
+        "alt": "닫기",
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_close.png"
+      },
+      {
+        "alt": "2026 LH전세 문제해결",
+        "url": "https://jaripon.ncrc.or.kr/images/site/202607130834439312/jpg/loader.do"
+      },
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/editor/20260713/2026전세임대_문제해결_7월_가로500/jpg/loader.do"
+      },
+      {
+        "alt": "loading",
+        "url": "https://jaripon.ncrc.or.kr/images/cmmn/action-loader.gif"
+      }
+    ],
+    "detail_accessible": true
   },
   {
     "schema_version": "1.0",
     "source": "jaripon",
     "source_id": "1944",
-    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1944",
-    "crawled_at": "2026-09-13T13:56:35+09:00",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1944&menuPos=1",
+    "crawled_at": "2026-09-13T14:18:15+09:00",
     "category": "주거",
     "status": "모집종료",
     "title": "신격호 롯데장학관 2026년 2학기 입주생 모집",
-    "region": "서울",
+    "region": "모집종료",
     "recruitment": {
       "raw": "2026-06-29 ~ 2026-07-17",
       "start_date": "2026-06-29",
       "end_date": "2026-07-17",
-      "is_evergreen": false
+      "is_evergreen": false,
+      "headcount_raw": null
     },
     "application": {
-      "method": null,
+      "method": "온라인",
       "url": null
     },
     "result": {
-      "announcement_date_raw": null,
-      "confirmation": null
+      "announcement_date_raw": "2026-07-30",
+      "confirmation": "문자 통보"
     },
     "organization": {
       "name": "롯데장학재단 신격호 롯데장학관",
-      "manager_name": null,
-      "contact": null
+      "manager_name": "허윤서",
+      "contact": "02-726-4581"
     },
     "view_count": 881,
     "tags": [],
-    "content_text": null,
+    "eligibility": {
+      "raw": null,
+      "age_min": null,
+      "age_max": null
+    },
+    "summary": "신격호 롯데장학관은 서울시 마포구에 위치하고 전액 무료로 운영되는 대학생 연합기숙사로 롯데장학재단에서 운영관리하고 있습니다. 아래와 같은 내용으로 2026년 2학기 입주 장학관생을 모집합니다. ▶자격요건(*모든 조건 충족하는 자) ① 2026년 2학기 기준 2학년, 3학년 서울 소재 대학교(4년제) 재학생 (복학 예정자 가능) ② 총 평점평균 4.5만점 기준 3.0 이상 (제출일 기준) ③ 소득분위 6분위 이하(한국장학재단 확인 및 출력 가능) ④ 신격호장학관 거주 이력이 없는 학생 ⑤ 8월 24일(월) 신규 거주 OT 필수 참석가",
+    "content_text": "신격호 롯데장학관은 서울시 마포구에 위치하고 전액 무료로 운영되는 대학생 연합기숙사로 롯데장학재단에서 운영관리하고 있습니다.\n아래와 같은 내용으로 2026년 2학기 입주 장학관생을 모집합니다.\n▶자격요건(*모든 조건 충족하는 자)\n① 2026년 2학기 기준 2학년, 3학년 서울 소재 대학교(4년제) 재학생 (복학 예정자 가능)\n② 총 평점평균 4.5만점 기준 3.0 이상 (제출일 기준)\n③ 소득분위 6분위 이하(한국장학재단 확인 및 출력 가능)\n④ 신격호장학관 거주 이력이 없는 학생\n⑤ 8월 24일(월) 신규 거주 OT 필수 참석가능 학생\n▶ 거주기간\n: 2026년 8월 24일(월) ~ 2027년 8월 말 (1년)\n▶ 지원자 제출서류\n① 성적증명서\n② 소득분위 확인서\n③ 입소지원서(자기소개서)\n④ 개인정보 제공 동의서\n⑤ 자립준비청년/가정밖 청소년 증빙서류\n*재학증명서는 9월 초 제출\n▶ 절차\n◎ 서류제출\n- 이메일 접수 : lim0510@lotte.net\n- 2026년 7월 17일(금) 까지\n◎ 재단 심사 통보\n- 2026년 7월 30일(목)\n◎ 입소 OT\n- 2026년 8월 24일(월) *필수참석\n▶ 문의\n: 070-8820-9481",
     "attachments": [],
-    "images": [],
-    "detail_accessible": false
+    "images": [
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/search_icon.png"
+      },
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_btn_icon.png"
+      },
+      {
+        "alt": "닫기",
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_close.png"
+      },
+      {
+        "alt": "신격호 롯데장학관 2026년 2학기 입주생 모집",
+        "url": "https://jaripon.ncrc.or.kr/images/site/202606290147192951/png/loader.do"
+      },
+      {
+        "alt": "loading",
+        "url": "https://jaripon.ncrc.or.kr/images/cmmn/action-loader.gif"
+      }
+    ],
+    "detail_accessible": true
   },
   {
     "schema_version": "1.0",
     "source": "jaripon",
     "source_id": "1936",
-    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1936",
-    "crawled_at": "2026-09-13T13:56:37+09:00",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1936&menuPos=1",
+    "crawled_at": "2026-09-13T14:18:37+09:00",
     "category": "주거",
     "status": "모집종료",
     "title": "26년 「자립준비청년 첫 집 길라잡이」 교육 신청 안내",
-    "region": "전국",
+    "region": "모집종료",
     "recruitment": {
       "raw": "2026-06-29 ~ 2026-07-12",
       "start_date": "2026-06-29",
       "end_date": "2026-07-12",
-      "is_evergreen": false
+      "is_evergreen": false,
+      "headcount_raw": null
     },
     "application": {
-      "method": null,
+      "method": "온라인",
       "url": null
     },
     "result": {
-      "announcement_date_raw": null,
-      "confirmation": null
+      "announcement_date_raw": "2026-07-31",
+      "confirmation": "대상자 개별 안내"
     },
     "organization": {
       "name": "LH주거복지정보㈜",
-      "manager_name": null,
-      "contact": null
+      "manager_name": "이지윤",
+      "contact": "031-738-3293"
     },
     "view_count": 746,
     "tags": [
-      "자립준비청년 대상"
+      "LH주거교육",
+      "유스타트",
+      "전세임대",
+      "매입임대",
+      "건설임대",
+      "생활지원"
     ],
-    "content_text": null,
+    "eligibility": {
+      "raw": null,
+      "age_min": null,
+      "age_max": null
+    },
+    "summary": "#유스타트 #전세임대 #매입임대 #건설임대 #생활지원 안녕하세요, LH주거복지정보 집밥소입니다🤗 2026년 LH유스타트 주거 및 생활지원 신청 예정인 자립준비청년·가정 밖 청소년들을 위한 <자립준비청년 첫 집 길라잡이> 교육을 준비했습니다! 대상에 해당되는 분들은 아래 내용을 참고하셔서 신청서를 작성해주세요🍀 📖교육명: 자립준비청년 첫 집 길라잡이 🚩교육내용: 2026년 LH유스타트 주거지원 제도 및 임대주택 유지보수 기초지식 📅교육일시: 아래 중 선택 가능 -1차: 8/7(금) 10:00~12:00 또는 14:00~16:00 -2",
+    "content_text": "#유스타트\n#전세임대\n#매입임대\n#건설임대\n#생활지원\n안녕하세요, LH주거복지정보 집밥소입니다🤗\n2026년 LH유스타트 주거 및 생활지원 신청 예정인 자립준비청년·가정 밖 청소년들을 위한\n<자립준비청년 첫 집 길라잡이>\n교육을 준비했습니다!\n대상에 해당되는 분들은 아래 내용을 참고하셔서 신청서를 작성해주세요🍀\n📖교육명:\n자립준비청년 첫 집 길라잡이\n🚩교육내용:\n2026년 LH유스타트 주거지원 제도 및 임대주택 유지보수 기초지식\n📅교육일시: 아래 중 선택 가능\n-1차: 8/7(금) 10:00~12:00 또는 14:00~16:00\n-2차: 8/14(금) 10:00~12:00 또는 14:00~16:00\n👥교육 대상\n① 26년 퇴소 예정인 자립준비청년·가정 밖 청소년\n② 올해 LH유스타트 주거지원 신청 예정인 퇴소 및 보호 종료된지 5년 이내 자립준비청년·가정 밖 청소년\n🖥️진행방법:\n온라인 화상 플랫폼(ZOOM)을 활용한 비대면 교육\n💎참가비용:\n무료\n✔️신청 기간:\n6/29(월) ~ 7/12(일)\n➡️신청 방법:\nQR코드 스캔\n혹은\nhttps://jipbapso.link/26jarip\n링크 접속 후\n신청서 작성하여 제출\n고민은 신청만 늦출뿐!\n모집은 선착순으로 마감되며, 교육 확정자에게는 7월 31일(금)까지 개별 안내 예정이니 서두르세요!\n문의: LH주거복지정보(집밥소)\n☎️031-738-3293 📧jylee4@lhcs.or.kr\n*평일 오전 10시~오후 5시 운영 (주말 및 공휴일 휴무)",
     "attachments": [],
-    "images": [],
-    "detail_accessible": false
+    "images": [
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/search_icon.png"
+      },
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_btn_icon.png"
+      },
+      {
+        "alt": "닫기",
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_close.png"
+      },
+      {
+        "alt": "26년 「자립준비청년 첫 집 길라잡이」 교육 신청 안내",
+        "url": "https://jaripon.ncrc.or.kr/images/site/202606240302252935/png/loader.do"
+      },
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/editor/20260624/202606240251295610/png/loader.do"
+      },
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/editor/20260624/202606240256429510/png/loader.do"
+      },
+      {
+        "alt": "loading",
+        "url": "https://jaripon.ncrc.or.kr/images/cmmn/action-loader.gif"
+      }
+    ],
+    "detail_accessible": true
   },
   {
     "schema_version": "1.0",
     "source": "jaripon",
     "source_id": "1937",
-    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1937",
-    "crawled_at": "2026-09-13T13:56:37+09:00",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1937&menuPos=1",
+    "crawled_at": "2026-09-13T14:18:32+09:00",
     "category": "주거",
     "status": "모집종료",
     "title": "자립준비청년 생활교육 [자립 빌드업 : 룸 스타일링편]",
-    "region": "인천",
+    "region": "모집종료",
     "recruitment": {
       "raw": "2026-06-24 ~ 2026-06-28",
       "start_date": "2026-06-24",
       "end_date": "2026-06-28",
-      "is_evergreen": false
+      "is_evergreen": false,
+      "headcount_raw": null
     },
     "application": {
-      "method": null,
+      "method": "온라인",
       "url": null
     },
     "result": {
-      "announcement_date_raw": null,
-      "confirmation": null
+      "announcement_date_raw": "2026-06-29",
+      "confirmation": "개별연락"
     },
     "organization": {
       "name": "인천광역시자립지원전담기관",
-      "manager_name": null,
-      "contact": null
+      "manager_name": "유혜란",
+      "contact": "032-204-4279"
     },
     "view_count": 236,
     "tags": [
-      "자립준비청년"
+      "자립준비청년",
+      "주거",
+      "생활교육",
+      "방정리",
+      "실습",
+      "청소"
     ],
-    "content_text": null,
+    "eligibility": {
+      "raw": null,
+      "age_min": null,
+      "age_max": null
+    },
+    "summary": "##주거 ##생활교육 ##방정리 ##실습 ##청소 2026 년 인 ( 仁 ) 품 가족멘토링 생활교육 🏠 [ 자립 빌드업 : 룸 스타일링편 ] < 자립 빌드업 : 룸 스타일링편 > 에 초대합니다 \" 내 방은 왜 치워도 치워도 그대로일까 ? 🤔\" \" 좁은 자취방 , 가구 배치는 어떻게 해야 넓어 보이지 ? 🛏 ️ “ 제대로 비우고 채우는 요령을 몰라 답답했다면 ? 단 하루 만에 내 방을 세상에서 가장 아늑하고 머물고 싶은 공간으로 바꿀 기회 ! 내가 사는 방 사진을 보내주시면 , 전문가가 실시간으로 1:1 맞춤형 솔루션 ( 찰칵 처방전",
+    "content_text": "##주거\n##생활교육\n##방정리\n##실습\n##청소\n2026\n년 인\n(\n仁\n)\n품 가족멘토링 생활교육\n🏠 [\n자립 빌드업\n:\n룸 스타일링편\n]\n<\n자립 빌드업\n:\n룸 스타일링편\n>\n에 초대합니다\n\"\n내 방은 왜 치워도 치워도 그대로일까\n? 🤔\"\n\"\n좁은 자취방\n,\n가구 배치는 어떻게 해야 넓어 보이지\n? 🛏\n️\n“\n제대로 비우고 채우는 요령을 몰라 답답했다면\n?\n단 하루 만에 내 방을 세상에서 가장 아늑하고 머물고 싶은 공간으로 바꿀 기회\n!\n내가 사는 방 사진을 보내주시면\n,\n전문가가 실시간으로\n1:1\n맞춤형 솔루션\n(\n찰칵 처방전\n📸)\n까지 제공해 드립니다\n.\n지금 신청해보세요\n! 😉\n◯\n사 업 명\n:\n자립 빌드업\n(Build-up) :\n룸 스타일링 편\n◯\n교육대상\n:\n자립준비청년 및 보호연장아동\n◯\n교육일정\n: 2026.7.9 (\n목\n)\n오후\n7\n시\n~ 9\n시\n◯\n교육내용\n:\n정리 수납 이론 교육\n& 1:1\n사진 컨설팅 솔루션 실습\n◯\n교육장소\n:\n인천사회복지회관\n3\n층 교육장\n◯\n신청기간\n: 2026.6.23. (\n화\n) ~ 6.28 (\n일\n)\n◯\n신청방법\n:\n네이버 폼 신청\n(https://naver.me/5DZXTTow)\n◯\n문 의\n:\n자립지원\n1\n팀 유혜란 사회복지사\n(\nT\nel. 032-204-4279)\n📢\n참여자 안내 사항\n(\n꼭 읽어주세요\n!)\n사진 제출 방법\n(\n필수\n):\n실시간\n1:1\n맞춤 피드백을 위해 현재 거주 중인 방 사진\n(\n방 전경\n,\n정리하고 싶은 구역 등\n)\n제출이 필수입니다\n.\n사진은 네이버 폼 신청서 제출 후\n,\n담당자가 개별 연락을 드리면 안내에 따라 카카오톡 채널로 제출해 주시면 됩니다\n! 💬\n100%\n익명 보장\n:\n보내주신 사진은 교육 중 익명으로 안전하게 진단 실습에만 사용되니 개인정보 걱정 말고 편하게 보내주세요\n! 🔒\n참가비는 전액 무료이며\n,\n교육 중 즐기실 수 있는 맛있는 다과와 음료가 제공됩니다\n. 🍩🍹",
     "attachments": [],
-    "images": [],
-    "detail_accessible": false
+    "images": [
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/search_icon.png"
+      },
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_btn_icon.png"
+      },
+      {
+        "alt": "닫기",
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_close.png"
+      },
+      {
+        "alt": "자립준비청년 생활교육 [자립 빌드업 : 룸 스타일링편]",
+        "url": "https://jaripon.ncrc.or.kr/images/site/202606240419275771/png/loader.do"
+      },
+      {
+        "alt": "loading",
+        "url": "https://jaripon.ncrc.or.kr/images/cmmn/action-loader.gif"
+      }
+    ],
+    "detail_accessible": true
   },
   {
     "schema_version": "1.0",
     "source": "jaripon",
     "source_id": "1906",
-    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1906",
-    "crawled_at": "2026-09-13T13:56:40+09:00",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1906&menuPos=1",
+    "crawled_at": "2026-09-13T14:19:39+09:00",
     "category": "주거",
     "status": "모집종료",
     "title": "2026 LH전세 문제해결",
-    "region": "인천",
+    "region": "모집종료",
     "recruitment": {
       "raw": "2026-06-10 ~ 2026-06-21",
       "start_date": "2026-06-10",
       "end_date": "2026-06-21",
-      "is_evergreen": false
+      "is_evergreen": false,
+      "headcount_raw": null
     },
     "application": {
-      "method": null,
+      "method": "온라인",
       "url": null
     },
     "result": {
-      "announcement_date_raw": null,
-      "confirmation": null
+      "announcement_date_raw": "2026-06-22",
+      "confirmation": "개별 안내"
     },
     "organization": {
       "name": "인천광역시자립지원전담기관",
-      "manager_name": null,
-      "contact": null
+      "manager_name": "김정현",
+      "contact": "070-7663-1153"
     },
     "view_count": 279,
     "tags": [
-      "자립준비청년,",
-      "보호연장,"
+      "LH",
+      "전세",
+      "이사",
+      "집주인",
+      "갈등",
+      "주거"
     ],
-    "content_text": null,
+    "eligibility": {
+      "raw": null,
+      "age_min": null,
+      "age_max": null
+    },
+    "summary": "# 전세 # 이사 # 집주인 # 갈등 # 주거 2026 LH전세 문제해결 \"집 문제로 머리 아픈 사람? 우리가 함께 해결해줄게!\" 🛡️ * 보일러 고장인데 집주인이 연락 안 될 때, * 서류가 너무 어려워 포기하고 싶을 때... 이렇게 막막하고 어려운 일이 생겼을 때, ✅ 신청하면 이런 일이 벌어져요! * 고민을 먼저 듣고, 그 분야의 'LH본부 직원'을 매칭해 드려요. * 상황에 따라 한명~여러명 LH본부 직원이 끝까지 해결을 돕습니다. * 참여만 해도 자립 생활에 보탬이 되는 5만원 상당의 선물을 드려요! 📍 꼭 기억하세요! ●",
+    "content_text": "# 전세\n# 이사\n# 집주인\n# 갈등\n# 주거\n2026 LH전세 문제해결\n\"집 문제로 머리 아픈 사람? 우리가 함께 해결해줄게!\" 🛡️\n* 보일러 고장인데 집주인이 연락 안 될 때,\n* 서류가 너무 어려워 포기하고 싶을 때...\n이렇게 막막하고 어려운 일이 생겼을 때,\n✅ 신청하면 이런 일이 벌어져요!\n* 고민을 먼저 듣고, 그 분야의 'LH본부 직원'을 매칭해 드려요.\n* 상황에 따라 한명~여러명 LH본부 직원이 끝까지 해결을 돕습니다.\n* 참여만 해도 자립 생활에 보탬이 되는 5만원 상당의 선물을 드려요!\n📍 꼭 기억하세요!\n● 신청 기간: 2026. 6. 10.(수) ~6. 19.(금) 밤 12시까지\n● 해결 날짜: 2026. 6. 24.(수) 오후 2시~5시\n● 해결 장소: 인천사회복지회관 7층 상담실\n● 신청 방법:\nhttps://naver.me/FLEKrnlY\n● 진행 내용: 네이버폼 신청 → 사전 인터뷰(전화) → LH직원 매칭 → 6/24(수) 1:1 해결\n● 궁금문의: 김정현 사회복지사 (070-7663-1153)\n● 특별한 팁!! 참가자 전원에게 5만원 상당 선물 증정\n혼자 고민하지 마세요. 같이 풀어드릴게요.",
     "attachments": [],
-    "images": [],
-    "detail_accessible": false
+    "images": [
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/search_icon.png"
+      },
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_btn_icon.png"
+      },
+      {
+        "alt": "닫기",
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_close.png"
+      },
+      {
+        "alt": "2026 LH전세 문제해결",
+        "url": "https://jaripon.ncrc.or.kr/images/site/202606100710403578/jpg/loader.do"
+      },
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/editor/20260610/2026전세임대_문제해결_6월_홍보_가로700/jpg/loader.do"
+      },
+      {
+        "alt": "loading",
+        "url": "https://jaripon.ncrc.or.kr/images/cmmn/action-loader.gif"
+      }
+    ],
+    "detail_accessible": true
   },
   {
     "schema_version": "1.0",
     "source": "jaripon",
     "source_id": "1890",
-    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1890",
-    "crawled_at": "2026-09-13T13:56:44+09:00",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1890&menuPos=1",
+    "crawled_at": "2026-09-13T14:20:12+09:00",
     "category": "주거",
     "status": "모집종료",
     "title": "자기경영 프로젝트 '마이리얼라이프'",
-    "region": "전국",
+    "region": "모집종료",
     "recruitment": {
       "raw": "2026-06-08 ~ 2026-06-19",
       "start_date": "2026-06-08",
       "end_date": "2026-06-19",
-      "is_evergreen": false
+      "is_evergreen": false,
+      "headcount_raw": null
     },
     "application": {
-      "method": null,
+      "method": "온라인",
       "url": null
     },
     "result": {
-      "announcement_date_raw": null,
-      "confirmation": null
+      "announcement_date_raw": "2026-06-26",
+      "confirmation": "개별 문자 안내"
     },
     "organization": {
       "name": "희망친구 기아대책",
-      "manager_name": null,
-      "contact": null
+      "manager_name": "윤세희",
+      "contact": "02-2085-8209"
     },
     "view_count": 755,
     "tags": [
       "자립준비청년 대상"
     ],
-    "content_text": null,
+    "eligibility": {
+      "raw": null,
+      "age_min": null,
+      "age_max": null
+    },
+    "summary": "안녕하세요. 희망친구 기아대책입니다😊 기아대책은 자립준비청년들이 사회 안에서 건강하고 지속가능하게 자립 할 수 있도록, 일상생활 운영 역량을 강화하는 ‘마이리얼라이프’ 를 진행합니다. 전문 컨설턴트의 강의와 1:1 맞춤 코칭, 데일리 미션을 통해 나에게 맞는 생활 루틴을 만들고 싶은 자립준비청년을 모집합니다. 많은 참여를 바랍니다! 💚 신청링크: https://forms.gle/CWvBJLRrB9e6SjDo8 💚 활동내용 1️⃣ 오프라인 강의 4회 (1, 3, 5, 7주차) 1) 7/11(토) 13시 ~ 17시 : 발대식 / 현재 ",
+    "content_text": "안녕하세요.\n희망친구 기아대책입니다😊\n기아대책은 자립준비청년들이\n사회 안에서 건강하고 지속가능하게 자립\n할 수 있도록,\n일상생활 운영 역량을 강화하는\n‘마이리얼라이프’\n를 진행합니다.\n전문 컨설턴트의 강의와 1:1 맞춤 코칭, 데일리 미션을 통해 나에게 맞는 생활 루틴을 만들고 싶은\n자립준비청년을 모집합니다.\n많은 참여를 바랍니다!\n💚 신청링크:\nhttps://forms.gle/CWvBJLRrB9e6SjDo8\n💚 활동내용\n1️⃣\n오프라인 강의 4회 (1, 3, 5, 7주차)\n1)\n7/11(토) 13시 ~ 17시 : 발대식 / 현재 나의 공간 상태 확인, 목표 설정하기 & 시간 누수 진단 등\n2) 7/25(\n토) 14시 ~ 17시 : 공간 영역 설정, 가구 배치 배우기 & 시간 우선순위 설정 등\n3)\n8/8(토) 14시 ~ 17시 : 내 방에 '에너지뷰' 만들기, 취향 정리하기 & 나만의 루틴 만들기 등\n4) 8/22(토) 14시 ~ 17시 : 공간+시간 통합 설계도 만들기 등\n※장소: 희망친구 기아대책 본사(서울시 강서구 공항대로 59다길 109)\n2️⃣\n데일리 미션 수행 (1주차 ~ 8주차)\n오프라인 강의 후, 배운 내용을 내 것으로 만드는 14일간의 미션 수행!\n데일리미션을 100% 완수할 수 있도록 전문가가 1:1로 미션 수행 체크를 도와줍니다.(Like. 헬스트레이너 식단관리)\n3️⃣\n1:1 맞춤형 케어 (2, 4, 6, 8, 10주차)\n온오프라인으로 개별 맞춤 피드백\n※ 가정 방문 피드백의 경우 희망하는 서울/경기 거주자에 한해 진행\n4️⃣ 수료식 :\n9/19(토) 14시 ~ 17시\n※장소: 희망친구 기아대책 본사(서울시 강서구 공항대로 59다길 109)\n💚 신청 전 확인사항\n✔️\n프로젝트 참여 과정에서 거주 공간의 Before/After 사진·영상, 미션 기록, 참여 소감 인터뷰 등이 수집 및 이용될 수 있습니다.(기아대책 홈페이지, SNS, 언론보도 등)",
     "attachments": [],
-    "images": [],
-    "detail_accessible": false
+    "images": [
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/search_icon.png"
+      },
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_btn_icon.png"
+      },
+      {
+        "alt": "닫기",
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_close.png"
+      },
+      {
+        "alt": "자기경영 프로젝트 '마이리얼라이프'",
+        "url": "https://jaripon.ncrc.or.kr/images/site/202606010249596512/png/loader.do"
+      },
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/editor/20260601/202606010243235031/png/loader.do"
+      },
+      {
+        "alt": "loading",
+        "url": "https://jaripon.ncrc.or.kr/images/cmmn/action-loader.gif"
+      }
+    ],
+    "detail_accessible": true
   },
   {
     "schema_version": "1.0",
     "source": "jaripon",
     "source_id": "1822",
-    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1822",
-    "crawled_at": "2026-09-13T13:56:56+09:00",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1822&menuPos=1",
+    "crawled_at": "2026-09-13T14:21:04+09:00",
     "category": "주거",
     "status": "모집중",
     "title": "아동복지시설 자립체험 프로그램 사업 신청 안내",
-    "region": "전북",
+    "region": "모집중",
     "recruitment": {
       "raw": "2026-04-30 ~ 2026-09-30",
       "start_date": "2026-04-30",
       "end_date": "2026-09-30",
-      "is_evergreen": false
+      "is_evergreen": false,
+      "headcount_raw": null
     },
     "application": {
-      "method": null,
+      "method": "온라인",
       "url": null
     },
     "result": {
-      "announcement_date_raw": null,
-      "confirmation": null
+      "announcement_date_raw": "2026-09-30",
+      "confirmation": "상시접수, 개별연락"
     },
     "organization": {
       "name": "전북특별자치도자립지원전담기관",
-      "manager_name": null,
-      "contact": null
+      "manager_name": "김지선",
+      "contact": "010-2212-1625"
     },
     "view_count": 353,
     "tags": [
-      "보호아동 및 보호연장아동 대상"
+      "전북특별자치도자립지원전담기관"
     ],
-    "content_text": null,
+    "eligibility": {
+      "raw": null,
+      "age_min": null,
+      "age_max": null
+    },
+    "summary": "안녕하세요. 전북특별자치도자립지원전담기관 입니다. 2026년 굿네이버스 전북특별자치도자립지원전담기관 희망디딤돌 사업팀에서는 아동복지시설 자립체험 프로그램 사업 참여자를 모집합니다. ○ 사업명 : 2026년 아동복지시설 자립체험 프로그램 ○ 모집대상 : 15세 이상 보호아동 및 보호연장아동 ○ 운영기간 : 2026년 4월~11월 * 상시접수 ○ 지원사항(아동 1인 기준) : 구분 기간 장소 지원금액* 단기체험 2박 3일 ~ 4박 5일 시설 내부 독립된 1인실이 확보된 공간 (1박): 20,000원 (1박) 10,000원 장기체험 1개",
+    "content_text": "안녕하세요.\n전북특별자치도자립지원전담기관\n입니다.\n2026년 굿네이버스 전북특별자치도자립지원전담기관 희망디딤돌 사업팀에서는\n아동복지시설 자립체험 프로그램\n사업\n참여자를 모집합니다.\n○ 사업명 :\n2026년 아동복지시설 자립체험 프로그램\n○ 모집대상 :\n15세 이상 보호아동 및 보호연장아동\n○ 운영기간 :\n2026년 4월~11월\n* 상시접수\n○ 지원사항(아동 1인 기준) :\n구분\n기간\n장소\n지원금액*\n단기체험\n2박 3일 ~ 4박 5일\n시설 내부 독립된 1인실이 확보된 공간\n(1박): 20,000원\n(1박) 10,000원\n장기체험\n1개월\n(1개월): 300,000원\n(1개월) 100,000원\n자립체험캠프\n1박 2일\n희망 국내지역 및 공간\n- 운영비: 400,000원\n(* 동행인력 인원 수 상관없이\n총 40만원 지원)\n○ 신청방법 :\n- 대상자 신청서류와 함께 공문으로 제출\n- 공문접수처: 전북특별자치도자립지원전담기관 E-mail(\njeonbukjarip@gnk.or.kr\n)\n- 제출서류 안내 및 양식 붙임파일 참조\n○ 결과발표 :\n개별연락\n○ 문의 :\n전북특별자치도자립지원전담기관 희망디딤돌 전북센터\n* Tel. 063-714-3329, * E-mail. jeonbukjarip@gnk.or.kr",
     "attachments": [],
-    "images": [],
-    "detail_accessible": false
+    "images": [
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/search_icon.png"
+      },
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_btn_icon.png"
+      },
+      {
+        "alt": "닫기",
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_close.png"
+      },
+      {
+        "alt": "아동복지시설 자립체험 프로그램 사업 신청 안내",
+        "url": "https://jaripon.ncrc.or.kr/images/site/202604290619092037/png/loader.do"
+      },
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/editor/20260429/붙임_2._2026년_전북특별자치도자립지원전담기관_아동복지시설_자립체험프로그램_안내_이미지/png/loader.do"
+      },
+      {
+        "alt": "loading",
+        "url": "https://jaripon.ncrc.or.kr/images/cmmn/action-loader.gif"
+      }
+    ],
+    "detail_accessible": true
   },
   {
     "schema_version": "1.0",
     "source": "jaripon",
     "source_id": "2091",
-    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2091",
-    "crawled_at": "2026-09-13T13:56:00+09:00",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2091&menuPos=1",
+    "crawled_at": "2026-09-13T14:12:41+09:00",
     "category": "주거",
     "status": null,
     "title": "2026 WOORI Chance 자립키트 4차",
-    "region": "전국",
+    "region": "2026 WOORI Chance 자립키트 4차",
     "recruitment": {
       "raw": "상시 모집",
       "start_date": null,
       "end_date": null,
-      "is_evergreen": true
+      "is_evergreen": true,
+      "headcount_raw": null
     },
     "application": {
-      "method": null,
+      "method": "온라인",
       "url": null
     },
     "result": {
-      "announcement_date_raw": null,
-      "confirmation": null
+      "announcement_date_raw": "상시",
+      "confirmation": "개별 키트발송"
     },
     "organization": {
       "name": "사회복지법인 굿네이버스",
-      "manager_name": null,
-      "contact": null
+      "manager_name": "한예솔",
+      "contact": "02-6424-1558"
     },
-    "view_count": 829,
+    "view_count": 832,
     "tags": [],
-    "content_text": null,
+    "eligibility": {
+      "raw": null,
+      "age_min": null,
+      "age_max": null
+    },
+    "summary": "안녕하세요 굿네이버스 2026 우리찬스자립키트 사무국입니다. 우리금융미래재단과 함께하는 2026년 WOORI Chance 자립키트 (4차) 대상자 모집을 실시합니다. [일정] 기관모집(1차) : 2026년 8월 5일 ~ 8월 26일 개인모집 : 2026년 9월 7일 ~ (선착순) [지원내용] 우리찬스자립키트 홈페이지를 통해 세부 품목 확인 가능 ( https://www.woorichancekit.com/ ) [개인신청 절차] 1. WOORI Chance 자립키트 홈페이지 첫 화면 베너 클릭 후 신청구글폼 작성 ( https://ww",
+    "content_text": "안녕하세요\n굿네이버스 2026 우리찬스자립키트 사무국입니다.\n우리금융미래재단과 함께하는 2026년 WOORI Chance 자립키트 (4차) 대상자 모집을 실시합니다.\n[일정]\n기관모집(1차) : 2026년 8월 5일 ~ 8월 26일\n개인모집 : 2026년 9월 7일 ~ (선착순)\n[지원내용]\n우리찬스자립키트 홈페이지를 통해 세부 품목 확인 가능 (\nhttps://www.woorichancekit.com/\n)\n[개인신청 절차]\n1. WOORI Chance 자립키트 홈페이지 첫 화면 베너 클릭 후 신청구글폼 작성 (\nhttps://www.woorichancekit.com/\n)\n2. 신청 접수 후 2주 이내 선정자에 한하여 선정 안내 (선정자 개인연락처로 통보되며, 미선정자의 경우 별도 안내 없음)\n3. 결과 안내를 통해 공유받은 페이지 회원정보를 통해 선택가전 배송 과정 확인 가능\n4. 우리찬스자립키트 선정 후 배송 관련 CS의 경우 우리찬스자립키트 홈페이지 [톡톡문의] 클릭 후 문의 가능\n[문의]\n사회복지법인 굿네이버스 임팩트사업부 우리찬스자립키트 사무국 (han2@gnk.or.kr)\n많은 관심과 참여 부탁드립니다.",
     "attachments": [],
-    "images": [],
-    "detail_accessible": false
+    "images": [
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/search_icon.png"
+      },
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_btn_icon.png"
+      },
+      {
+        "alt": "닫기",
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_close.png"
+      },
+      {
+        "alt": "2026 WOORI Chance 자립키트 4차",
+        "url": "https://jaripon.ncrc.or.kr/images/site/202609070233139205/jpg/loader.do"
+      },
+      {
+        "alt": null,
+        "url": "https://gnpartner.kr/uploaded/webedit/2607/62dc8e18ae61fc8a083069a066de0c221766e9c6.jpg"
+      },
+      {
+        "alt": "loading",
+        "url": "https://jaripon.ncrc.or.kr/images/cmmn/action-loader.gif"
+      }
+    ],
+    "detail_accessible": true
   },
   {
     "schema_version": "1.0",
     "source": "jaripon",
     "source_id": "2076",
-    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2076",
-    "crawled_at": "2026-09-13T13:56:08+09:00",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2076&menuPos=1",
+    "crawled_at": "2026-09-13T14:13:21+09:00",
     "category": "주거",
     "status": "모집중",
     "title": "자립준비청년 매트리스 지원사업",
-    "region": "서울 외 (1)",
+    "region": "모집중",
     "recruitment": {
       "raw": "상시 모집",
       "start_date": null,
       "end_date": null,
-      "is_evergreen": true
+      "is_evergreen": true,
+      "headcount_raw": null
     },
     "application": {
-      "method": null,
+      "method": "온라인",
       "url": null
     },
     "result": {
-      "announcement_date_raw": null,
-      "confirmation": null
+      "announcement_date_raw": "상시",
+      "confirmation": "개별연락"
     },
     "organization": {
       "name": "사단법인 야나",
-      "manager_name": null,
-      "contact": null
+      "manager_name": "목혜인",
+      "contact": "02-692-5005"
     },
-    "view_count": 701,
+    "view_count": 702,
     "tags": [
-      "자립준비청년,",
-      "주거,",
-      "매트리스"
+      "자립준비청년",
+      "주거",
+      "매트리스",
+      "야나"
     ],
-    "content_text": null,
+    "eligibility": {
+      "raw": null,
+      "age_min": null,
+      "age_max": null
+    },
+    "summary": "##주거 # #매트리스 # #야나 사단법인 야나(yana)는 아동복지시설의 보호아동, 자립준비청년, 한부모가정에게 “You Are not Alone” 의 메시지를 전달하기 위해 2022년 10월 설립되었습니다. 야나에서는 자립준비청년들에게 쾌적하고 위생적인 수면 환경을 제공하고자 매트리스 지원 사업을 추진합니다 ✅ 사업명 : [야나x소울슬립] 자립준비청년 매트리스 지원 사업 ✅ 사업목적 : 경제적 이유로 낡고 비위생적인 매트리스나 열악한 수면 환경을 방치하기 쉬운 청년들에게 건강한 수면 환경을 제공하여 신체적·정신적 건강권을 보장하",
+    "content_text": "##주거\n# #매트리스\n# #야나\n사단법인 야나(yana)는 아동복지시설의 보호아동, 자립준비청년, 한부모가정에게 “You Are not Alone” 의 메시지를 전달하기 위해 2022년 10월 설립되었습니다.\n야나에서는 자립준비청년들에게 쾌적하고 위생적인 수면 환경을 제공하고자 매트리스 지원 사업을 추진합니다\n✅ 사업명 : [야나x소울슬립] 자립준비청년 매트리스 지원 사업\n✅ 사업목적 : 경제적 이유로 낡고 비위생적인 매트리스나 열악한 수면 환경을 방치하기 쉬운 청년들에게 건강한 수면 환경을 제공하여 신체적·정신적 건강권을 보장하고 주거 복지 향상 도모한다.\n✅ 사업기간 : 2026년 9월 1일부터 2027년 8월 30일까지 1년 간\n✅ 사업대상 : 서울, 경기도에 거주하는 만 18세 이상 만 34세 이하의 자립준비청년\n✅ 지원내용 : 소울슬립 매트리스 2종 옵션 중 택 1 무료지원 (싱글 혹은 슈퍼싱글 사이즈 선택가능)\n- 옵션 1) 28cm 독립스프링 매트리스\n- 옵션 2) 32cm 유로탑 독립스프링 매트리스\n( ※ 매트리스 단품만 지원되며, 침대 프레임은 불포함)\n✅ 지원 인원 : 1명/달\n✅ 대상자 선정 기준 : 수면환경·경제적 상황·건강 상태 종합하여 매트리스 사용 및 교체가 가장 시급한 자\n✅ 신청방식 : 구글폼 신청 https://forms.gle/4iDvmVdkbPWX35ip7\n✅ 신청기한 : 상시 (선정 인원 달성 시 조기마감될 수 있음)\n✅ 사업진행 프로세스\n모집 > 대상자 선정 > 매트리스 상담 및 배달일정 확인 > 물품 제작 > 물품배송 > 소감문 제출\n✅제출서류 : 신청서(개인정보제공동의서 포함), 보호종료확인서\n✅ 후원 파트너 : 소울슬립\n※ 지원되는 매트리스 제품 상세내용은 구글폼 신청서 상의 제품참고 링크를 참고해 주세요.\n📞 문의처\n사단법인 야나 담당자 목혜인\n☎ 02--6925-5654\n✉ yana@yana.or.kr",
     "attachments": [],
-    "images": [],
-    "detail_accessible": false
+    "images": [
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/search_icon.png"
+      },
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_btn_icon.png"
+      },
+      {
+        "alt": "닫기",
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_close.png"
+      },
+      {
+        "alt": "자립준비청년 매트리스 지원사업",
+        "url": "https://jaripon.ncrc.or.kr/images/site/202608310232439585/png/loader.do"
+      },
+      {
+        "alt": "loading",
+        "url": "https://jaripon.ncrc.or.kr/images/cmmn/action-loader.gif"
+      }
+    ],
+    "detail_accessible": true
   },
   {
     "schema_version": "1.0",
     "source": "jaripon",
     "source_id": "2050",
-    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2050",
-    "crawled_at": "2026-09-13T13:56:11+09:00",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2050&menuPos=1",
+    "crawled_at": "2026-09-13T14:14:20+09:00",
     "category": "주거",
     "status": "모집중",
     "title": "(경상북도자립지원전담기관)자립 생활관 입주자 모집",
-    "region": "전국",
+    "region": "모집중",
     "recruitment": {
       "raw": "상시 모집",
       "start_date": null,
       "end_date": null,
-      "is_evergreen": true
+      "is_evergreen": true,
+      "headcount_raw": null
     },
     "application": {
-      "method": null,
+      "method": "온라인",
       "url": null
     },
     "result": {
-      "announcement_date_raw": null,
-      "confirmation": null
+      "announcement_date_raw": "상시",
+      "confirmation": "개별통보"
     },
     "organization": {
       "name": "경상북도자립지원전담기관",
-      "manager_name": null,
-      "contact": null
+      "manager_name": "노푸름",
+      "contact": "054-441-9942"
     },
     "view_count": 121,
     "tags": [
-      "자립준비청년 대상"
+      "자립준비청년",
+      "보호연장아동",
+      "보호종료예정",
+      "오피스텔형",
+      "주거지원",
+      "독립공간",
+      "1"
     ],
-    "content_text": null,
+    "eligibility": {
+      "raw": "만 18 세 이상 보호종료 예정 후 5 년 이내 자립준비청년",
+      "age_min": 18,
+      "age_max": null
+    },
+    "summary": "#보호연장아동 #보호종료예정 #오피스텔형 #주거지원 #독립공간 🏠 자립 생활관 입주자 모집 🏠 #1 인 1 실 # 오피스텔형 # 독립주거공간 # 자립준비청년 # 사례관리지원 🧡",
+    "content_text": "#보호연장아동\n#보호종료예정\n#오피스텔형\n#주거지원\n#독립공간\n🏠\n자립\n생활관\n입주자 모집\n🏠\n#1\n인\n1\n실\n#\n오피스텔형\n#\n독립주거공간\n#\n자립준비청년\n#\n사례관리지원\n🧡\n지원대상\n:\n만\n18\n세 이상 보호종료\n(\n예정\n)\n후\n5\n년 이내 자립준비청년\n,\n보호연장아동\n🧡\n지원내용\n:\n1\n인\n1\n실 독립된 주거공간 제공\n(\n입주기간 종료 후 심사를 통해 연장 가능\n),\n자립을 위한 맞춤형 통합 사례관리 프로그램 제공\n🧡\n입주유형:\n장기·\n단기입주\n(\n자립준비청년\n) /\n보호연장아동 단기입주\n(3\n개월\n,\n연 최대\n2\n회 신청 가능\n)\n🧡\n입주조건\n:\n보증금\n300\n만원\n(\n퇴소 시 반환\n,\n보호연장아동 단기입주 제외\n)\n월 임대료 없음\n,\n관리비 및 공과금 본인 부담\n🧡\n입주 절차\n의뢰서\n및\n입주신청서\n접수\n-\n서류 검토\n-\n사전 면담\n(사업\n담당자)\n-\n입주 심사\n및\n회의\n-\n결과 통보\n-\n계약서작성\n및 생활관 입주\n🧡\n입주 신청\n문의\n🧡\n경상북도자립지원전담기관 사업지원팀\n생활지원사업 담당자 T. 070-4432-9948\n사업 신청 바로가기 - (네이버폼)\nhttps://naver.me/xONSvQRq",
     "attachments": [],
-    "images": [],
-    "detail_accessible": false
+    "images": [
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/search_icon.png"
+      },
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_btn_icon.png"
+      },
+      {
+        "alt": "닫기",
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_close.png"
+      },
+      {
+        "alt": "(경상북도자립지원전담기관)자립 생활관 입주자 모집",
+        "url": "https://jaripon.ncrc.or.kr/images/site/202608200317549483/jpg/loader.do"
+      },
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/editor/20260820/202608200256399937/jpg/loader.do"
+      },
+      {
+        "alt": "loading",
+        "url": "https://jaripon.ncrc.or.kr/images/cmmn/action-loader.gif"
+      }
+    ],
+    "detail_accessible": true
   },
   {
     "schema_version": "1.0",
     "source": "jaripon",
     "source_id": "1913",
-    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1913",
-    "crawled_at": "2026-09-13T13:56:40+09:00",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1913&menuPos=1",
+    "crawled_at": "2026-09-13T14:19:28+09:00",
     "category": "주거",
     "status": null,
     "title": "희망디딤돌 충북센터 입주자 모집 안내",
-    "region": "충북",
+    "region": "희망디딤돌 충북센터 입주자 모집 안내",
     "recruitment": {
       "raw": "상시 모집",
       "start_date": null,
       "end_date": null,
-      "is_evergreen": true
+      "is_evergreen": true,
+      "headcount_raw": "4"
     },
     "application": {
-      "method": null,
+      "method": "오프라인",
       "url": null
     },
     "result": {
-      "announcement_date_raw": null,
-      "confirmation": null
+      "announcement_date_raw": "상시",
+      "confirmation": "유선연락 및 공문"
     },
     "organization": {
       "name": "희망디딤돌 충북센터",
-      "manager_name": null,
-      "contact": null
+      "manager_name": "정인혁",
+      "contact": "043-267-5550"
     },
     "view_count": 227,
     "tags": [
       "자립준비청년 대상"
     ],
-    "content_text": null,
+    "eligibility": {
+      "raw": "아동복지시설에서 보호가 종료 예정 된 18 세 ~ 29 세 이하 자립준비청년 모집 인원",
+      "age_min": 18,
+      "age_max": 29
+    },
+    "summary": "희망디딤돌 충북센터 입주자 모집 안내 희망디딤돌 충북센터는 아동복지시설 ( 아동양육시설 , 가정위탁 , 공동생활가정 등 ) 에서 보호가 종료된 ( 또는 예정인 ) 18 세이상 29 세이하 자립준비청년을 대상으로 입주자를 모집합니다 . 희망디딤돌 충북센터는 입주자들에게 기본 2 년 ( 최대 5 년 )간 안정적으로 생활할 수 있는 1 인 오피스텔인 주거공간과 사례관리 등 다양한 서비스를 제공하고 있습니다 . 1. 모집 개요 가 . 모집대상 및 기간 구분 내용 시행 목적 1 인 주거공간 제공과 입주관리 및 사례관리서비스를 통해 충북도내 ",
+    "content_text": "희망디딤돌 충북센터\n입주자 모집 안내\n희망디딤돌 충북센터는 아동복지시설\n(\n아동양육시설\n,\n가정위탁\n,\n공동생활가정 등\n)\n에서\n보호가 종료된\n(\n또는 예정인\n) 18\n세이상\n29\n세이하 자립준비청년을 대상으로 입주자를 모집합니다\n.\n희망디딤돌 충북센터는 입주자들에게 기본 2\n년\n(\n최대\n5\n년\n)간\n안정적으로 생활할 수 있는\n1\n인 오피스텔인 주거공간과\n사례관리 등\n다양한 서비스를 제공하고 있습니다\n.\n1. 모집 개요\n가\n.\n모집대상 및 기간\n구분\n내용\n시행 목적\n1\n인 주거공간 제공과 입주관리 및 사례관리서비스를 통해\n충북도내 자립준비청년의 안정적인 주거 지원 및 자립역량 강화\n모집 대상\n아동복지시설에서 보호가 종료\n(\n예정\n)\n된\n18\n세\n~ 29\n세 이하\n자립준비청년\n모집 인원\n4\n명\n나\n.\n입주자 지원 내용\n구분\n내용\n주거\n-\n최초 계약\n2\n년\n-\n연장심사를 통해 계약 종료 전 재계약을 통한\n1\n년 연장\n3\n회 가능\n.\n최대\n5\n년 입주\n임차료 및 관리비\n-\n보증금\n1,000,000\n원\n,\n임차료 없음\n생활기기\n및 물품\n-\n침구\n싱글침대\n,\n침구류\n및 가구\n옷장\n,\n화장대\n,\n신발장\n-\n가전제품\ntv,\n세탁기\n,\n건조기\n,\n냉장고\n,\n에어컨\n,\n환기장치\n,\n청소기\n-\n조리기기\n인덕션\n,\n밥솥\n,\n전자렌지\n및 조리도구\n식기 및 주방용품\n자립지원\n-1:1\n맞춤형 사례관리\n-\n교육\n,\n취업\n,\n문화여가활동\n,\n의료\n,\n심리정서 지원 등\n다\n.\n신청 방법\n구분\n내용\n신청 방법\n1.\n입주신청\n전화 문의\n후\n신청서 접수\n(\n방문 또는 이메일\ncbdaon@naver.com)\n2.\n홈페이지\n(https://cbjariphope.kr/default/)\n에서 입주신청 후 유선 연락\n입주 절차\n입주 문의\n→ 오피스텔 확인 및 신청자 상담 -> 입주 신청\n→\n미제출 서류 보완\n→\n입주 심사\n→\n입주자 결정 및 통보\n→\n입주 계약 및 보증금 납부\n→\n입주\n※\n미제출서류 보완부터 입주계약까지 약\n1\n달 소요\n※\n입주 방법은 대상 및 기관의 사정에 따라 변동될 수 있습니다\n.\n문의\n희망디딤돌 충북센터\n043-267-5550\n■ 위치\n:\n충북 청주시 흥덕구 공단로\n100\n스타에이치\n(희망디딤돌 충북센터 사무실 : 209호 / 입주예정 오피스텔 : 동 건물 오피스텔)\n입주 관련\nq&a\n1.\n희망디딤돌 충북센터 생활관 입주 대상은 누구인가요\n?\n▶\n아동복지시설 및 가정위탁에서 보호가 종료된\n(\n또는 예정인\n) 18\n세 이상\n29\n세 이하\n자립준비청년 가운데 다음 조건에 해당하는 자립준비청년이 입주 가능합니다\n.\n①\n퇴소 후 안정적인 주거공간 및 자립생활 지원이 필요한 자\n②\n매월 공과금 및 생활비 납부 가능한 자\n③\n희망디딤돌 충북센터에서 제공하는 맞춤형 사례관리서비스에 동의하는 자\n2.\n희망디딤돌 충북센터 생활관 거주기간은 몇 년인가요\n?\n▶\n자립\n생활관 입주 기간은 기본\n2\n년\n.\n계약기간 종료 전\n입주 연장 신청을 하여 심사를\n통과하면\n1\n년 연장\n,\n최대\n3\n회까지 가능함으로\n,\n실입주 기간은 최대\n5\n년입니다\n.\n3.\n희망디딤돌 충북센터 생활관 입주 시 입주자가 납부할 주거비 종류와 금액은 얼마 인가요\n?\n▶\n임차료\n(\n월세\n)\n는 무료이며\n,\n입주 전 입주 보증금\n(1,000,000\n원\n)\n을 입금하시면 됩니다\n.\n※\n입주 보증금은 임대차계약 종료 또는 해지 시 반환\n▶\n자립생활관에 대한 관리비\n(\n공용관리비\n,\n전기세\n,\n수도세\n)\n및 공과금\n(\n가스비\n)\n등\n개인에게 제공되는 오피스텔에서 발생하는 관리비는 입주자 본인이 부담합니다\n.\n※\n현재 매월 관리비\n·\n공과금 사용 금액 중\n10\n만원 지원\n.\n해당 지원은 상황에 따라 변동 가능\n4.\n입주신청 및 입주는 어떻게 하나요\n?\n▶\n입주자 모집 공고를 참고하여 다음과 같은 방법으로 신청해주시면 됩니다\n.\n①\n입주신청 전화 문의(043-267-5550)\n또는 희망디딤돌 충북센터 홈페이지에서 입주신청 페이지 작성\n홈페이지\n☞\nhttps://cbjariphope.kr/default/sub/contact/01.php\n②\n신청자 연락처로 담당자가 직접 전화 연락하여 추후 진행 안내\n③\n신청 구비 서류 제출\n입주신청서\n1\n부\n,\n개인정보 수집\n·\n이용 동의서\n1\n부\n,\n가족관계증명서\n(\n상세\n),\n보호종료확인서\n,\n입주추천서\n,\n주민등록초본\n(\n상세\n),\n개인통장사본\n,\n급여\n·\n재직\n·\n재학 증명서\n(\n해당자\n),\n자립기술평가표 등\n④\n입주 심사 진행\n⑤\n입주 허가\n⑥\n계약서 작성 및 보증금 납부\n⑦\n입주\n(\n입주일은 협의 후 진행\n)\n5.\n희망디딤돌 충북센터 생활관 입주가 취소될 수 있나요\n?\n▶\n입주자로 선정된 대상자가 협의된 기한 내 입주하지 않을 경우\n,\n제출된 서류가\n허위로 판명된 경우 입주결정이 취소될 수 있습니다\n.\n6.\n거주 후 강제 퇴거 사유가 있나요\n?\n①\n입주자 생활규칙을 위반한 경우\n②\n사례관리\n,\n상담\n,\n교육\n,\n프로그램 등 참여를\n3\n개월 연속으로 불이행\n③\n월 관리비\n2\n회 이상 연체할 경우 등\n④\n허위 또는 부정한 방법으로 입주한 경우\n⑤\n그 밖에 공동생활 질서를 해치거나 목적에 부합하지 않은 행위를 한 경우\n7.\n문의\n(\n희망디딤돌 충북센터\n:\n043-267-5550\n)",
     "attachments": [],
-    "images": [],
-    "detail_accessible": false
+    "images": [
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/search_icon.png"
+      },
+      {
+        "alt": null,
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_btn_icon.png"
+      },
+      {
+        "alt": "닫기",
+        "url": "https://jaripon.ncrc.or.kr/images/home/kor/user/main/sitemap_close.png"
+      },
+      {
+        "alt": "희망디딤돌 충북센터 입주자 모집 안내",
+        "url": "https://jaripon.ncrc.or.kr/images/site/202606170414400835/png/loader.do"
+      },
+      {
+        "alt": "loading",
+        "url": "https://jaripon.ncrc.or.kr/images/cmmn/action-loader.gif"
+      }
+    ],
+    "detail_accessible": true
   }
 ]

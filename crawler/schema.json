@@ -99,8 +99,47 @@
         },
         "is_evergreen": {
           "type": "boolean"
+        },
+        "headcount_raw": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "모집인원 원문(예: '00명 내외'). 상세페이지 접근 차단으로 현재 크롤러는 항상 null."
         }
       }
+    },
+    "eligibility": {
+      "type": "object",
+      "description": "모집대상/지원자격/지원요건(연령·조건). 본문에 해당 라벨이 명시된 공고에서만 추출되며, 없으면 null.",
+      "properties": {
+        "raw": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "description": "모집대상 원문 전체"
+        },
+        "age_min": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        },
+        "age_max": {
+          "type": [
+            "integer",
+            "null"
+          ]
+        }
+      }
+    },
+    "summary": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "해당 공고의 간략한 설명(본문 요약). 상세페이지 접근 차단으로 현재 크롤러는 항상 null."
     },
     "application": {
       "type": "object",
