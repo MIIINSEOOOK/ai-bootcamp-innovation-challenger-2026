@@ -23,31 +23,35 @@
 
 ```bash
 pip install -r requirements.txt
-python jaripon_crawler.py
+python jaripon_crawler.py --output-dir ../data/jaripon
 ```
+
+`--output-dir`을 생략하면 현재 디렉토리(`crawler/`) 밑에 `jaripon_output/`을 만든다 (`.gitignore`에 등록되어 있어 커밋되지 않는다). 이 저장소의 정식 스냅샷은 `../data/jaripon`에 커밋되므로, 스냅샷을 갱신할 때는 항상 `--output-dir ../data/jaripon`을 지정한다.
 
 기본값은 **최근 90일**입니다.
 
 ```bash
-python jaripon_crawler.py --days 90
+python jaripon_crawler.py --days 90 --output-dir ../data/jaripon
 ```
 
 최근 60일만:
 
 ```bash
-python jaripon_crawler.py --days 60
+python jaripon_crawler.py --days 60 --output-dir ../data/jaripon
 ```
 
 경제/주거만:
 
 ```bash
-python jaripon_crawler.py --days 90 --categories 경제 주거
+python jaripon_crawler.py --days 90 --categories 경제 주거 --output-dir ../data/jaripon
 ```
 
 ## 출력
 
+`--output-dir`로 지정한 경로(정식 스냅샷은 `../data/jaripon`, 즉 저장소 기준 `data/jaripon/`) 아래에 다음 구조로 저장된다.
+
 ```text
-jaripon_output/
+data/jaripon/
 ├─ jaripon_all.json
 ├─ jaripon_all.csv
 └─ by_category/
@@ -57,6 +61,8 @@ jaripon_output/
    ├─ 주거.csv
    └─ ...
 ```
+
+디렉토리 구조와 각 파일의 의미는 `../data/jaripon/README.md`에 더 자세히 정리되어 있다.
 
 ## 최근 90일의 의미
 
