@@ -8,8 +8,7 @@
 data/personas/
 ├─ README.md              # 이 파일
 ├─ schema.json             # 페르소나 레코드 JSON Schema
-├─ generate_personas.py    # 생성 스크립트 (고정 시드, 재실행해도 동일 결과)
-└─ personas.json           # 생성된 12명 + 60일 로그 전체 데이터
+└─ personas.json           # 12명 + 60일 로그 전체 데이터 (정적 데이터, 아래 "생성 방법" 참고)
 ```
 
 ## 페르소나 목록
@@ -43,16 +42,9 @@ data/personas/
 
 ## 생성 방법
 
-- `generate_personas.py`가 `random.Random(seed)`로 페르소나별 고정 시드를 써서 재실행해도 항상 동일한 `personas.json`을 만든다.
-- 기간은 2026-09-13 기준 최근 60일 고정.
-- 3가지 로그 생성 패턴(`build_logs_stable`/`build_logs_gradual_decline`/`build_logs_abrupt`)에 `severity`/`cutoff_day`/`post_cutoff_prob` 같은 파라미터를 다르게 줘서 서브타입 변형을 만든다.
+`personas.json`은 고정 시드(`random.Random(seed)`, 페르소나별 1~12)와 고정 기간(2026-09-13 기준 최근 60일)으로 결정론적으로 생성한 정적 데이터다. 정상 유지/점진적 악화(완만·중간·심함)/급격한 단절(완전 무응답 포함) 3가지 로그 패턴에 파라미터(severity/cutoff_day/post_cutoff_prob)를 다르게 줘서 12명의 변형을 만들었다. 생성 스크립트는 재실행해도 완전히 동일한 결과만 나오는 것을 확인한 뒤 저장소에서 제거했고(재현성보다 간결함을 택함), 이 파일이 유일한 소스다.
 
-재생성:
-
-```bash
-cd data/personas
-python generate_personas.py
-```
+데이터를 다시 만들거나 변형을 추가하려면 이 문서의 로직 설명을 참고해 새로 스크립트를 작성하면 된다.
 
 ## 한계 / 주의사항
 
