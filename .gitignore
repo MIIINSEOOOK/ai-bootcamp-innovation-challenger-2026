@@ -31,5 +31,9 @@ venv/
 target/
 .gradle/
 
+# Crawler local runs (canonical snapshot lives in data/)
+crawler/jaripon_output/
+jaripon_output/
+
 # Logs
 *.log

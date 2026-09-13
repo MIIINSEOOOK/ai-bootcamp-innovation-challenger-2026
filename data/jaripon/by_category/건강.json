@@ -1,0 +1,456 @@
+[
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2072",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2072",
+    "crawled_at": "2026-09-13T13:56:08+09:00",
+    "category": "건강",
+    "status": "모집종료",
+    "title": "인(仁)품 생활교육 \"단짠 단짠 갈비찜“",
+    "region": "인천",
+    "recruitment": {
+      "raw": "2026-08-28 ~ 2026-09-06",
+      "start_date": "2026-08-28",
+      "end_date": "2026-09-06",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "인천광역시자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 149,
+    "tags": [
+      "자립준비청년"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2060",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2060",
+    "crawled_at": "2026-09-13T13:56:09+09:00",
+    "category": "건강",
+    "status": "모집종료",
+    "title": "건강 3 STEP 프로젝트_건강검진 패키지 지원사업",
+    "region": "서울 외 (2)",
+    "recruitment": {
+      "raw": "2026-08-21 ~ 2026-08-31",
+      "start_date": "2026-08-21",
+      "end_date": "2026-08-31",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "사단법인 야나",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 681,
+    "tags": [
+      "자립준비청년,",
+      "건강검진,",
+      "전문의상담"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2040",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2040",
+    "crawled_at": "2026-09-13T13:56:19+09:00",
+    "category": "건강",
+    "status": "모집종료",
+    "title": "자립준비청년 여성을 위한 '가다실9가' 접종지원사업",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-08-12 ~ 2026-08-23",
+      "start_date": "2026-08-12",
+      "end_date": "2026-08-23",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "사단법인 지속가능발전연구소 마침표",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 567,
+    "tags": [],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2029",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2029",
+    "crawled_at": "2026-09-13T13:56:19+09:00",
+    "category": "건강",
+    "status": "모집종료",
+    "title": "2026년 자립역량강화교육 체험클래스 - 클라이밍",
+    "region": "충남",
+    "recruitment": {
+      "raw": "2026-08-07 ~ 2026-08-17",
+      "start_date": "2026-08-07",
+      "end_date": "2026-08-17",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "충남아동자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 171,
+    "tags": [
+      "청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2007",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2007",
+    "crawled_at": "2026-09-13T13:56:21+09:00",
+    "category": "건강",
+    "status": "모집종료",
+    "title": "마중물런 60일 습관 챌린저 모집",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-07-29 ~ 2026-08-20",
+      "start_date": "2026-07-29",
+      "end_date": "2026-08-20",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "한사람재단",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 606,
+    "tags": [],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1957",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1957",
+    "crawled_at": "2026-09-13T13:56:32+09:00",
+    "category": "건강",
+    "status": "모집종료",
+    "title": "건강권보장 의식주지원사업 '자립愛:溫(ON)' 추가모집",
+    "region": "전북",
+    "recruitment": {
+      "raw": "2026-07-02 ~ 2026-07-10",
+      "start_date": "2026-07-02",
+      "end_date": "2026-07-10",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "전북특별자치도자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 258,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1956",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1956",
+    "crawled_at": "2026-09-13T13:56:32+09:00",
+    "category": "건강",
+    "status": "모집종료",
+    "title": "자립준비청년 여성을 위한 '가다실9가' 접종지원사업",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-07-02 ~ 2026-07-15",
+      "start_date": "2026-07-02",
+      "end_date": "2026-07-15",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "사단법인 지속가능발전연구소 마침표",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 642,
+    "tags": [],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1917",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1917",
+    "crawled_at": "2026-09-13T13:56:38+09:00",
+    "category": "건강",
+    "status": "모집종료",
+    "title": "[서울자립지원전담기관]마음 산책 - 댕댕 힐링 Time",
+    "region": "서울",
+    "recruitment": {
+      "raw": "2026-06-22 ~ 2026-07-10",
+      "start_date": "2026-06-22",
+      "end_date": "2026-07-10",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "서울시자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 270,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1904",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1904",
+    "crawled_at": "2026-09-13T13:56:40+09:00",
+    "category": "건강",
+    "status": "모집종료",
+    "title": "자립준비청년 HPV 예방접종 가다실9 지원사업",
+    "region": "서울",
+    "recruitment": {
+      "raw": "2026-06-10 ~ 2026-06-24",
+      "start_date": "2026-06-10",
+      "end_date": "2026-06-24",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "사단법인 야나",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 1194,
+    "tags": [
+      "여성자립준비청년,",
+      "만 27세이상,",
+      "가다실9무료접"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2037",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2037",
+    "crawled_at": "2026-09-13T13:56:19+09:00",
+    "category": "건강",
+    "status": "모집중",
+    "title": "대한적십자사 위생용품 지원사업 언니의 선물",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-04-01 ~ 2026-11-20",
+      "start_date": "2026-04-01",
+      "end_date": "2026-11-20",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "대한적십자사",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 613,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2053",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2053",
+    "crawled_at": "2026-09-13T13:56:09+09:00",
+    "category": "건강",
+    "status": "모집중",
+    "title": "(경상북도자립지원전담기관)종합심리검사 지원사업",
+    "region": "경북",
+    "recruitment": {
+      "raw": "상시 모집",
+      "start_date": null,
+      "end_date": null,
+      "is_evergreen": true
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "경상북도자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 92,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1843",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1843",
+    "crawled_at": "2026-09-13T13:56:52+09:00",
+    "category": "건강",
+    "status": null,
+    "title": "쉬었음 청년 편지쓰기 프로그램 '청년 온기우체부'",
+    "region": "서울",
+    "recruitment": {
+      "raw": "상시 모집",
+      "start_date": null,
+      "end_date": null,
+      "is_evergreen": true
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "사단법인 온기",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 220,
+    "tags": [
+      "쉬었음 청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  }
+]

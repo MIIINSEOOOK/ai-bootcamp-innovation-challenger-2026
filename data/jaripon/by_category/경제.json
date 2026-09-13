@@ -1,0 +1,913 @@
+[
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2090",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2090",
+    "crawled_at": "2026-09-13T13:56:00+09:00",
+    "category": "경제",
+    "status": "모집중",
+    "title": "대전세종충남 청년 금융역량강화 ‘FIN-UP 프로젝트’",
+    "region": "대전 외 (2)",
+    "recruitment": {
+      "raw": "2026-09-01 ~ 2026-09-18",
+      "start_date": "2026-09-01",
+      "end_date": "2026-09-18",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "월드비전",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 125,
+    "tags": [
+      "자립준비청년 우대"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2025",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2025",
+    "crawled_at": "2026-09-13T13:56:20+09:00",
+    "category": "경제",
+    "status": "모집종료",
+    "title": "With 우리 Wealth 프로젝트2 1차 참여자 모집",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-08-06 ~ 2026-09-05",
+      "start_date": "2026-08-06",
+      "end_date": "2026-09-05",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "드림메이커스 사회적협동조합",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 1608,
+    "tags": [
+      "자립준비청년",
+      "니트청년",
+      "은둔고립청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2020",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2020",
+    "crawled_at": "2026-09-13T13:56:20+09:00",
+    "category": "경제",
+    "status": "모집종료",
+    "title": "자립준비청년 소비관리 프로젝트: 고정비를 지켜라",
+    "region": "서울 외 (2)",
+    "recruitment": {
+      "raw": "2026-08-04 ~ 2026-08-07",
+      "start_date": "2026-08-04",
+      "end_date": "2026-08-07",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "행복나눔재단",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 463,
+    "tags": [
+      "자립준비청년"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2032",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2032",
+    "crawled_at": "2026-09-13T13:56:19+09:00",
+    "category": "경제",
+    "status": "모집종료",
+    "title": "'우리 새희망가게' 3차 모집",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-08-03 ~ 2026-08-27",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-27",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "드림메이커스 사회적협동조합",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 539,
+    "tags": [
+      "청년사업자",
+      "청년대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1998",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1998",
+    "crawled_at": "2026-09-13T13:56:27+09:00",
+    "category": "경제",
+    "status": "모집종료",
+    "title": "하나금융그룹 자립준비청년 지원사업",
+    "region": "부산 외 (10)",
+    "recruitment": {
+      "raw": "2026-07-27 ~ 2026-08-23",
+      "start_date": "2026-07-27",
+      "end_date": "2026-08-23",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "세이브더칠드런코리아",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 1440,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1982",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1982",
+    "crawled_at": "2026-09-13T13:56:28+09:00",
+    "category": "경제",
+    "status": "모집종료",
+    "title": "금융투자업권 ISA연계 자립준비청년 지원자 모집",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-07-16 ~ 2026-07-30",
+      "start_date": "2026-07-16",
+      "end_date": "2026-07-30",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "어린이재단 사회공헌협력본부",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 2489,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1968",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1968",
+    "crawled_at": "2026-09-13T13:56:21+09:00",
+    "category": "경제",
+    "status": "모집종료",
+    "title": "2026년도 자립준비청년 대상 재무상담",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-07-14 ~ 2026-08-21",
+      "start_date": "2026-07-14",
+      "end_date": "2026-08-21",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "금융감독원",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 985,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1966",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1966",
+    "crawled_at": "2026-09-13T13:56:29+09:00",
+    "category": "경제",
+    "status": "모집종료",
+    "title": "IM희망펀드 : 메타인지 투자 챌린지",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-07-03 ~ 2026-07-24",
+      "start_date": "2026-07-03",
+      "end_date": "2026-07-24",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "사회복지법인월드비전",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 1472,
+    "tags": [],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1962",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1962",
+    "crawled_at": "2026-09-13T13:56:32+09:00",
+    "category": "경제",
+    "status": "모집종료",
+    "title": "iM희망펀드:메타인지 투자 챌린지",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-07-03 ~ 2026-07-24",
+      "start_date": "2026-07-03",
+      "end_date": "2026-07-24",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "월드비전",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 912,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1983",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1983",
+    "crawled_at": "2026-09-13T13:56:28+09:00",
+    "category": "경제",
+    "status": "모집종료",
+    "title": "“우리 새희망가게” 2차 참여자 모집 안내",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-07-01 ~ 2026-07-28",
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-28",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "드림메이커스 사회적협동조합",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 480,
+    "tags": [
+      "저신용",
+      "저소득",
+      "청년사업자"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1953",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1953",
+    "crawled_at": "2026-09-13T13:56:32+09:00",
+    "category": "경제",
+    "status": "모집종료",
+    "title": "[서울특별시] 자립준비청년 월세·기숙사비 지원",
+    "region": "서울",
+    "recruitment": {
+      "raw": "2026-07-01 ~ 2026-07-10",
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-10",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "서울시자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 401,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1952",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1952",
+    "crawled_at": "2026-09-13T13:56:32+09:00",
+    "category": "경제",
+    "status": "모집종료",
+    "title": "2026 미래드림 장학생",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-07-01 ~ 2026-07-20",
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-20",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "하이랜드미래재단",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 1760,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1924",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1924",
+    "crawled_at": "2026-09-13T13:56:38+09:00",
+    "category": "경제",
+    "status": "모집종료",
+    "title": "한화자산운용과 함께하는 자립청년 금융교육 3기",
+    "region": "서울 외 (1)",
+    "recruitment": {
+      "raw": "2026-06-22 ~ 2026-07-03",
+      "start_date": "2026-06-22",
+      "end_date": "2026-07-03",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "굿네이버스 방화2종합사회복지관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 1029,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1910",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1910",
+    "crawled_at": "2026-09-13T13:56:40+09:00",
+    "category": "경제",
+    "status": "모집종료",
+    "title": "[서울자립지원전담기관] 국제라이온스협회354-A 장학금",
+    "region": "서울",
+    "recruitment": {
+      "raw": "2026-06-16 ~ 2026-06-26",
+      "start_date": "2026-06-16",
+      "end_date": "2026-06-26",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "서울시자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 463,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1908",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1908",
+    "crawled_at": "2026-09-13T13:56:40+09:00",
+    "category": "경제",
+    "status": "모집종료",
+    "title": "[서울자립지원전담기관] 신한카드 아름人 '금융콘서트",
+    "region": "서울",
+    "recruitment": {
+      "raw": "2026-06-10 ~ 2026-08-03",
+      "start_date": "2026-06-10",
+      "end_date": "2026-08-03",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "서울시자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 578,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1898",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1898",
+    "crawled_at": "2026-09-13T13:56:44+09:00",
+    "category": "경제",
+    "status": "모집종료",
+    "title": "카카오뱅크 모두의자립",
+    "region": "서울 외 (2)",
+    "recruitment": {
+      "raw": "2026-06-08 ~ 2026-06-19",
+      "start_date": "2026-06-08",
+      "end_date": "2026-06-19",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "아이들과미래재단",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 1236,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1895",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1895",
+    "crawled_at": "2026-09-13T13:56:44+09:00",
+    "category": "경제",
+    "status": "모집종료",
+    "title": "자립준비청년을 위한 금융교육, 함께 시작해요!",
+    "region": "서울",
+    "recruitment": {
+      "raw": "2026-06-04 ~ 2026-06-21",
+      "start_date": "2026-06-04",
+      "end_date": "2026-06-21",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "제2서울핀테크랩",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 407,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1892",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1892",
+    "crawled_at": "2026-09-13T13:56:44+09:00",
+    "category": "경제",
+    "status": "모집종료",
+    "title": "기아대책 행복한나눔 취약계층 판로지원사업",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-06-02 ~ 2026-06-21",
+      "start_date": "2026-06-02",
+      "end_date": "2026-06-21",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "행복한나눔",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 737,
+    "tags": [],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1872",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1872",
+    "crawled_at": "2026-09-13T13:56:47+09:00",
+    "category": "경제",
+    "status": "모집종료",
+    "title": "두나무넥스트스테퍼즈Ⅱ 「긴급자금 대출지원」 참여자 모집",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-05-20 ~ 2026-06-22",
+      "start_date": "2026-05-20",
+      "end_date": "2026-06-22",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "(사)함께만드는세상(사회연대은행)",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 1061,
+    "tags": [
+      "자립준비청년 우대"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2086",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2086",
+    "crawled_at": "2026-09-13T13:56:03+09:00",
+    "category": "경제",
+    "status": null,
+    "title": "청년사업가 지원사업",
+    "region": "전국",
+    "recruitment": {
+      "raw": "상시 모집",
+      "start_date": null,
+      "end_date": null,
+      "is_evergreen": true
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "드림메이커스 사회적협동조합",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 244,
+    "tags": [
+      "청년사업자"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1995",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1995",
+    "crawled_at": "2026-09-13T13:56:27+09:00",
+    "category": "경제",
+    "status": "모집종료",
+    "title": "자립준비청년 소비관리 프로젝트: 고정비를 지켜라",
+    "region": "서울 외 (2)",
+    "recruitment": {
+      "raw": "상시 모집",
+      "start_date": null,
+      "end_date": null,
+      "is_evergreen": true
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "행복나눔재단",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 516,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1891",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1891",
+    "crawled_at": "2026-09-13T13:56:03+09:00",
+    "category": "경제",
+    "status": null,
+    "title": "자립준비청년 우체국 『만원의행복보험』 무상가입 지원",
+    "region": "전국",
+    "recruitment": {
+      "raw": "상시 모집",
+      "start_date": null,
+      "end_date": null,
+      "is_evergreen": true
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "서울중앙우체국",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 1410,
+    "tags": [],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1831",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1831",
+    "crawled_at": "2026-09-13T13:56:54+09:00",
+    "category": "경제",
+    "status": null,
+    "title": "자립준비청년 우체국 『만원의행복보험』무상가입 지원",
+    "region": "전국",
+    "recruitment": {
+      "raw": "상시 모집",
+      "start_date": null,
+      "end_date": null,
+      "is_evergreen": true
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "서울중앙우체국",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 1129,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1804",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1804",
+    "crawled_at": "2026-09-13T13:57:01+09:00",
+    "category": "경제",
+    "status": null,
+    "title": "금융경제 위기 가정의 맞춤형 금융 솔루션",
+    "region": "전국",
+    "recruitment": {
+      "raw": "상시 모집",
+      "start_date": null,
+      "end_date": null,
+      "is_evergreen": true
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "사단법인 함께하는 사랑밭",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 575,
+    "tags": [
+      "청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  }
+]

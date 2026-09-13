@@ -1,0 +1,228 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "JaripON Support Program",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "source",
+    "source_id",
+    "source_url",
+    "crawled_at",
+    "title",
+    "content_text"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "const": "1.0"
+    },
+    "source": {
+      "type": "string",
+      "const": "jaripon"
+    },
+    "source_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "source_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "crawled_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "category": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "경제",
+        "주거",
+        "진로",
+        "건강",
+        "법률",
+        "기타",
+        null
+      ]
+    },
+    "status": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "모집예정",
+        "모집중",
+        "모집종료",
+        "결과발표",
+        null
+      ]
+    },
+    "title": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "region": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "recruitment": {
+      "type": "object",
+      "properties": {
+        "raw": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "start_date": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date"
+        },
+        "end_date": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date"
+        },
+        "is_evergreen": {
+          "type": "boolean"
+        }
+      }
+    },
+    "application": {
+      "type": "object",
+      "description": "신청 방법/URL. 상세페이지 접근 차단으로 항상 method/url이 null.",
+      "properties": {
+        "method": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "url": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "result": {
+      "type": "object",
+      "description": "결과발표. 상세페이지 접근 차단으로 항상 null.",
+      "properties": {
+        "announcement_date_raw": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "confirmation": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "organization": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "manager_name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "contact": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "view_count": {
+      "type": [
+        "integer",
+        "null"
+      ]
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "content_text": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "상세페이지 본문 전체. 상세페이지 접근이 차단되어 항상 null."
+    },
+    "detail_accessible": {
+      "type": "boolean",
+      "description": "상세페이지에서 실제로 데이터를 가져왔는지 여부. 현재 크롤러는 목록 카드만 수집하므로 항상 false."
+    },
+    "attachments": {
+      "type": "array",
+      "description": "첨부파일 목록. 상세페이지 접근 차단으로 항상 빈 배열.",
+      "items": {
+        "type": "object",
+        "required": [
+          "name",
+          "url"
+        ],
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "images": {
+      "type": "array",
+      "description": "이미지 목록. 상세페이지 접근 차단으로 항상 빈 배열.",
+      "items": {
+        "type": "object",
+        "required": [
+          "url"
+        ],
+        "properties": {
+          "alt": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "url": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}

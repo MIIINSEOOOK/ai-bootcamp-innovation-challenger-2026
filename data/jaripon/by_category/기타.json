@@ -1,0 +1,2612 @@
+[
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2101",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2101",
+    "crawled_at": "2026-09-13T13:56:00+09:00",
+    "category": "기타",
+    "status": "모집중",
+    "title": "STEP-UP 립클래스 제과기능사 자격 취득 과정 모집",
+    "region": "경기",
+    "recruitment": {
+      "raw": "2026-09-09 ~ 2026-09-17",
+      "start_date": "2026-09-09",
+      "end_date": "2026-09-17",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "경기도자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 96,
+    "tags": [
+      "자립준비청년",
+      "보호(연장)아동",
+      "제과기능사자격취득과정모집"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2100",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2100",
+    "crawled_at": "2026-09-13T13:56:00+09:00",
+    "category": "기타",
+    "status": "모집중",
+    "title": "경기도자립지원전담기관 세계문화유산담방 '자립트립' 3차",
+    "region": "경기",
+    "recruitment": {
+      "raw": "2026-09-08 ~ 2026-09-20",
+      "start_date": "2026-09-08",
+      "end_date": "2026-09-20",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "경기도자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 236,
+    "tags": [
+      "자립준비청년",
+      "세계문화유산탐방",
+      "자립트림"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2087",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2087",
+    "crawled_at": "2026-09-13T13:56:03+09:00",
+    "category": "기타",
+    "status": "모집중",
+    "title": "청년의날 맞이, 국회 자립 대담[자립, 무공해]",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-09-07 ~ 2026-09-22",
+      "start_date": "2026-09-07",
+      "end_date": "2026-09-22",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "초록우산 옹호사업본부",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 292,
+    "tags": [
+      "자립전환기청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2085",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2085",
+    "crawled_at": "2026-09-13T13:56:03+09:00",
+    "category": "기타",
+    "status": "모집중",
+    "title": "[온:청년]자립생활에 꼭! 필요한 안부박스를 지원합니다",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-09-04 ~ 2026-09-25",
+      "start_date": "2026-09-04",
+      "end_date": "2026-09-25",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "월드비전",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 519,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2080",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2080",
+    "crawled_at": "2026-09-13T13:56:03+09:00",
+    "category": "기타",
+    "status": "모집중",
+    "title": "추석 명절모임 '한가위에 나타난 토끼를 찾아라!'",
+    "region": "서울 외 (1)",
+    "recruitment": {
+      "raw": "2026-09-02 ~ 2026-09-14",
+      "start_date": "2026-09-02",
+      "end_date": "2026-09-14",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "한사람재단",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 412,
+    "tags": [],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2104",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2104",
+    "crawled_at": "2026-09-13T13:56:00+09:00",
+    "category": "기타",
+    "status": "모집중",
+    "title": "2026년「건강한 한 끼」영양지원 프로그램 참여자 모집",
+    "region": "충남",
+    "recruitment": {
+      "raw": "2026-09-01 ~ 2026-09-30",
+      "start_date": "2026-09-01",
+      "end_date": "2026-09-30",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "충남아동자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 143,
+    "tags": [
+      "자립준비청년대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2093",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2093",
+    "crawled_at": "2026-09-13T13:56:00+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "「마이리얼패밀리」 X 온결 커뮤니티 추석행사",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-09-01 ~ 2026-09-09",
+      "start_date": "2026-09-01",
+      "end_date": "2026-09-09",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "온결",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 225,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2081",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2081",
+    "crawled_at": "2026-09-13T13:56:03+09:00",
+    "category": "기타",
+    "status": "모집중",
+    "title": "추석 때 뭐해? 공연 보고 삼겹살 먹고!",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-09-01 ~ 2026-09-21",
+      "start_date": "2026-09-01",
+      "end_date": "2026-09-21",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "한국고아사랑협회",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 155,
+    "tags": [
+      "자립준비청년",
+      "보호대상아동",
+      "청소년보호시설"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2077",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2077",
+    "crawled_at": "2026-09-13T13:56:08+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "서울숲 전시, 함께할 청년 작가를 찾습니다",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-08-31 ~ 2026-09-11",
+      "start_date": "2026-08-31",
+      "end_date": "2026-09-11",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "한국고아사랑협회",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 284,
+    "tags": [
+      "자립준비청년",
+      "보호대상아동",
+      "청소년보호시설"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2071",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2071",
+    "crawled_at": "2026-09-13T13:56:08+09:00",
+    "category": "기타",
+    "status": "모집중",
+    "title": "[서울자립지원전담기관] 9월 문화힐링 프로그램",
+    "region": "서울",
+    "recruitment": {
+      "raw": "2026-08-28 ~ 2026-09-17",
+      "start_date": "2026-08-28",
+      "end_date": "2026-09-17",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "서울자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 184,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2070",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2070",
+    "crawled_at": "2026-09-13T13:56:08+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "기아대책 마이리얼멘토단과 함께하는 '마이리얼패밀리'",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-08-26 ~ 2026-09-11",
+      "start_date": "2026-08-26",
+      "end_date": "2026-09-11",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "희망친구 기아대책",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 669,
+    "tags": [
+      "자립준비청년"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2067",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2067",
+    "crawled_at": "2026-09-13T13:56:08+09:00",
+    "category": "기타",
+    "status": "모집중",
+    "title": "LBTO 추석명절 행사 초대",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-08-26 ~ 2026-09-14",
+      "start_date": "2026-08-26",
+      "end_date": "2026-09-14",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "사단법인 자립준비청년후원회",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 640,
+    "tags": [],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2065",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2065",
+    "crawled_at": "2026-09-13T13:56:09+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "2026년 9월 자립역량강화교육 체험클래스",
+    "region": "충남",
+    "recruitment": {
+      "raw": "2026-08-25 ~ 2026-09-01",
+      "start_date": "2026-08-25",
+      "end_date": "2026-09-01",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "충남아동자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 147,
+    "tags": [
+      "청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2063",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2063",
+    "crawled_at": "2026-09-13T13:56:09+09:00",
+    "category": "기타",
+    "status": "모집중",
+    "title": "'JB희망의 학습멘토링 4기' 멘토 추가모집 안내",
+    "region": "전북",
+    "recruitment": {
+      "raw": "2026-08-24 ~ 2026-12-31",
+      "start_date": "2026-08-24",
+      "end_date": "2026-12-31",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "전북특별자치도자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 184,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2088",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2088",
+    "crawled_at": "2026-09-13T13:56:03+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "자립준비청년 대상 프로그램 「우리의 온기(도예)」",
+    "region": "서울 외 (2)",
+    "recruitment": {
+      "raw": "2026-08-21 ~ 2026-09-09",
+      "start_date": "2026-08-21",
+      "end_date": "2026-09-09",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "강서구가족센터",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 58,
+    "tags": [
+      "자립준비청년"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2057",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2057",
+    "crawled_at": "2026-09-13T13:56:09+09:00",
+    "category": "기타",
+    "status": "모집중",
+    "title": "2026 보호연장아동 자립지원프로그램(심리, 진로)",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-08-21 ~ 2026-09-30",
+      "start_date": "2026-08-21",
+      "end_date": "2026-09-30",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "인천광역시자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 120,
+    "tags": [
+      "보호연장아동"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2054",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2054",
+    "crawled_at": "2026-09-13T13:56:09+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "자립준비청년 음악활동 자조모임 런런 앙상블 추가모집",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-08-20 ~ 2026-08-30",
+      "start_date": "2026-08-20",
+      "end_date": "2026-08-30",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "홀트아동복지회",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 136,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2047",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2047",
+    "crawled_at": "2026-09-13T13:56:11+09:00",
+    "category": "기타",
+    "status": "모집중",
+    "title": "2026년 [청년의날 페스티벌] 참석자 모집",
+    "region": "충남",
+    "recruitment": {
+      "raw": "2026-08-20 ~ 2026-09-18",
+      "start_date": "2026-08-20",
+      "end_date": "2026-09-18",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "충남아동자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 176,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2061",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2061",
+    "crawled_at": "2026-09-13T13:56:09+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "보호연장아동 자립지원프로그램 체험형 프리",
+    "region": "경기",
+    "recruitment": {
+      "raw": "2026-08-19 ~ 2026-08-31",
+      "start_date": "2026-08-19",
+      "end_date": "2026-08-31",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "경기도자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 212,
+    "tags": [
+      "보호연장아동",
+      "프리다이빙"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2046",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2046",
+    "crawled_at": "2026-09-13T13:56:11+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "AI 활용 교육/ AI를 나만의 비서로 만드는법",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-08-19 ~ 2026-08-21",
+      "start_date": "2026-08-19",
+      "end_date": "2026-08-21",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "사단법인 자립준비청년후원회",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 138,
+    "tags": [],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2041",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2041",
+    "crawled_at": "2026-09-13T13:56:11+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "<보호연장아동 자립체험프로그램>",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-08-15 ~ 2026-08-28",
+      "start_date": "2026-08-15",
+      "end_date": "2026-08-28",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "경상북도자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 210,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2043",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2043",
+    "crawled_at": "2026-09-13T13:56:11+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "[서울자립지원전담기관]문화힐링프로그램 4주차",
+    "region": "서울",
+    "recruitment": {
+      "raw": "2026-08-14 ~ 2026-08-21",
+      "start_date": "2026-08-14",
+      "end_date": "2026-08-21",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "서울시자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 207,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2033",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2033",
+    "crawled_at": "2026-09-13T13:56:19+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "기아대책이 새출발을 응원합니다!(운동화,생필품 구매)",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-08-11 ~ 2026-08-14",
+      "start_date": "2026-08-11",
+      "end_date": "2026-08-14",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "희망친구 기아대책",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 1530,
+    "tags": [
+      "자립준비청년"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2026",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2026",
+    "crawled_at": "2026-09-13T13:56:20+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "2026 보호연장아동 자립지원프로그램 1차 수요조사",
+    "region": "경기",
+    "recruitment": {
+      "raw": "2026-08-10 ~ 2026-08-31",
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-31",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "경기도자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 210,
+    "tags": [
+      "보호연장아동",
+      "경기도자립지원전담기관"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2030",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2030",
+    "crawled_at": "2026-09-13T13:56:19+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "[서울자립지원전담기관]마음충전성장캠프(2회차)",
+    "region": "서울",
+    "recruitment": {
+      "raw": "2026-08-07 ~ 2026-08-17",
+      "start_date": "2026-08-07",
+      "end_date": "2026-08-17",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "서울시자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 299,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2028",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2028",
+    "crawled_at": "2026-09-13T13:56:20+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "<나의 종이인간과 동행하기> 2기 참여자 모집",
+    "region": "서울",
+    "recruitment": {
+      "raw": "2026-08-06 ~ 2026-08-13",
+      "start_date": "2026-08-06",
+      "end_date": "2026-08-13",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "서대문구청",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 238,
+    "tags": [],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2027",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2027",
+    "crawled_at": "2026-09-13T13:56:20+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "인(仁)품 \"자립 빌드업: 리얼 댕집사 라이프\" 편",
+    "region": "인천",
+    "recruitment": {
+      "raw": "2026-08-06 ~ 2026-08-14",
+      "start_date": "2026-08-06",
+      "end_date": "2026-08-14",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "인천광역시자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 174,
+    "tags": [
+      "자립준비청년"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2022",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2022",
+    "crawled_at": "2026-09-13T13:56:20+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "자립준비청년 음악활동 자조모임 런런 앙상블",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-08-05 ~ 2026-08-17",
+      "start_date": "2026-08-05",
+      "end_date": "2026-08-17",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "홀트아동복지회",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 281,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2016",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2016",
+    "crawled_at": "2026-09-13T13:56:20+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "(전북)여성자립준비청년'With HER프로젝트'모집안내",
+    "region": "전북",
+    "recruitment": {
+      "raw": "2026-08-03 ~ 2026-08-17",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-17",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "전북특별자치도자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 179,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2015",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2015",
+    "crawled_at": "2026-09-13T13:56:21+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "[서울자립지원전담기관]8월 문화힐링프로그램(2,3주차)",
+    "region": "서울",
+    "recruitment": {
+      "raw": "2026-08-03 ~ 2026-08-13",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-13",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "서울시자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 133,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2000",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2000",
+    "crawled_at": "2026-09-13T13:56:27+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "2026년 위기가정 지원사업「위기의 순간, 신한과 함께",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-08-03 ~ 2026-08-11",
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-11",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "사회복지법인 굿네이버스",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 526,
+    "tags": [
+      "자립준비청년 우대"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2010",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2010",
+    "crawled_at": "2026-09-13T13:56:21+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "AI 활용 교육 / 인공지능에게 일 잘시키는 방법",
+    "region": "서울 외 (2)",
+    "recruitment": {
+      "raw": "2026-07-30 ~ 2026-08-13",
+      "start_date": "2026-07-30",
+      "end_date": "2026-08-13",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "사단법인 자립준비청년후원회",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 200,
+    "tags": [],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2001",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2001",
+    "crawled_at": "2026-09-13T13:56:21+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "(전북)'JB희망의 학습멘토링4기' 멘토 추가모집안내",
+    "region": "전북",
+    "recruitment": {
+      "raw": "2026-07-29 ~ 2026-08-04",
+      "start_date": "2026-07-29",
+      "end_date": "2026-08-04",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "전북특별자치도자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 109,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2002",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2002",
+    "crawled_at": "2026-09-13T13:56:21+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "2026 경기도자립지원전담기관 세계문화유산탐방 '자립트",
+    "region": "경기",
+    "recruitment": {
+      "raw": "2026-07-28 ~ 2026-08-06",
+      "start_date": "2026-07-28",
+      "end_date": "2026-08-06",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "경기도자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 319,
+    "tags": [
+      "경기도자립준비청년",
+      "자립트립",
+      "세계문화유산탐방"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2011",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2011",
+    "crawled_at": "2026-09-13T13:56:21+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "우리가 꿈꾸던 신혼여행, 첫씬(scene)",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-07-27 ~ 2026-08-10",
+      "start_date": "2026-07-27",
+      "end_date": "2026-08-10",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "청년재단",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 537,
+    "tags": [
+      "청년대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1994",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1994",
+    "crawled_at": "2026-09-13T13:56:27+09:00",
+    "category": "기타",
+    "status": "모집중",
+    "title": "2026 보호연장아동 자립지원프로그램(체험형) 참여자",
+    "region": "경기",
+    "recruitment": {
+      "raw": "2026-07-27 ~ 2026-10-31",
+      "start_date": "2026-07-27",
+      "end_date": "2026-10-31",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "경기도자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 228,
+    "tags": [
+      "보호연장아동",
+      "자립지원프로그램"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1992",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1992",
+    "crawled_at": "2026-09-13T13:56:27+09:00",
+    "category": "기타",
+    "status": "모집중",
+    "title": "(전북) 독서토론멘토링 '청년책빵' 사업 모집 안내",
+    "region": "전북",
+    "recruitment": {
+      "raw": "2026-07-23 ~ 2026-10-30",
+      "start_date": "2026-07-23",
+      "end_date": "2026-10-30",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "전북특별자치도자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 140,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1986",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1986",
+    "crawled_at": "2026-09-13T13:56:28+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "2026년 보호연장아동「자립캠프」추가모집(보호아동대상)",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-07-23 ~ 2026-07-24",
+      "start_date": "2026-07-23",
+      "end_date": "2026-07-24",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "국가아동권리보장원",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 178,
+    "tags": [],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1991",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1991",
+    "crawled_at": "2026-09-13T13:56:27+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "2026년 7월 자립역량강화교육 체험클래스",
+    "region": "충남",
+    "recruitment": {
+      "raw": "2026-07-22 ~ 2026-07-31",
+      "start_date": "2026-07-22",
+      "end_date": "2026-07-31",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "충남아동자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 154,
+    "tags": [
+      "청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1989",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1989",
+    "crawled_at": "2026-09-13T13:56:27+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "(전북)'어쩌다 만난 우리, 영화가 되다' 모집 안내",
+    "region": "전북",
+    "recruitment": {
+      "raw": "2026-07-22 ~ 2026-07-29",
+      "start_date": "2026-07-22",
+      "end_date": "2026-07-29",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "전북특별자치도자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 154,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1984",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1984",
+    "crawled_at": "2026-09-13T13:56:28+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "자립준비청년 대상 프로그램 「우리의 온기」",
+    "region": "서울",
+    "recruitment": {
+      "raw": "2026-07-21 ~ 2026-08-09",
+      "start_date": "2026-07-21",
+      "end_date": "2026-08-09",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "강서구가족센터",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 434,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1979",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1979",
+    "crawled_at": "2026-09-13T13:56:28+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "(전북) 7월 자조모임 '큐링' 진행 안내",
+    "region": "전북",
+    "recruitment": {
+      "raw": "2026-07-15 ~ 2026-07-27",
+      "start_date": "2026-07-15",
+      "end_date": "2026-07-27",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "전북특별자치도자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 158,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1976",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1976",
+    "crawled_at": "2026-09-13T13:56:29+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "2026년 보호연장아동 자립지원프로그램「자립캠프」 2차",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-07-13 ~ 2026-07-19",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-19",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "국가아동권리보장원",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 334,
+    "tags": [],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1974",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1974",
+    "crawled_at": "2026-09-13T13:56:29+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "[전북] '다(多)가치, JUMP!' 모집 안내",
+    "region": "전북",
+    "recruitment": {
+      "raw": "2026-07-13 ~ 2026-07-30",
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-30",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "전북특별자치도자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 223,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1969",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1969",
+    "crawled_at": "2026-09-13T13:56:29+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "'JB희망의 학습멘토링 4기' 멘토 추가모집 안내",
+    "region": "전북",
+    "recruitment": {
+      "raw": "2026-07-08 ~ 2026-07-15",
+      "start_date": "2026-07-08",
+      "end_date": "2026-07-15",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "전북특별자치도자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 243,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1965",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1965",
+    "crawled_at": "2026-09-13T13:56:29+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "2026년 바람개비서포터즈 17기 추가모집 신청안내",
+    "region": "전북",
+    "recruitment": {
+      "raw": "2026-07-06 ~ 2026-07-17",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-17",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "전북특별자치도자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 227,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1964",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1964",
+    "crawled_at": "2026-09-13T13:56:29+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "2026년 청년 지원 사업",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-07-06 ~ 2026-07-22",
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-22",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "KBS강태원복지재단",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 1813,
+    "tags": [
+      "청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1967",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1967",
+    "crawled_at": "2026-09-13T13:56:29+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "2026 유쾌한반란 구멍뒤주 6기 청소년 도전장학생",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-07-01 ~ 2026-07-19",
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-19",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "유쾌한반란",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 826,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1951",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1951",
+    "crawled_at": "2026-09-13T13:56:35+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "2026 하반기 보호연장아동 자립지원프로그램",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-07-01 ~ 2026-07-19",
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-19",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "인천광역시자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 194,
+    "tags": [
+      "보호연장아동"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1950",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1950",
+    "crawled_at": "2026-09-13T13:56:35+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "자기경영 프로젝트 '마이리얼라이프'",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-07-01 ~ 2026-07-17",
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-17",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "희망친구 기아대책",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 500,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1948",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1948",
+    "crawled_at": "2026-09-13T13:56:35+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "2026년 위기가정 지원사업 「위기의 순간, 신한과",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-07-01 ~ 2026-07-13",
+      "start_date": "2026-07-01",
+      "end_date": "2026-07-13",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "사회복지법인 굿네이버스",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 607,
+    "tags": [],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1947",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1947",
+    "crawled_at": "2026-09-13T13:56:35+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "2026 천하제일 고민대회",
+    "region": "충남",
+    "recruitment": {
+      "raw": "2026-06-30 ~ 2026-08-31",
+      "start_date": "2026-06-30",
+      "end_date": "2026-08-31",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "충남아동자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 182,
+    "tags": [],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1940",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1940",
+    "crawled_at": "2026-09-13T13:56:35+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "2026년 보호연장아동 자립지원프로그램 「자립캠프」",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-06-29 ~ 2026-07-12",
+      "start_date": "2026-06-29",
+      "end_date": "2026-07-12",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "국가아동권리보장원",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 853,
+    "tags": [],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1941",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1941",
+    "crawled_at": "2026-09-13T13:56:35+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "[서울자립지원전담기관] 7월 문화힐링프로그램",
+    "region": "서울",
+    "recruitment": {
+      "raw": "2026-06-26 ~ 2026-07-16",
+      "start_date": "2026-06-26",
+      "end_date": "2026-07-16",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "서울시자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 159,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1929",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1929",
+    "crawled_at": "2026-09-13T13:56:37+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "건강권 보장 의식주지원사업 '자립愛:溫(ON)' 모집",
+    "region": "전북",
+    "recruitment": {
+      "raw": "2026-06-23 ~ 2026-06-30",
+      "start_date": "2026-06-23",
+      "end_date": "2026-06-30",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "전북특별자치도자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 180,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1928",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1928",
+    "crawled_at": "2026-09-13T13:56:37+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "♥자립준비청년이 궁금해? – 따밥에서 따박 따박 얘기",
+    "region": "경기",
+    "recruitment": {
+      "raw": "2026-06-22 ~ 2026-07-03",
+      "start_date": "2026-06-22",
+      "end_date": "2026-07-03",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "한국고아사랑협회",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 250,
+    "tags": [
+      "자립준비청년",
+      "보호대상아동"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1919",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1919",
+    "crawled_at": "2026-09-13T13:56:38+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "6월 자조모임 'GOAT' 진행 안내",
+    "region": "전북",
+    "recruitment": {
+      "raw": "2026-06-18 ~ 2026-06-26",
+      "start_date": "2026-06-18",
+      "end_date": "2026-06-26",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "전북특별자치도자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 110,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1915",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1915",
+    "crawled_at": "2026-09-13T13:56:38+09:00",
+    "category": "기타",
+    "status": "모집중",
+    "title": "[서울자립지원전담기관] 보호연장아동 프로그램 문화한걸음",
+    "region": "서울",
+    "recruitment": {
+      "raw": "2026-06-18 ~ 2026-11-30",
+      "start_date": "2026-06-18",
+      "end_date": "2026-11-30",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "서울시자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 264,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1902",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1902",
+    "crawled_at": "2026-09-13T13:56:40+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "[서울자립지원전담기관] 6월 문화힐링프로그램(4주차)",
+    "region": "서울",
+    "recruitment": {
+      "raw": "2026-06-09 ~ 2026-06-27",
+      "start_date": "2026-06-09",
+      "end_date": "2026-06-27",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "서울시자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 180,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1901",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1901",
+    "crawled_at": "2026-09-13T13:56:44+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "'JB희망의 학습멘토링 4기' 멘토 모집",
+    "region": "전북",
+    "recruitment": {
+      "raw": "2026-06-09 ~ 2026-06-18",
+      "start_date": "2026-06-09",
+      "end_date": "2026-06-18",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "전북특별자치도자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 295,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1900",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1900",
+    "crawled_at": "2026-09-13T13:56:44+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "안아드림 멘토링 모집 안내",
+    "region": "전북",
+    "recruitment": {
+      "raw": "2026-06-09 ~ 2026-06-22",
+      "start_date": "2026-06-09",
+      "end_date": "2026-06-22",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "전북특별자치도자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 167,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1899",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1899",
+    "crawled_at": "2026-09-13T13:56:44+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "2026년 6월 자립역량강화교육 체험클래스",
+    "region": "충남",
+    "recruitment": {
+      "raw": "2026-06-05 ~ 2026-06-15",
+      "start_date": "2026-06-05",
+      "end_date": "2026-06-15",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "충남아동자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 111,
+    "tags": [
+      "청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1889",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1889",
+    "crawled_at": "2026-09-13T13:56:44+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "[서울자립지원전담기관] 6월 문화힐링프로그램",
+    "region": "서울",
+    "recruitment": {
+      "raw": "2026-06-01 ~ 2026-06-17",
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-17",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "서울시자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 240,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1838",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1838",
+    "crawled_at": "2026-09-13T13:56:54+09:00",
+    "category": "기타",
+    "status": "모집중",
+    "title": "예비부부를 위한 결혼부케 지원사업 ［블레스 부케］",
+    "region": "전국",
+    "recruitment": {
+      "raw": "2026-05-01 ~ 2027-04-30",
+      "start_date": "2026-05-01",
+      "end_date": "2027-04-30",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "사단법인 야나",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 527,
+    "tags": [],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1791",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1791",
+    "crawled_at": "2026-09-13T13:57:02+09:00",
+    "category": "기타",
+    "status": "모집중",
+    "title": "[서울자립지원전담기관] 보호연장아동 '여행 한걸음'사업",
+    "region": "서울",
+    "recruitment": {
+      "raw": "2026-04-17 ~ 2026-12-31",
+      "start_date": "2026-04-17",
+      "end_date": "2026-12-31",
+      "is_evergreen": false
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "서울시자립지원전담기관",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 753,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "2066",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=2066",
+    "crawled_at": "2026-09-13T13:56:08+09:00",
+    "category": "기타",
+    "status": "모집중",
+    "title": "2026 자립지원 실태조사",
+    "region": "전국",
+    "recruitment": {
+      "raw": "상시 모집",
+      "start_date": null,
+      "end_date": null,
+      "is_evergreen": true
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "보건복지부",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 357,
+    "tags": [],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1993",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1993",
+    "crawled_at": "2026-09-13T13:56:27+09:00",
+    "category": "기타",
+    "status": null,
+    "title": "가정위탁 정책참여단 라온제나 단원모집",
+    "region": "전국",
+    "recruitment": {
+      "raw": "상시 모집",
+      "start_date": null,
+      "end_date": null,
+      "is_evergreen": true
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "국가아동권리보장원",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 275,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1963",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1963",
+    "crawled_at": "2026-09-13T13:56:32+09:00",
+    "category": "기타",
+    "status": "모집종료",
+    "title": "청년을 읽다",
+    "region": "서울 외 (1)",
+    "recruitment": {
+      "raw": "상시 모집",
+      "start_date": null,
+      "end_date": null,
+      "is_evergreen": true
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "행복나눔재단",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 567,
+    "tags": [
+      "자립준비청년 대상"
+    ],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  },
+  {
+    "schema_version": "1.0",
+    "source": "jaripon",
+    "source_id": "1882",
+    "source_url": "https://jaripon.ncrc.or.kr/home/kor/support/projectMng/edit.do?idx=1882",
+    "crawled_at": "2026-09-13T13:56:45+09:00",
+    "category": "기타",
+    "status": null,
+    "title": "2026년 보호연장아동 자립지원 프로그램",
+    "region": "전국",
+    "recruitment": {
+      "raw": "상시 모집",
+      "start_date": null,
+      "end_date": null,
+      "is_evergreen": true
+    },
+    "application": {
+      "method": null,
+      "url": null
+    },
+    "result": {
+      "announcement_date_raw": null,
+      "confirmation": null
+    },
+    "organization": {
+      "name": "국가아동권리보장원",
+      "manager_name": null,
+      "contact": null
+    },
+    "view_count": 452,
+    "tags": [],
+    "content_text": null,
+    "attachments": [],
+    "images": [],
+    "detail_accessible": false
+  }
+]
