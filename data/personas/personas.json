@@ -1,0 +1,6842 @@
+[
+  {
+    "persona_id": "P01",
+    "name": "김도윤",
+    "age": 22,
+    "case_worker": "이하늘 주무관",
+    "independence_status": {
+      "care_exit_date": "2023-02-15",
+      "housing": "자취(월세)",
+      "employment_education": "재직중(제조업 생산직)"
+    },
+    "scenario_type": "정상 유지형",
+    "scenario_note": "안정적으로 자립 생활 유지",
+    "complete_silence": false,
+    "backstory": "보호종료 후 지역 자활센터 연계로 취업에 성공해 1년 넘게 같은 직장에 다니고 있다. 자취방에서 혼자 지내지만 동료들과의 관계도 원만한 편이다.",
+    "daily_logs": [
+      {
+        "date": "2026-07-16",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 221,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-07-17",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 199,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-07-18",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 12,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-07-19",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 201,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-07-20",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 63,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-07-21",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 11,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-07-22",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 113,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-07-23",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 131,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-07-24",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 199,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-07-25",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 239,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-07-26",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 190,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-07-27",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 189,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-07-28",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 176,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-07-29",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-07-30",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 134,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-07-31",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 209,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-01",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 184,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-08-02",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 135,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-03",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 99,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-04",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 185,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-08-05",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 133,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-06",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 225,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-07",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 221,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-08",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 160,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-08-09",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 215,
+        "response_type": "보통",
+        "response_text": "평범한 하루였어요"
+      },
+      {
+        "date": "2026-08-10",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 57,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-11",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 150,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-12",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 96,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-13",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 206,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-14",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 63,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-15",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 28,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-08-16",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 177,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-17",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 198,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-08-18",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 52,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-19",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 140,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-08-20",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 121,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-21",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 84,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-22",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 69,
+        "response_type": "보통",
+        "response_text": "평범한 하루였어요"
+      },
+      {
+        "date": "2026-08-23",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 10,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-24",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 46,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-25",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 218,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-26",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 171,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-27",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 114,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-08-28",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-29",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 224,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-08-30",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 149,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-31",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 14,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-09-01",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 216,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-09-02",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 30,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-09-03",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 31,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-09-04",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 9,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-09-05",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 56,
+        "response_type": "보통",
+        "response_text": "평범한 하루였어요"
+      },
+      {
+        "date": "2026-09-06",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 73,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-09-07",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 230,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-09-08",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 190,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-09-09",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 142,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-09-10",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 70,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-09-11",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 227,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-09-12",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 202,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-09-13",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 226,
+        "response_type": "보통",
+        "response_text": "평범한 하루였어요"
+      }
+    ],
+    "derived_summary": {
+      "period_start": "2026-07-16",
+      "period_end": "2026-09-13",
+      "period_days": 60,
+      "response_rate_overall": 0.97,
+      "response_rate_last_7d": 1.0,
+      "response_rate_prev_7d": 1.0,
+      "response_rate_change_7d": 0.0,
+      "max_consecutive_no_response": 1,
+      "current_consecutive_no_response": 0
+    },
+    "expected_ai_label": "정상",
+    "expected_rationale_example": "최근 7일 응답률 100%로 유지"
+  },
+  {
+    "persona_id": "P02",
+    "name": "이서연",
+    "age": 20,
+    "case_worker": "박준서 주무관",
+    "independence_status": {
+      "care_exit_date": "2024-08-01",
+      "housing": "자립생활관",
+      "employment_education": "재학중(전문대)"
+    },
+    "scenario_type": "정상 유지형",
+    "scenario_note": "학업과 생활 병행이 안정적",
+    "complete_silence": false,
+    "backstory": "시설 퇴소 후 자립생활관에 입주해 학업을 이어가고 있다. 또래 자립준비청년들과 함께 지내며 정서적으로도 안정된 편이다.",
+    "daily_logs": [
+      {
+        "date": "2026-07-16",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-07-17",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 97,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-07-18",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 160,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-07-19",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 210,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-07-20",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 118,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-07-21",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 86,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-07-22",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 50,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-07-23",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 39,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-07-24",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 51,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-07-25",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 237,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-07-26",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 224,
+        "response_type": "보통",
+        "response_text": "평범한 하루였어요"
+      },
+      {
+        "date": "2026-07-27",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 123,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-07-28",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 132,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-07-29",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 235,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-07-30",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 147,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-07-31",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 88,
+        "response_type": "보통",
+        "response_text": "평범한 하루였어요"
+      },
+      {
+        "date": "2026-08-01",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 238,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-08-02",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 148,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-03",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 192,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-04",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-05",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 205,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-08-06",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-07",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 172,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-08",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 239,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-09",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 67,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-08-10",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 199,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-08-11",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 177,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-12",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 191,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-08-13",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 45,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-14",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 155,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-15",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-16",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 162,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-17",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 12,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-18",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 235,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-19",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 126,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-08-20",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 219,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-21",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 204,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-22",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 92,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-23",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 184,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-24",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 13,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-25",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 64,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-26",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 118,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-27",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 207,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-08-28",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 76,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-29",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 109,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-30",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 31,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-31",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 11,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-09-01",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 169,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-09-02",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 113,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-09-03",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 112,
+        "response_type": "보통",
+        "response_text": "평범한 하루였어요"
+      },
+      {
+        "date": "2026-09-04",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 127,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-09-05",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 79,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-09-06",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 180,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-09-07",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 203,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-09-08",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 168,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-09-09",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 6,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-09-10",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-11",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 130,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-09-12",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 123,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-09-13",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 70,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      }
+    ],
+    "derived_summary": {
+      "period_start": "2026-07-16",
+      "period_end": "2026-09-13",
+      "period_days": 60,
+      "response_rate_overall": 0.92,
+      "response_rate_last_7d": 0.86,
+      "response_rate_prev_7d": 1.0,
+      "response_rate_change_7d": -0.14,
+      "max_consecutive_no_response": 1,
+      "current_consecutive_no_response": 0
+    },
+    "expected_ai_label": "정상",
+    "expected_rationale_example": "최근 7일 응답률 100%→86%로 감소"
+  },
+  {
+    "persona_id": "P03",
+    "name": "박지훈",
+    "age": 24,
+    "case_worker": "이하늘 주무관",
+    "independence_status": {
+      "care_exit_date": "2021-11-20",
+      "housing": "친인척 동거",
+      "employment_education": "재직중(계약직 사무보조)"
+    },
+    "scenario_type": "정상 유지형",
+    "scenario_note": "야근 등으로 응답이 가끔 늦지만 전반적으로 안정",
+    "complete_silence": false,
+    "backstory": "이모 댁에서 지내며 계약직으로 근무 중이다. 야근이 잦아 응답이 늦어질 때가 있지만 꾸준히 안부를 전한다.",
+    "daily_logs": [
+      {
+        "date": "2026-07-16",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 338,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-07-17",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 93,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-07-18",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 158,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-07-19",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-07-20",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 137,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-07-21",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 67,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-07-22",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 362,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-07-23",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 428,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-07-24",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 278,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-07-25",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-07-26",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-07-27",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 313,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-07-28",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-07-29",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 257,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-07-30",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 178,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-07-31",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-01",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 417,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-08-02",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 384,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-08-03",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 306,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-08-04",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 94,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-05",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 453,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-06",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 449,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-07",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 202,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-08",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 115,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-09",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-10",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 139,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-08-11",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 130,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-08-12",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 326,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-13",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 377,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-08-14",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 426,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-08-15",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-16",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 233,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-17",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 252,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-18",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 230,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-08-19",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 437,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-20",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-21",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-22",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 212,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-08-23",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 220,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-08-24",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 113,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-08-25",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 127,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-26",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-27",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 407,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-28",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 230,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-29",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-30",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 439,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-31",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 462,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-09-01",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 354,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-09-02",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-03",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 377,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-09-04",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 466,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-09-05",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 208,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-09-06",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-07",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 304,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-09-08",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-09",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 441,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-09-10",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 176,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-09-11",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-12",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 471,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-09-13",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 66,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      }
+    ],
+    "derived_summary": {
+      "period_start": "2026-07-16",
+      "period_end": "2026-09-13",
+      "period_days": 60,
+      "response_rate_overall": 0.75,
+      "response_rate_last_7d": 0.71,
+      "response_rate_prev_7d": 0.71,
+      "response_rate_change_7d": 0.0,
+      "max_consecutive_no_response": 2,
+      "current_consecutive_no_response": 0
+    },
+    "expected_ai_label": "정상",
+    "expected_rationale_example": "최근 7일 응답률 71%로 유지"
+  },
+  {
+    "persona_id": "P04",
+    "name": "최하늘",
+    "age": 19,
+    "case_worker": "박준서 주무관",
+    "independence_status": {
+      "care_exit_date": "2025-01-10",
+      "housing": "자립생활관",
+      "employment_education": "훈련중(직업훈련원 바리스타 과정)"
+    },
+    "scenario_type": "정상 유지형",
+    "scenario_note": "밝고 적극적으로 소통하는 편",
+    "complete_silence": false,
+    "backstory": "바리스타 자격증반을 다니며 카페 창업을 꿈꾸고 있다. 성격이 밝아 안부 메시지에도 적극적으로 응답한다.",
+    "daily_logs": [
+      {
+        "date": "2026-07-16",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 31,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-07-17",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 10,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-07-18",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 142,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-07-19",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 11,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-07-20",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 84,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-07-21",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 91,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-07-22",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 126,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-07-23",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 79,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-07-24",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 113,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-07-25",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 83,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-07-26",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 165,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-07-27",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 177,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-07-28",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 117,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-07-29",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 87,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-07-30",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 20,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-07-31",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 65,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-01",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 15,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-02",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 88,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-08-03",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-04",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 227,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-05",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 233,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-06",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 45,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-07",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 48,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-08-08",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 117,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-08-09",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 20,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-10",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 43,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-11",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 87,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-08-12",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 109,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-13",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 117,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-14",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 68,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-15",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 13,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-08-16",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 202,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-08-17",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 233,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-08-18",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 235,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-19",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 115,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-20",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 173,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-08-21",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 172,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-08-22",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-23",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 76,
+        "response_type": "보통",
+        "response_text": "평범한 하루였어요"
+      },
+      {
+        "date": "2026-08-24",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 163,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-08-25",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 227,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-26",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 108,
+        "response_type": "보통",
+        "response_text": "평범한 하루였어요"
+      },
+      {
+        "date": "2026-08-27",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 45,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-08-28",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 202,
+        "response_type": "보통",
+        "response_text": "평범한 하루였어요"
+      },
+      {
+        "date": "2026-08-29",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 56,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-30",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 148,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-08-31",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 25,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-09-01",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 226,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-09-02",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 201,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-09-03",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 216,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-09-04",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 206,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-09-05",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 224,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-09-06",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 163,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-09-07",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-08",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 203,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-09-09",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 219,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-09-10",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 228,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-09-11",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 91,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-09-12",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 170,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-09-13",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 188,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      }
+    ],
+    "derived_summary": {
+      "period_start": "2026-07-16",
+      "period_end": "2026-09-13",
+      "period_days": 60,
+      "response_rate_overall": 0.95,
+      "response_rate_last_7d": 0.86,
+      "response_rate_prev_7d": 1.0,
+      "response_rate_change_7d": -0.14,
+      "max_consecutive_no_response": 1,
+      "current_consecutive_no_response": 0
+    },
+    "expected_ai_label": "정상",
+    "expected_rationale_example": "최근 7일 응답률 100%→86%로 감소"
+  },
+  {
+    "persona_id": "P05",
+    "name": "정민준",
+    "age": 23,
+    "case_worker": "한소미 주무관",
+    "independence_status": {
+      "care_exit_date": "2022-05-30",
+      "housing": "자취(월세)",
+      "employment_education": "구직중"
+    },
+    "scenario_type": "점진적 악화형",
+    "scenario_note": "반복된 취업 실패로 서서히 무기력해짐",
+    "complete_silence": false,
+    "backstory": "여러 차례 취업에 실패하며 점점 의욕을 잃어가고 있다. 처음에는 꼬박꼬박 응답했지만 최근 들어 응답이 뜸해지고 내용도 부정적으로 변하고 있다.",
+    "daily_logs": [
+      {
+        "date": "2026-07-16",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 50,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-07-17",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 44,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-07-18",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 52,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-07-19",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 57,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-07-20",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 47,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-07-21",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 47,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-07-22",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 76,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-07-23",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-07-24",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-07-25",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 106,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-07-26",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 142,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-07-27",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 136,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-07-28",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 149,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-07-29",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 155,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-07-30",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 155,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-07-31",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 183,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-08-01",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 141,
+        "response_type": "보통",
+        "response_text": "평범한 하루였어요"
+      },
+      {
+        "date": "2026-08-02",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-03",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 188,
+        "response_type": "힘듦",
+        "response_text": "조금 지쳐요"
+      },
+      {
+        "date": "2026-08-04",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 233,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-08-05",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 221,
+        "response_type": "힘듦",
+        "response_text": "요즘 좀 힘드네요"
+      },
+      {
+        "date": "2026-08-06",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-07",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 256,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-08",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 268,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-08-09",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 218,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-08-10",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 222,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-08-11",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 269,
+        "response_type": "힘듦",
+        "response_text": "조금 지쳐요"
+      },
+      {
+        "date": "2026-08-12",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 240,
+        "response_type": "힘듦",
+        "response_text": "요즘 좀 힘드네요"
+      },
+      {
+        "date": "2026-08-13",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 268,
+        "response_type": "보통",
+        "response_text": "평범한 하루였어요"
+      },
+      {
+        "date": "2026-08-14",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-15",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 314,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-08-16",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 325,
+        "response_type": "힘듦",
+        "response_text": "일이 잘 안 풀려요"
+      },
+      {
+        "date": "2026-08-17",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-18",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-19",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-20",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 361,
+        "response_type": "보통",
+        "response_text": "평범한 하루였어요"
+      },
+      {
+        "date": "2026-08-21",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 378,
+        "response_type": "힘듦",
+        "response_text": "조금 지쳐요"
+      },
+      {
+        "date": "2026-08-22",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 380,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-08-23",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-24",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-25",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 382,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-08-26",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 389,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-08-27",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 361,
+        "response_type": "힘듦",
+        "response_text": "잠을 잘 못 잤어요"
+      },
+      {
+        "date": "2026-08-28",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-29",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 441,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-08-30",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 430,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-08-31",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-01",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-02",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-03",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-04",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 449,
+        "response_type": "힘듦",
+        "response_text": "잠을 잘 못 잤어요"
+      },
+      {
+        "date": "2026-09-05",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-06",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-07",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-08",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-09",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-10",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-11",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-12",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-13",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      }
+    ],
+    "derived_summary": {
+      "period_start": "2026-07-16",
+      "period_end": "2026-09-13",
+      "period_days": 60,
+      "response_rate_overall": 0.6,
+      "response_rate_last_7d": 0.0,
+      "response_rate_prev_7d": 0.14,
+      "response_rate_change_7d": -0.14,
+      "max_consecutive_no_response": 9,
+      "current_consecutive_no_response": 9
+    },
+    "expected_ai_label": "훼손 의심",
+    "expected_rationale_example": "최근 7일 응답률 14%→0%로 감소, 9일 연속 미응답"
+  },
+  {
+    "persona_id": "P06",
+    "name": "한소율",
+    "age": 21,
+    "case_worker": "이하늘 주무관",
+    "independence_status": {
+      "care_exit_date": "2023-09-01",
+      "housing": "자취(전세)",
+      "employment_education": "재학중 + 아르바이트"
+    },
+    "scenario_type": "점진적 악화형",
+    "scenario_note": "학업·알바 병행으로 인한 번아웃",
+    "complete_silence": false,
+    "backstory": "학비와 생활비를 벌기 위해 학업과 아르바이트를 병행하다 서서히 지쳐가고 있다.",
+    "daily_logs": [
+      {
+        "date": "2026-07-16",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 15,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-07-17",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 88,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-07-18",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 55,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-07-19",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 98,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-07-20",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 71,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-07-21",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 101,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-07-22",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 87,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-07-23",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 101,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-07-24",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-07-25",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-07-26",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-07-27",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 162,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-07-28",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 161,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-07-29",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 182,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-07-30",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 148,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-07-31",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 198,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-01",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 211,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-08-02",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 198,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-03",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 207,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-04",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-05",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-06",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-07",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 239,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-08-08",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 251,
+        "response_type": "보통",
+        "response_text": "평범한 하루였어요"
+      },
+      {
+        "date": "2026-08-09",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 265,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-10",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 231,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-08-11",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 282,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-12",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-13",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 276,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-14",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 298,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-08-15",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 279,
+        "response_type": "힘듦",
+        "response_text": "일이 잘 안 풀려요"
+      },
+      {
+        "date": "2026-08-16",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-17",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 326,
+        "response_type": "힘듦",
+        "response_text": "생각이 많아지는 요즘이에요"
+      },
+      {
+        "date": "2026-08-18",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 341,
+        "response_type": "힘듦",
+        "response_text": "생각이 많아지는 요즘이에요"
+      },
+      {
+        "date": "2026-08-19",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 365,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-08-20",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-21",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-22",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-23",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-24",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 402,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-08-25",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 389,
+        "response_type": "힘듦",
+        "response_text": "생각이 많아지는 요즘이에요"
+      },
+      {
+        "date": "2026-08-26",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 356,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-27",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 421,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-08-28",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 439,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-08-29",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-30",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-31",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 396,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-09-01",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-02",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 467,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-09-03",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-04",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-05",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-06",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 449,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-09-07",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 514,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-09-08",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-09",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-10",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 483,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-09-11",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 514,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-09-12",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 510,
+        "response_type": "보통",
+        "response_text": "평범한 하루였어요"
+      },
+      {
+        "date": "2026-09-13",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      }
+    ],
+    "derived_summary": {
+      "period_start": "2026-07-16",
+      "period_end": "2026-09-13",
+      "period_days": 60,
+      "response_rate_overall": 0.65,
+      "response_rate_last_7d": 0.57,
+      "response_rate_prev_7d": 0.43,
+      "response_rate_change_7d": 0.14,
+      "max_consecutive_no_response": 4,
+      "current_consecutive_no_response": 1
+    },
+    "expected_ai_label": "관심 필요",
+    "expected_rationale_example": "최근 7일 응답률 43%→57%로 증가"
+  },
+  {
+    "persona_id": "P07",
+    "name": "오지안",
+    "age": 25,
+    "case_worker": "한소미 주무관",
+    "independence_status": {
+      "care_exit_date": "2020-12-01",
+      "housing": "친인척 동거",
+      "employment_education": "재직중(콜센터)"
+    },
+    "scenario_type": "점진적 악화형",
+    "scenario_note": "직장 내 갈등으로 위축",
+    "complete_silence": false,
+    "backstory": "직장에서의 갈등 이후 조금씩 의기소침해지고 있다. 겉으로는 티를 안 내려 하지만 응답 패턴에 변화가 나타나고 있다.",
+    "daily_logs": [
+      {
+        "date": "2026-07-16",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 24,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-07-17",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 25,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-07-18",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 32,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-07-19",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 84,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-07-20",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-07-21",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 54,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-07-22",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-07-23",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 81,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-07-24",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 111,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-07-25",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 105,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-07-26",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 96,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-07-27",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 138,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-07-28",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 129,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-07-29",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 182,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-07-30",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 132,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-07-31",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-01",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-02",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 158,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-08-03",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 220,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-04",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-05",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 182,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-08-06",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 239,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-08-07",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 250,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-08-08",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 235,
+        "response_type": "보통",
+        "response_text": "평범한 하루였어요"
+      },
+      {
+        "date": "2026-08-09",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 271,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-08-10",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 233,
+        "response_type": "힘듦",
+        "response_text": "일이 잘 안 풀려요"
+      },
+      {
+        "date": "2026-08-11",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-12",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-13",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-14",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 269,
+        "response_type": "보통",
+        "response_text": "평범한 하루였어요"
+      },
+      {
+        "date": "2026-08-15",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 334,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-08-16",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 335,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-08-17",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-18",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-19",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-20",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 372,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-08-21",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 361,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-08-22",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 332,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-08-23",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 346,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-08-24",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 361,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-25",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 387,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-26",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 414,
+        "response_type": "힘듦",
+        "response_text": "조금 지쳐요"
+      },
+      {
+        "date": "2026-08-27",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 370,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-08-28",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 389,
+        "response_type": "보통",
+        "response_text": "평범한 하루였어요"
+      },
+      {
+        "date": "2026-08-29",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 446,
+        "response_type": "힘듦",
+        "response_text": "일이 잘 안 풀려요"
+      },
+      {
+        "date": "2026-08-30",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-31",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-01",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-02",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 439,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-09-03",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 444,
+        "response_type": "힘듦",
+        "response_text": "조금 지쳐요"
+      },
+      {
+        "date": "2026-09-04",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-05",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-06",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-07",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-08",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 506,
+        "response_type": "힘듦",
+        "response_text": "잠을 잘 못 잤어요"
+      },
+      {
+        "date": "2026-09-09",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 484,
+        "response_type": "힘듦",
+        "response_text": "생각이 많아지는 요즘이에요"
+      },
+      {
+        "date": "2026-09-10",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 479,
+        "response_type": "힘듦",
+        "response_text": "잠을 잘 못 잤어요"
+      },
+      {
+        "date": "2026-09-11",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 503,
+        "response_type": "보통",
+        "response_text": "평범한 하루였어요"
+      },
+      {
+        "date": "2026-09-12",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-13",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      }
+    ],
+    "derived_summary": {
+      "period_start": "2026-07-16",
+      "period_end": "2026-09-13",
+      "period_days": 60,
+      "response_rate_overall": 0.67,
+      "response_rate_last_7d": 0.57,
+      "response_rate_prev_7d": 0.29,
+      "response_rate_change_7d": 0.29,
+      "max_consecutive_no_response": 4,
+      "current_consecutive_no_response": 2
+    },
+    "expected_ai_label": "관심 필요",
+    "expected_rationale_example": "최근 7일 응답률 29%→57%로 증가, 2일 연속 미응답"
+  },
+  {
+    "persona_id": "P08",
+    "name": "신다은",
+    "age": 20,
+    "case_worker": "박준서 주무관",
+    "independence_status": {
+      "care_exit_date": "2024-03-15",
+      "housing": "자립생활관",
+      "employment_education": "무직"
+    },
+    "scenario_type": "점진적 악화형",
+    "scenario_note": "장기 구직 실패로 고립 심화",
+    "complete_silence": false,
+    "backstory": "구직 기간이 길어지며 점점 방 밖으로 나가지 않는 날이 늘고 있다.",
+    "daily_logs": [
+      {
+        "date": "2026-07-16",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 53,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-07-17",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 77,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-07-18",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 70,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-07-19",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 59,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-07-20",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 86,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-07-21",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-07-22",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 103,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-07-23",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 75,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-07-24",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 90,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-07-25",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 105,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-07-26",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 145,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-07-27",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 110,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-07-28",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 169,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-07-29",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 182,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-07-30",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-07-31",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 163,
+        "response_type": "힘듦",
+        "response_text": "잠을 잘 못 잤어요"
+      },
+      {
+        "date": "2026-08-01",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 144,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-08-02",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-03",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 207,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-08-04",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-05",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 175,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-06",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-07",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 220,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-08-08",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 274,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-08-09",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 221,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-10",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 280,
+        "response_type": "보통",
+        "response_text": "평범한 하루였어요"
+      },
+      {
+        "date": "2026-08-11",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 227,
+        "response_type": "힘듦",
+        "response_text": "잠을 잘 못 잤어요"
+      },
+      {
+        "date": "2026-08-12",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-13",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-14",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 296,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-08-15",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 263,
+        "response_type": "힘듦",
+        "response_text": "일이 잘 안 풀려요"
+      },
+      {
+        "date": "2026-08-16",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 322,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-08-17",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-18",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-19",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 306,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-20",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 357,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-08-21",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-22",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 364,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-08-23",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 341,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-08-24",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-25",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-26",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-27",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-28",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-29",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 406,
+        "response_type": "힘듦",
+        "response_text": "조금 지쳐요"
+      },
+      {
+        "date": "2026-08-30",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-31",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 431,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-09-01",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 440,
+        "response_type": "힘듦",
+        "response_text": "조금 지쳐요"
+      },
+      {
+        "date": "2026-09-02",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-03",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-04",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-05",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-06",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-07",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 501,
+        "response_type": "힘듦",
+        "response_text": "일이 잘 안 풀려요"
+      },
+      {
+        "date": "2026-09-08",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 512,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-09-09",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-10",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-11",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-12",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-13",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      }
+    ],
+    "derived_summary": {
+      "period_start": "2026-07-16",
+      "period_end": "2026-09-13",
+      "period_days": 60,
+      "response_rate_overall": 0.57,
+      "response_rate_last_7d": 0.29,
+      "response_rate_prev_7d": 0.29,
+      "response_rate_change_7d": 0.0,
+      "max_consecutive_no_response": 5,
+      "current_consecutive_no_response": 5
+    },
+    "expected_ai_label": "훼손 의심",
+    "expected_rationale_example": "최근 7일 응답률 29%로 유지, 5일 연속 미응답"
+  },
+  {
+    "persona_id": "P09",
+    "name": "강태오",
+    "age": 22,
+    "case_worker": "한소미 주무관",
+    "independence_status": {
+      "care_exit_date": "2023-06-10",
+      "housing": "자취(월세)",
+      "employment_education": "무직(최근 퇴사)"
+    },
+    "scenario_type": "급격한 단절형",
+    "scenario_note": "갑작스러운 실직 이후 거의 응답 없음",
+    "complete_silence": false,
+    "backstory": "다니던 직장에서 갑자기 퇴사한 이후 연락이 눈에 띄게 줄었다. 드물게 응답이 오지만 대부분은 침묵이다.",
+    "daily_logs": [
+      {
+        "date": "2026-07-16",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 105,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-07-17",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 138,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-07-18",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 167,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-07-19",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 125,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-07-20",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 23,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-07-21",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 108,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-07-22",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 67,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-07-23",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 63,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-07-24",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 11,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-07-25",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 45,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-07-26",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-07-27",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-07-28",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 158,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-07-29",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 31,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-07-30",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 137,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-07-31",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 59,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-01",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 54,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-08-02",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 165,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-08-03",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-04",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 113,
+        "response_type": "보통",
+        "response_text": "평범한 하루였어요"
+      },
+      {
+        "date": "2026-08-05",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 21,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-06",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 32,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-08-07",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 63,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-08",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 165,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-09",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 123,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-10",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 36,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-11",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 153,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-08-12",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 73,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-13",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 34,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-08-14",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 153,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-08-15",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 76,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-16",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-17",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 13,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-18",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 85,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-08-19",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 153,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-20",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 40,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-21",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 108,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-22",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 162,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-08-23",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 22,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-24",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 31,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-25",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 131,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-26",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 54,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-27",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 176,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-28",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 144,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-29",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 86,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-30",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-31",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-01",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 354,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-09-02",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-03",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-04",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-05",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-06",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-07",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-08",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-09",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 493,
+        "response_type": "힘듦",
+        "response_text": "생각이 많아지는 요즘이에요"
+      },
+      {
+        "date": "2026-09-10",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 663,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-09-11",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-12",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-13",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 759,
+        "response_type": "힘듦",
+        "response_text": "조금 지쳐요"
+      }
+    ],
+    "derived_summary": {
+      "period_start": "2026-07-16",
+      "period_end": "2026-09-13",
+      "period_days": 60,
+      "response_rate_overall": 0.75,
+      "response_rate_last_7d": 0.43,
+      "response_rate_prev_7d": 0.14,
+      "response_rate_change_7d": 0.29,
+      "max_consecutive_no_response": 7,
+      "current_consecutive_no_response": 0
+    },
+    "expected_ai_label": "관심 필요",
+    "expected_rationale_example": "최근 7일 응답률 14%→43%로 증가"
+  },
+  {
+    "persona_id": "P10",
+    "name": "윤하람",
+    "age": 24,
+    "case_worker": "이하늘 주무관",
+    "independence_status": {
+      "care_exit_date": "2022-02-20",
+      "housing": "자취(월세)",
+      "employment_education": "무직"
+    },
+    "scenario_type": "급격한 단절형",
+    "scenario_note": "완전 무응답형 — 특정 시점 이후 응답 0건",
+    "complete_silence": true,
+    "backstory": "한동안 잘 지내는 듯했으나 최근 몇 주간 단 한 번도 응답이 없다. 전화도 받지 않아 담당 전담요원이 방문을 고려하고 있다.",
+    "daily_logs": [
+      {
+        "date": "2026-07-16",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 119,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-07-17",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 135,
+        "response_type": "보통",
+        "response_text": "평범한 하루였어요"
+      },
+      {
+        "date": "2026-07-18",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 93,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-07-19",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 45,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-07-20",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 77,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-07-21",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 126,
+        "response_type": "보통",
+        "response_text": "평범한 하루였어요"
+      },
+      {
+        "date": "2026-07-22",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 21,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-07-23",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 87,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-07-24",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 125,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-07-25",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 138,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-07-26",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 18,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-07-27",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 30,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-07-28",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-07-29",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 34,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-07-30",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 116,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-07-31",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 55,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-08-01",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 179,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-02",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 98,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-03",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 21,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-08-04",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 124,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-05",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-06",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 71,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-08-07",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 137,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-08",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 112,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-09",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 109,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-10",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 116,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-08-11",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 22,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-12",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 134,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-13",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-14",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 127,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-15",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 70,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-16",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 160,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-17",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 85,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-18",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 32,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-19",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-20",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 132,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-21",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-22",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-23",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 59,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-24",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-25",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 143,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-26",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 63,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-08-27",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-28",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-29",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-30",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-31",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-01",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-02",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-03",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-04",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-05",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-06",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-07",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-08",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-09",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-10",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-11",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-12",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-13",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      }
+    ],
+    "derived_summary": {
+      "period_start": "2026-07-16",
+      "period_end": "2026-09-13",
+      "period_days": 60,
+      "response_rate_overall": 0.58,
+      "response_rate_last_7d": 0.0,
+      "response_rate_prev_7d": 0.0,
+      "response_rate_change_7d": 0.0,
+      "max_consecutive_no_response": 18,
+      "current_consecutive_no_response": 18
+    },
+    "expected_ai_label": "훼손 의심",
+    "expected_rationale_example": "최근 7일 응답률 0%로 유지, 18일 연속 미응답"
+  },
+  {
+    "persona_id": "P11",
+    "name": "조은우",
+    "age": 19,
+    "case_worker": "박준서 주무관",
+    "independence_status": {
+      "care_exit_date": "2025-02-01",
+      "housing": "자립생활관 퇴소 후 미상",
+      "employment_education": "재학중"
+    },
+    "scenario_type": "급격한 단절형",
+    "scenario_note": "완전 무응답형 — 시설 퇴소 후 연락 두절",
+    "complete_silence": true,
+    "backstory": "자립생활관을 나간 이후 새 거주지를 전담요원에게 알리지 않은 채 연락이 완전히 끊겼다.",
+    "daily_logs": [
+      {
+        "date": "2026-07-16",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 153,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-07-17",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 160,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-07-18",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 57,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-07-19",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 172,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-07-20",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 167,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-07-21",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 26,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-07-22",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 128,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-07-23",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 173,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-07-24",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 177,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-07-25",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 90,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-07-26",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 37,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-07-27",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 14,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-07-28",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 23,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-07-29",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 171,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-07-30",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 95,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-07-31",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 35,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-01",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 153,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-02",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-03",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 108,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-04",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 161,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-05",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 164,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-06",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-07",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 12,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-08-08",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 29,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-09",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 163,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-10",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 160,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-11",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 56,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-08-12",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 73,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-13",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 151,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-14",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 117,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-15",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 75,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-16",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 162,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-17",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-18",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 132,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-19",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 64,
+        "response_type": "보통",
+        "response_text": "평범한 하루였어요"
+      },
+      {
+        "date": "2026-08-20",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 78,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-21",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 82,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-22",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 45,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-08-23",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 143,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-24",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 14,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-08-25",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 18,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-26",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 89,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-27",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-28",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-29",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-30",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-31",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-01",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-02",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-03",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-04",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-05",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-06",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-07",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-08",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-09",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-10",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-11",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-12",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-13",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      }
+    ],
+    "derived_summary": {
+      "period_start": "2026-07-16",
+      "period_end": "2026-09-13",
+      "period_days": 60,
+      "response_rate_overall": 0.65,
+      "response_rate_last_7d": 0.0,
+      "response_rate_prev_7d": 0.0,
+      "response_rate_change_7d": 0.0,
+      "max_consecutive_no_response": 18,
+      "current_consecutive_no_response": 18
+    },
+    "expected_ai_label": "훼손 의심",
+    "expected_rationale_example": "최근 7일 응답률 0%로 유지, 18일 연속 미응답"
+  },
+  {
+    "persona_id": "P12",
+    "name": "임소망",
+    "age": 23,
+    "case_worker": "한소미 주무관",
+    "independence_status": {
+      "care_exit_date": "2021-08-25",
+      "housing": "친인척 동거",
+      "employment_education": "재직중"
+    },
+    "scenario_type": "급격한 단절형",
+    "scenario_note": "가족 갈등 이후 최근 며칠간 급격히 응답 중단(초기 포착 사례)",
+    "complete_silence": false,
+    "backstory": "가족과의 갈등 이후 최근 며칠 새 갑자기 응답이 끊겼다. 아직 기간이 길지는 않아 조기에 포착된 사례다.",
+    "daily_logs": [
+      {
+        "date": "2026-07-16",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 178,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-07-17",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 105,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-07-18",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 68,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-07-19",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-07-20",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 63,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-07-21",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 96,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-07-22",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-07-23",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 33,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-07-24",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 118,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-07-25",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 23,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-07-26",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 117,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-07-27",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 148,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-07-28",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-07-29",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 102,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-07-30",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 74,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-07-31",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 138,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-01",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 16,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-02",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 165,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-03",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 80,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-08-04",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 173,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-05",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 96,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-06",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-07",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 52,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-08",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 66,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-08-09",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-10",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 12,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-08-11",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 102,
+        "response_type": "보통",
+        "response_text": "평범한 하루였어요"
+      },
+      {
+        "date": "2026-08-12",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-08-13",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 173,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-14",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 170,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-15",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 84,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-16",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 141,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-17",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 82,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-18",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 16,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-08-19",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 61,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-20",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 76,
+        "response_type": "보통",
+        "response_text": "그저 그랬어요"
+      },
+      {
+        "date": "2026-08-21",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 113,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-08-22",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 108,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-23",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 17,
+        "response_type": "보통",
+        "response_text": "그냥 그래요"
+      },
+      {
+        "date": "2026-08-24",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 107,
+        "response_type": "보통",
+        "response_text": "특별한 건 없었어요"
+      },
+      {
+        "date": "2026-08-25",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 148,
+        "response_type": "좋음",
+        "response_text": "그럭저럭 괜찮아요"
+      },
+      {
+        "date": "2026-08-26",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 163,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-27",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 114,
+        "response_type": "좋음",
+        "response_text": "네 잘 지내고 있어요!"
+      },
+      {
+        "date": "2026-08-28",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 33,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-08-29",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 178,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-30",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 63,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-08-31",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 180,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-09-01",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-02",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-03",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-04",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 61,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-09-05",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": true,
+        "response_time_minutes": 47,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-09-06",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 109,
+        "response_type": "좋음",
+        "response_text": "오늘도 무난했어요"
+      },
+      {
+        "date": "2026-09-07",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 22,
+        "response_type": "보통",
+        "response_text": "평범한 하루였어요"
+      },
+      {
+        "date": "2026-09-08",
+        "sent": true,
+        "message": "오늘도 잘 지내고 계신가요? 짧게라도 알려주세요.",
+        "responded": true,
+        "response_time_minutes": 111,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-09-09",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 37,
+        "response_type": "좋음",
+        "response_text": "별일 없어요~"
+      },
+      {
+        "date": "2026-09-10",
+        "sent": true,
+        "message": "안녕하세요! 오늘 컨디션은 어떠세요?",
+        "responded": true,
+        "response_time_minutes": 14,
+        "response_type": "좋음",
+        "response_text": "좋아요 :)"
+      },
+      {
+        "date": "2026-09-11",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-12",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      },
+      {
+        "date": "2026-09-13",
+        "sent": true,
+        "message": "오늘 하루 어떻게 보내고 계세요? 편하게 눌러주세요 🙂",
+        "responded": false,
+        "response_time_minutes": null,
+        "response_type": null,
+        "response_text": null
+      }
+    ],
+    "derived_summary": {
+      "period_start": "2026-07-16",
+      "period_end": "2026-09-13",
+      "period_days": 60,
+      "response_rate_overall": 0.8,
+      "response_rate_last_7d": 0.57,
+      "response_rate_prev_7d": 0.57,
+      "response_rate_change_7d": 0.0,
+      "max_consecutive_no_response": 3,
+      "current_consecutive_no_response": 3
+    },
+    "expected_ai_label": "관심 필요",
+    "expected_rationale_example": "최근 7일 응답률 57%로 유지, 3일 연속 미응답"
+  }
+]
