@@ -65,6 +65,12 @@ export const api = {
     return request<YouthDetail>(`/api/youths/${encodeURIComponent(youthId)}`);
   },
 
+  ensureCurrentAnalysis(youthId: string) {
+    return request<AssessmentRecord>(`/api/youths/${encodeURIComponent(youthId)}/analysis/current`, {
+      method: "POST",
+    });
+  },
+
   submitCheckin(payload: {
     youthId: string;
     responseType: string;

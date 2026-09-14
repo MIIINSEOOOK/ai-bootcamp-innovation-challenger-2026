@@ -78,7 +78,7 @@ scripts\smoke-test.bat
 Copy-Item .\backend\.env.example .\backend\.env
 ```
 
-`backend/.env`의 `AI_API_KEY`를 설정하면 `ANALYSIS_MODE=hybrid`에서 규칙과 AI 결과를 함께 사용합니다. 키를 브라우저 코드에 넣지 마세요. 키가 없거나 호출이 실패해도 앱은 `rule-fallback`으로 계속 동작합니다.
+`backend/.env`의 `AI_API_KEY`와 `AI_MODEL`을 설정하면 `ANALYSIS_MODE`(`rule`, `ai`, `hybrid`)에 따라 청년 상세 조회와 수동 재분석을 실행합니다. AI에는 계산 지표와 최근 14일의 응답·기분·자유 메모·응답 시간·일상 체크 항목을 전달합니다. 서버 시작과 청년 응답 저장은 규칙 분석으로 처리하므로, 상세를 열기 전에는 AI 호출 비용이 발생하지 않습니다. `.env` 설정은 서버 프로세스의 같은 이름 환경변수보다 우선합니다. 키를 브라우저 코드에 넣지 마세요. 키가 없거나 호출이 실패해도 앱은 `rule-fallback`으로 계속 동작합니다.
 
 ## 테스트
 

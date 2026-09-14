@@ -56,7 +56,7 @@ def build_store_from_personas(personas_path: Path) -> AppStore:
                     responseTimeMinutes=log.get("response_time_minutes"),
                     responseType=log.get("response_type"),
                     responseText=log.get("response_text"),
-                    followUps=[],
+                    followUps=log.get("follow_ups", []),
                     createdAt=datetime.fromisoformat(f"{log_date}T09:00:00").replace(tzinfo=KST),
                 )
             )

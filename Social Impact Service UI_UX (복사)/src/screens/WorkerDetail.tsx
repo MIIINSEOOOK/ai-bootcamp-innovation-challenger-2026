@@ -57,6 +57,7 @@ export default function WorkerDetail({ youthId, onBack }: Props) {
   const [saving, setSaving] = useState(false);
   const [saved, setSaved] = useState(false);
   const [analyzing, setAnalyzing] = useState(false);
+  const [analysisLoading, setAnalysisLoading] = useState(false);
 
   const load = async () => {
     setLoading(true);
@@ -65,6 +66,11 @@ export default function WorkerDetail({ youthId, onBack }: Props) {
       const detail = await api.getYouth(youthId);
       setData(detail);
       setProcessStatus(detail.caseActions[0]?.status ?? null);
+      setAnalysisLoading(true);
+      void api.ensureCurrentAnalysis(youthId)
+        .then((assessment) => setData((current) => current ? { ...current, assessment } : current))
+        .catch((caught) => setError(errorMessage(caught)))
+        .finally(() => setAnalysisLoading(false));
     } catch (caught) {
       setError(errorMessage(caught));
     } finally {
@@ -99,8 +105,8 @@ export default function WorkerDetail({ youthId, onBack }: Props) {
     setAnalyzing(true);
     setError("");
     try {
-      await api.analyze(youthId);
-      await load();
+      const assessment = await api.analyze(youthId);
+      setData((current) => current ? { ...current, assessment } : current);
     } catch (caught) {
       setError(errorMessage(caught));
     } finally {
@@ -215,10 +221,10 @@ export default function WorkerDetail({ youthId, onBack }: Props) {
             <div className="flex items-start gap-3">
               <div className="w-6 h-6 rounded bg-[#3B6EBE] text-white text-[10px] font-bold flex items-center justify-center flex-shrink-0 mt-0.5">AI</div>
               <div className="flex-1">
-                <div className="flex items-center justify-between mb-2"><h3 className="text-sm font-semibold text-[#1A2340]">판단 근거 상세</h3><span className="text-xs text-slate-400">{assessment.analyzer} · {assessment.analyzerVersion}</span></div>
-                <div className="bg-slate-50 rounded-xl p-3 border border-slate-100"><p className="text-sm text-slate-700 leading-relaxed">{assessment.summary}</p>
+                <div className="mb-2"><h3 className="text-sm font-semibold text-[#1A2340]">판단 근거 상세</h3></div>
+                {analysisLoading ? <div className="bg-slate-50 rounded-xl p-5 border border-slate-100 text-center text-xs text-slate-400">AI 판단 근거를 분석 중입니다...</div> : <div className="bg-slate-50 rounded-xl p-3 border border-slate-100"><p className="text-sm text-slate-700 leading-relaxed">{assessment.summary}</p>
                   {assessment.evidence.length > 0 && <ul className="mt-2 space-y-1">{assessment.evidence.map((item, index) => <li key={`${item.metric}-${index}`} className="text-xs text-slate-500">• {item.description}</li>)}</ul>}
-                </div>
+                </div>}
                 <p className="text-xs text-[#3B6EBE] mt-2">※ 지원 공백 가능성 탐지를 위한 참고 자료입니다. 최종 판단은 전담요원이 합니다.</p>
               </div>
             </div>

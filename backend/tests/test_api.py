@@ -32,6 +32,7 @@ def test_seed_list_detail_search_and_filter(client: TestClient, data_path: Path)
     assert data_path.exists()
     store = AppStore.model_validate_json(data_path.read_text(encoding="utf-8"))
     assert len(store.youths) == 12
+    assert {youth.caseWorker for youth in store.youths} == {"김지연"}
     assert len(store.checkins) == 720
     assert len(store.metrics) == 12
     assert len(store.assessments) == 12
@@ -44,6 +45,11 @@ def test_seed_list_detail_search_and_filter(client: TestClient, data_path: Path)
     assert detail.status_code == 200
     assert detail.json()["youth"]["youthId"] == first["youthId"]
     assert detail.json()["metrics"]["sentCount"] > 0
+    seoyeon = client.get("/api/youths/P02").json()
+    assert seoyeon["checkins"][0]["followUps"]
+    analysis = client.post(f"/api/youths/{first['youthId']}/analysis/current")
+    assert analysis.status_code == 200
+    assert analysis.json()["analyzer"] == "rule"
 
     searched = client.get("/api/youths", params={"query": first["name"]})
     assert len(searched.json()) == 1
@@ -67,6 +73,7 @@ def test_checkin_persists_and_recalculates(client: TestClient, data_path: Path) 
     )
     assert response.status_code == 200
     assert response.json()["checkin"]["responseText"] == "오늘은 조금 편안해요."
+    assert response.json()["checkin"]["followUps"] == ["밥은 잘 챙겨 먹고 있어요"]
 
     detail = client.get("/api/youths/P02").json()
     assert detail["checkins"][0]["date"] == "2026-09-14"

@@ -13,6 +13,7 @@ Thumbs.db
 !**/.env.example
 *.pem
 *.key
+backend/.env
 
 # Node
 node_modules/

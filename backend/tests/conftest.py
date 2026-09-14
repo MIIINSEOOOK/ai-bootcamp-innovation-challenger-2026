@@ -14,7 +14,10 @@ def data_path(tmp_path: Path) -> Path:
 
 
 @pytest.fixture()
-def app(data_path: Path):
+def app(data_path: Path, monkeypatch):
+    monkeypatch.delenv("AI_API_KEY", raising=False)
+    monkeypatch.delenv("OPENAI_API_KEY", raising=False)
+    monkeypatch.setenv("ANALYSIS_MODE", "rule")
     return create_app(data_path=data_path, personas_path=PROJECT_ROOT / "data" / "personas" / "personas.json")
 
 
@@ -22,4 +25,3 @@ def app(data_path: Path):
 def client(app):
     with TestClient(app) as test_client:
         yield test_client
-

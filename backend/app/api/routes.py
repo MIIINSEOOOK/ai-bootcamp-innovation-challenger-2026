@@ -60,6 +60,10 @@ def create_api_router(service: ApplicationService) -> APIRouter:
     def youth_detail(youth_id: str, user: DemoUser = Depends(get_current_user)) -> YouthDetail:
         return service.get_youth_detail(youth_id)
 
+    @router.post("/youths/{youth_id}/analysis/current", response_model=AssessmentRecord)
+    async def current_analysis(youth_id: str, user: DemoUser = Depends(get_current_user)) -> AssessmentRecord:
+        return await service.ensure_current_analysis(youth_id)
+
     @router.get("/youths/{youth_id}/checkins", response_model=list[CheckinRecord])
     def youth_checkins(youth_id: str, user: DemoUser = Depends(get_current_user)) -> list[CheckinRecord]:
         return service.get_checkins(youth_id)

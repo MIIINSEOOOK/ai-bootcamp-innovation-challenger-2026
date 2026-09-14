@@ -72,7 +72,10 @@ class RuleAssessmentEngine:
             evidence.append(
                 EvidenceItem(
                     metric="mood_change",
-                    description="최근 기분 응답이 직전 기간보다 낮아졌습니다.",
+                    description=(
+                        f"최근 7일 기분 평균이 {metrics.previousMoodAverage:.1f}점에서 "
+                        f"{metrics.recentMoodAverage:.1f}점으로 낮아졌습니다."
+                    ),
                     value=metrics.recentMoodAverage,
                     previousValue=metrics.previousMoodAverage,
                 )
@@ -100,7 +103,7 @@ class RuleAssessmentEngine:
 
 
 class OpenAIAssessmentEngine:
-    prompt_version = "1"
+    prompt_version = "2"
 
     def __init__(self, *, api_key: str, model: str):
         self.api_key = api_key
@@ -114,7 +117,11 @@ class OpenAIAssessmentEngine:
             "instructions": (
                 "당신은 자립준비청년의 응답 패턴 변화를 요약하는 보조 분석기입니다. "
                 "의료적 진단이나 확정적 위기 판정을 하지 말고, 정상/관심 필요/훼손 의심 중 하나와 "
-                "전담요원이 확인할 정량적 근거만 반환하세요."
+                "전담요원이 확인할 정량적 근거만 반환하세요. "
+                "evidence는 가장 관련성 높은 1~3개만 반환하고, 각 description은 입력값에 있는 실제 수치와 "
+                "단위를 포함한 완결된 한국어 문장으로 작성하세요. 비교 가능한 값이 있으면 두 값을 함께 쓰세요. "
+                "예: '최근 7일 응답률이 71%에서 0%로 감소했습니다.', '현재 5일 연속 응답이 없습니다.'. "
+                "'최근 7일 응답률'처럼 지표명만 반환하지 마세요."
             ),
             "input": json.dumps(
                 {
@@ -126,6 +133,7 @@ class OpenAIAssessmentEngine:
                             "responseType": item.responseType,
                             "responseText": item.responseText,
                             "responseTimeMinutes": item.responseTimeMinutes,
+                            "followUps": item.followUps,
                         }
                         for item in recent
                     ],
@@ -270,4 +278,3 @@ class AnalysisCoordinator:
             analyzer_version=self.rule_engine.version,
             prompt_version=OpenAIAssessmentEngine.prompt_version,
         )
-

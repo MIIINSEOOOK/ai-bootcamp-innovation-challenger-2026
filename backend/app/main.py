@@ -16,7 +16,7 @@ from app.services.application_service import ApplicationService
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 BACKEND_ROOT = PROJECT_ROOT / "backend"
-load_dotenv(BACKEND_ROOT / ".env")
+load_dotenv(BACKEND_ROOT / ".env", override=True)
 
 
 def create_app(
@@ -59,4 +59,3 @@ def create_app(
 
 
 app = create_app()
-

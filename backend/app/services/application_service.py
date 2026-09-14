@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import os
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from uuid import uuid4
@@ -48,6 +49,11 @@ class ApplicationService:
             if force or youth.youthId not in existing:
                 await self.analyze_youth(youth.youthId, mode="rule")
         return seeded
+
+    @staticmethod
+    def _configured_analysis_mode() -> str:
+        mode = os.getenv("ANALYSIS_MODE", "hybrid").lower()
+        return mode if mode in {"rule", "ai", "hybrid"} else "hybrid"
 
     def _get_youth_or_404(self, store: AppStore, youth_id: str):
         youth = next((item for item in store.youths if item.youthId == youth_id), None)
@@ -100,8 +106,7 @@ class ApplicationService:
         youth = self._get_youth_or_404(store, youth_id)
         metric = self._latest_metric(store, youth_id) or calculate_metrics(youth_id, store.checkins)
         assessment = self._latest_assessment(store, youth_id)
-        if assessment is None:
-            raise HTTPException(status_code=status.HTTP_409_CONFLICT, detail="분석 결과가 아직 준비되지 않았습니다.")
+        assert assessment is not None
         checkins = sorted(
             (item for item in store.checkins if item.youthId == youth_id),
             key=lambda item: (item.date, item.createdAt),
@@ -113,6 +118,15 @@ class ApplicationService:
             reverse=True,
         )
         return YouthDetail(youth=youth, metrics=metric, assessment=assessment, checkins=checkins, caseActions=actions)
+
+    async def ensure_current_analysis(self, youth_id: str) -> AssessmentRecord:
+        store = self.repository.load()
+        self._get_youth_or_404(store, youth_id)
+        assessment = self._latest_assessment(store, youth_id)
+        mode = self._configured_analysis_mode()
+        if assessment is not None and assessment.analyzer == mode:
+            return assessment
+        return await self.analyze_youth(youth_id, mode=mode)
 
     def get_checkins(self, youth_id: str) -> list[CheckinRecord]:
         store = self.repository.load()
@@ -150,7 +164,7 @@ class ApplicationService:
             current.checkins.append(record)
 
         self.repository.transaction(mutate)
-        assessment = await self.analyze_youth(request.youthId)
+        assessment = await self.analyze_youth(request.youthId, mode="rule")
         return record, assessment
 
     async def analyze_youth(self, youth_id: str, *, mode: str | None = None) -> AssessmentRecord:
