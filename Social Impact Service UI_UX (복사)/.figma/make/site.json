@@ -1,0 +1,11 @@
+{
+  "title": "자립동행",
+  "description": "Analyzes daily responses from youth transitioning to independence to detect social safety risks early and alert support workers for timely intervention.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

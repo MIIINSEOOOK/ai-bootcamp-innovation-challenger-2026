@@ -1,0 +1,15 @@
+{
+  "version": "1",
+  "warning": {
+    "maxRecentResponseRate": 59,
+    "minConsecutiveNoResponse": 3,
+    "minResponseRateDrop": 40,
+    "maxMoodChange": -1.0
+  },
+  "alert": {
+    "maxRecentResponseRate": 29,
+    "minConsecutiveNoResponse": 5,
+    "minResponseRateDrop": 65
+  }
+}
+

@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700&display=swap');
+@import 'tailwindcss';
+
+html,
+body,
+#root {
+  height: 100%;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+@theme inline {
+  --color-youth-bg: #FDF6EE;
+  --color-youth-card: #FFFFFF;
+  --color-youth-primary: #6BA8A9;
+  --color-youth-accent: #F4A261;
+  --color-youth-soft: #E8F4F4;
+  --color-youth-muted: #A8C5C6;
+  --color-worker-bg: #F5F7FA;
+  --color-worker-card: #FFFFFF;
+  --color-worker-primary: #3B6EBE;
+  --color-worker-text: #1A2340;
+  --color-status-ok: #4CAF7D;
+  --color-status-warn: #F5A623;
+  --color-status-alert: #E05252;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: transparent transparent;
+}
+*:hover {
+  scrollbar-color: rgba(0,0,0,0.15) transparent;
+}
+
+.hide-scrollbar::-webkit-scrollbar { width: 0; height: 0; }

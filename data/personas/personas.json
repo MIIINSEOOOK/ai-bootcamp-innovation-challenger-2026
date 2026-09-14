@@ -3,7 +3,7 @@
     "persona_id": "P01",
     "name": "김도윤",
     "age": 22,
-    "case_worker": "이하늘 주무관",
+    "case_worker": "김지연",
     "independence_status": {
       "care_exit_date": "2023-02-15",
       "housing": "자취(월세)",
@@ -574,7 +574,7 @@
     "persona_id": "P02",
     "name": "이서연",
     "age": 20,
-    "case_worker": "박준서 주무관",
+    "case_worker": "김지연",
     "independence_status": {
       "care_exit_date": "2024-08-01",
       "housing": "자립생활관",
@@ -1105,7 +1105,8 @@
         "responded": true,
         "response_time_minutes": 130,
         "response_type": "좋음",
-        "response_text": "그럭저럭 괜찮아요"
+        "response_text": "그럭저럭 괜찮아요",
+        "follow_ups": ["밥은 잘 챙겨 먹고 있어요", "잠을 충분히 자고 있어요", "오늘 밖에 나갔어요"]
       },
       {
         "date": "2026-09-12",
@@ -1114,7 +1115,8 @@
         "responded": true,
         "response_time_minutes": 123,
         "response_type": "좋음",
-        "response_text": "별일 없어요~"
+        "response_text": "별일 없어요~",
+        "follow_ups": ["밥은 잘 챙겨 먹고 있어요", "잠을 충분히 자고 있어요", "누군가와 이야기 나눴어요"]
       },
       {
         "date": "2026-09-13",
@@ -1123,7 +1125,8 @@
         "responded": true,
         "response_time_minutes": 70,
         "response_type": "좋음",
-        "response_text": "네 잘 지내고 있어요!"
+        "response_text": "네 잘 지내고 있어요!",
+        "follow_ups": ["밥은 잘 챙겨 먹고 있어요", "오늘 밖에 나갔어요", "누군가와 이야기 나눴어요"]
       }
     ],
     "derived_summary": {
@@ -1145,7 +1148,7 @@
     "persona_id": "P03",
     "name": "박지훈",
     "age": 24,
-    "case_worker": "이하늘 주무관",
+    "case_worker": "김지연",
     "independence_status": {
       "care_exit_date": "2021-11-20",
       "housing": "친인척 동거",
@@ -1716,7 +1719,7 @@
     "persona_id": "P04",
     "name": "최하늘",
     "age": 19,
-    "case_worker": "박준서 주무관",
+    "case_worker": "김지연",
     "independence_status": {
       "care_exit_date": "2025-01-10",
       "housing": "자립생활관",
@@ -2287,7 +2290,7 @@
     "persona_id": "P05",
     "name": "정민준",
     "age": 23,
-    "case_worker": "한소미 주무관",
+    "case_worker": "김지연",
     "independence_status": {
       "care_exit_date": "2022-05-30",
       "housing": "자취(월세)",
@@ -2858,7 +2861,7 @@
     "persona_id": "P06",
     "name": "한소율",
     "age": 21,
-    "case_worker": "이하늘 주무관",
+    "case_worker": "김지연",
     "independence_status": {
       "care_exit_date": "2023-09-01",
       "housing": "자취(전세)",
@@ -3429,7 +3432,7 @@
     "persona_id": "P07",
     "name": "오지안",
     "age": 25,
-    "case_worker": "한소미 주무관",
+    "case_worker": "김지연",
     "independence_status": {
       "care_exit_date": "2020-12-01",
       "housing": "친인척 동거",
@@ -4000,7 +4003,7 @@
     "persona_id": "P08",
     "name": "신다은",
     "age": 20,
-    "case_worker": "박준서 주무관",
+    "case_worker": "김지연",
     "independence_status": {
       "care_exit_date": "2024-03-15",
       "housing": "자립생활관",
@@ -4571,7 +4574,7 @@
     "persona_id": "P09",
     "name": "강태오",
     "age": 22,
-    "case_worker": "한소미 주무관",
+    "case_worker": "김지연",
     "independence_status": {
       "care_exit_date": "2023-06-10",
       "housing": "자취(월세)",
@@ -5142,7 +5145,7 @@
     "persona_id": "P10",
     "name": "윤하람",
     "age": 24,
-    "case_worker": "이하늘 주무관",
+    "case_worker": "김지연",
     "independence_status": {
       "care_exit_date": "2022-02-20",
       "housing": "자취(월세)",
@@ -5713,7 +5716,7 @@
     "persona_id": "P11",
     "name": "조은우",
     "age": 19,
-    "case_worker": "박준서 주무관",
+    "case_worker": "김지연",
     "independence_status": {
       "care_exit_date": "2025-02-01",
       "housing": "자립생활관 퇴소 후 미상",
@@ -6284,7 +6287,7 @@
     "persona_id": "P12",
     "name": "임소망",
     "age": 23,
-    "case_worker": "한소미 주무관",
+    "case_worker": "김지연",
     "independence_status": {
       "care_exit_date": "2021-08-25",
       "housing": "친인척 동거",
