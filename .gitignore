@@ -10,6 +10,7 @@ Thumbs.db
 # Env / secrets
 .env
 .env.*
+!**/.env.example
 *.pem
 *.key
 
@@ -22,9 +23,16 @@ yarn-error.log*
 
 # Python
 __pycache__/
+.pytest_cache/
 *.pyc
 .venv/
 venv/
+
+# Local MVP runtime data
+backend/data/app_data.json
+backend/data/app_data.json.bak
+backend/data/.*.tmp
+backend/.pytest-tmp/
 
 # Java
 *.class
